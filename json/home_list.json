@@ -20,14 +20,14 @@
     "icon": "inventory_2"
   },
   {
-    "title": "Counting long objects",
-    "file_name": "counting_long_objects",
-    "icon": "straighten"
-  },
-  {
     "title": "Counting flat objects",
     "file_name": "counting_flat_objects",
     "icon": "crop_landscape"
+  },
+  {
+    "title": "Counting long objects",
+    "file_name": "counting_long_objects",
+    "icon": "straighten"
   },
   {
     "title": "Counting animals",
@@ -38,6 +38,11 @@
     "title": "Counting birds",
     "file_name": "counting_birds",
     "icon": "flutter_dash"
+  },
+  {
+    "title": "Counting large animals",
+    "file_name": "counting_large_animals",
+    "icon": "agriculture"
   },
   {
     "title": "Counting machines",
@@ -73,5 +78,25 @@
     "title": "Counting occurrences",
     "file_name": "counting_occurrences",
     "icon": "repeat"
+  },
+  {
+    "title": "Counting pairs",
+    "file_name": "counting_pairs",
+    "icon": "hiking"
+  },
+  {
+    "title": "Counting letters",
+    "file_name": "counting_letters",
+    "icon": "mail"
+  },
+  {
+    "title": "Counting order numbers",
+    "file_name": "counting_order_numbers",
+    "icon": "format_list_numbered_rtl"
+  },
+  {
+    "title": "Counting train cars",
+    "file_name": "counting_train_cars",
+    "icon": "train"
   }
 ]
