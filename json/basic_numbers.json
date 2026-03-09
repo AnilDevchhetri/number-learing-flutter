@@ -3,7 +3,7 @@
   "category_title": "Basic Numbers",
   "category_subtitle": "Learn the fundamental Japanese numbers",
   "category_detail": "<b>Basic Japanese Numbers</b><br><br>These numbers are the foundation of counting in Japanese. Before learning counters such as people, animals, floors, or machines, it is very important to memorize the numbers from <b>0 to 10</b>.<br><br><b>How Japanese Numbers Work</b><br>Japanese numbers follow a logical pattern after 10.<br><br><span class=\"example\">11 = 10 + 1</span> <span class=\"romaji\">(じゅういち / juuichi)</span><br><span class=\"example\">12 = 10 + 2</span> <span class=\"romaji\">(じゅうに / juuni)</span><br><span class=\"example\">20 = 2 × 10</span> <span class=\"romaji\">(にじゅう / nijuu)</span><br><br>Once you know the numbers from 1 to 10, you can easily build larger numbers.<br><br><b>Large Numbers</b><br><span class=\"example\">100</span> <span class=\"romaji\">(ひゃく / hyaku)</span><br><span class=\"example\">1000</span> <span class=\"romaji\">(せん / sen)</span><br><span class=\"example\">10000</span> <span class=\"romaji\">(まん / man)</span><br><br>Japanese uses <b>10,000 (万)</b> as a major number unit instead of 1,000 like English.",
-  "item_list": [
+ "item_list": [
   {
     "id": 0,
     "value": "0",
@@ -100,7 +100,7 @@
     "hiragana": "じゅういち",
     "romaji": "juuichi",
     "meaning": "eleven",
-    "description": "Japanese numbers after 10 are formed by combining 10 (じゅう) with another number. 11 = 10 + 1."
+    "description": "11 is formed by combining 10 (じゅう) and 1 (いち)."
   },
   {
     "id": 12,
@@ -110,6 +110,14 @@
     "romaji": "juuni",
     "meaning": "twelve"
   },
+  {
+    "id": 13,
+    "value": "13",
+    "kanji": "十三",
+    "hiragana": "じゅうさん",
+    "romaji": "juusan",
+    "meaning": "thirteen"
+  },
 
   {
     "id": 20,
@@ -118,17 +126,33 @@
     "hiragana": "にじゅう",
     "romaji": "nijuu",
     "meaning": "twenty",
-    "description": "Multiples of 10 are formed by putting a number before 10. 20 = 2 × 10."
+    "description": "Multiples of ten are made by putting a number before 10. 20 = 2 × 10."
   },
-
   {
     "id": 21,
     "value": "21",
     "kanji": "二十一",
     "hiragana": "にじゅういち",
     "romaji": "nijuuichi",
-    "meaning": "twenty-one",
-    "description": "Numbers between tens follow the pattern: 20 + 1 = 21."
+    "meaning": "twenty-one"
+  },
+
+  {
+    "id": 30,
+    "value": "30",
+    "kanji": "三十",
+    "hiragana": "さんじゅう",
+    "romaji": "sanjuu",
+    "meaning": "thirty"
+  },
+
+  {
+    "id": 99,
+    "value": "99",
+    "kanji": "九十九",
+    "hiragana": "きゅうじゅうきゅう",
+    "romaji": "kyuujuukyuu",
+    "meaning": "ninety-nine"
   },
 
   {
@@ -137,8 +161,41 @@
     "kanji": "百",
     "hiragana": "ひゃく",
     "romaji": "hyaku",
-    "meaning": "one hundred",
-    "description": "100 is pronounced ひゃく (hyaku). Larger numbers are built using this base."
+    "meaning": "one hundred"
+  },
+
+  {
+    "id": 300,
+    "value": "300",
+    "kanji": "三百",
+    "hiragana": "さんびゃく",
+    "romaji": "sanbyaku",
+    "meaning": "three hundred",
+    "description": "Some numbers change pronunciation. 300 becomes さんびゃく."
+  },
+  {
+    "id": 500,
+    "value": "500",
+    "kanji": "五百",
+    "hiragana": "ごひゃく",
+    "romaji": "gohyaku",
+    "meaning": "five hundred"
+  },
+  {
+    "id": 600,
+    "value": "600",
+    "kanji": "六百",
+    "hiragana": "ろっぴゃく",
+    "romaji": "roppyaku",
+    "meaning": "six hundred"
+  },
+  {
+    "id": 800,
+    "value": "800",
+    "kanji": "八百",
+    "hiragana": "はっぴゃく",
+    "romaji": "happyaku",
+    "meaning": "eight hundred"
   },
 
   {
@@ -147,8 +204,23 @@
     "kanji": "千",
     "hiragana": "せん",
     "romaji": "sen",
-    "meaning": "one thousand",
-    "description": "1000 is pronounced せん (sen)."
+    "meaning": "one thousand"
+  },
+  {
+    "id": 3000,
+    "value": "3000",
+    "kanji": "三千",
+    "hiragana": "さんぜん",
+    "romaji": "sanzen",
+    "meaning": "three thousand"
+  },
+  {
+    "id": 8000,
+    "value": "8000",
+    "kanji": "八千",
+    "hiragana": "はっせん",
+    "romaji": "hassen",
+    "meaning": "eight thousand"
   },
 
   {
@@ -158,9 +230,8 @@
     "hiragana": "まん",
     "romaji": "man",
     "meaning": "ten thousand",
-    "description": "Japanese uses 万 (10,000) as a major number unit instead of 1,000 like English."
+    "description": "Japanese numbers use 万 (10,000) as a major counting unit."
   },
-
   {
     "id": 100000,
     "value": "100000",
@@ -169,15 +240,13 @@
     "romaji": "juuman",
     "meaning": "one hundred thousand"
   },
-
   {
     "id": 1000000,
     "value": "1000000",
     "kanji": "百万",
     "hiragana": "ひゃくまん",
     "romaji": "hyakuman",
-    "meaning": "one million",
-    "description": "Large Japanese numbers continue using 万 (10,000) units. For example: 1,000,000 = 100 × 10,000."
+    "meaning": "one million"
   }
 ]
 }
