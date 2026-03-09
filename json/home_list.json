@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Basic numbers",
+    "file_name": "basic_numbers",
+    "icon": "numbers"
+  },
+  {
+    "title": "Counting numbers",
+    "file_name": "counting_numbers",
+    "icon": "format_list_numbered"
+  },
+  {
+    "title": "Money numbers",
+    "file_name": "money_numbers",
+    "icon": "attach_money"
+  },
+  {
+    "title": "Time numbers",
+    "file_name": "time_numbers",
+    "icon": "schedule"
+  },
+  {
+    "title": "Date numbers",
+    "file_name": "date_numbers",
+    "icon": "calendar_today"
+  },
+  {
+    "title": "Phone numbers",
+    "file_name": "phone_numbers",
+    "icon": "phone"
+  },
+  {
+    "title": "Address numbers",
+    "file_name": "address_numbers",
+    "icon": "location_on"
+  },
+  {
+    "title": "Floor numbers",
+    "file_name": "floor_numbers",
+    "icon": "apartment"
+  },
+  {
+    "title": "Room numbers",
+    "file_name": "room_numbers",
+    "icon": "meeting_room"
+  },
+  {
+    "title": "Machine numbers",
+    "file_name": "machine_numbers",
+    "icon": "precision_manufacturing"
+  },
+  {
+    "title": "Order numbers",
+    "file_name": "order_numbers",
+    "icon": "receipt_long"
+  },
+  {
+    "title": "Page numbers",
+    "file_name": "page_numbers",
+    "icon": "menu_book"
+  },
+  {
+    "title": "Bus numbers",
+    "file_name": "bus_numbers",
+    "icon": "directions_bus"
+  },
+  {
+    "title": "Train numbers",
+    "file_name": "train_numbers",
+    "icon": "train"
+  },
+  {
+    "title": "Score numbers",
+    "file_name": "score_numbers",
+    "icon": "sports_score"
+  }
+]
