@@ -1,0 +1,183 @@
+{
+  "category_id": "basic_numbers",
+  "category_title": "Basic Numbers",
+  "category_subtitle": "Learn the fundamental Japanese numbers",
+  "category_detail": "<b>Basic Japanese Numbers</b><br><br>These numbers are the foundation of counting in Japanese. Before learning counters such as people, animals, floors, or machines, it is very important to memorize the numbers from <b>0 to 10</b>.<br><br><b>How Japanese Numbers Work</b><br>Japanese numbers follow a logical pattern after 10.<br><br><span class=\"example\">11 = 10 + 1</span> <span class=\"romaji\">(じゅういち / juuichi)</span><br><span class=\"example\">12 = 10 + 2</span> <span class=\"romaji\">(じゅうに / juuni)</span><br><span class=\"example\">20 = 2 × 10</span> <span class=\"romaji\">(にじゅう / nijuu)</span><br><br>Once you know the numbers from 1 to 10, you can easily build larger numbers.<br><br><b>Large Numbers</b><br><span class=\"example\">100</span> <span class=\"romaji\">(ひゃく / hyaku)</span><br><span class=\"example\">1000</span> <span class=\"romaji\">(せん / sen)</span><br><span class=\"example\">10000</span> <span class=\"romaji\">(まん / man)</span><br><br>Japanese uses <b>10,000 (万)</b> as a major number unit instead of 1,000 like English.",
+  "item_list": [
+  {
+    "id": 0,
+    "value": "0",
+    "kanji": "零",
+    "hiragana": "れい / ゼロ",
+    "romaji": "rei / zero",
+    "meaning": "zero"
+  },
+  {
+    "id": 1,
+    "value": "1",
+    "kanji": "一",
+    "hiragana": "いち",
+    "romaji": "ichi",
+    "meaning": "one"
+  },
+  {
+    "id": 2,
+    "value": "2",
+    "kanji": "二",
+    "hiragana": "に",
+    "romaji": "ni",
+    "meaning": "two"
+  },
+  {
+    "id": 3,
+    "value": "3",
+    "kanji": "三",
+    "hiragana": "さん",
+    "romaji": "san",
+    "meaning": "three"
+  },
+  {
+    "id": 4,
+    "value": "4",
+    "kanji": "四",
+    "hiragana": "よん / し",
+    "romaji": "yon / shi",
+    "meaning": "four"
+  },
+  {
+    "id": 5,
+    "value": "5",
+    "kanji": "五",
+    "hiragana": "ご",
+    "romaji": "go",
+    "meaning": "five"
+  },
+  {
+    "id": 6,
+    "value": "6",
+    "kanji": "六",
+    "hiragana": "ろく",
+    "romaji": "roku",
+    "meaning": "six"
+  },
+  {
+    "id": 7,
+    "value": "7",
+    "kanji": "七",
+    "hiragana": "なな / しち",
+    "romaji": "nana / shichi",
+    "meaning": "seven"
+  },
+  {
+    "id": 8,
+    "value": "8",
+    "kanji": "八",
+    "hiragana": "はち",
+    "romaji": "hachi",
+    "meaning": "eight"
+  },
+  {
+    "id": 9,
+    "value": "9",
+    "kanji": "九",
+    "hiragana": "きゅう / く",
+    "romaji": "kyuu / ku",
+    "meaning": "nine"
+  },
+  {
+    "id": 10,
+    "value": "10",
+    "kanji": "十",
+    "hiragana": "じゅう",
+    "romaji": "juu",
+    "meaning": "ten"
+  },
+
+  {
+    "id": 11,
+    "value": "11",
+    "kanji": "十一",
+    "hiragana": "じゅういち",
+    "romaji": "juuichi",
+    "meaning": "eleven",
+    "description": "Japanese numbers after 10 are formed by combining 10 (じゅう) with another number. 11 = 10 + 1."
+  },
+  {
+    "id": 12,
+    "value": "12",
+    "kanji": "十二",
+    "hiragana": "じゅうに",
+    "romaji": "juuni",
+    "meaning": "twelve"
+  },
+
+  {
+    "id": 20,
+    "value": "20",
+    "kanji": "二十",
+    "hiragana": "にじゅう",
+    "romaji": "nijuu",
+    "meaning": "twenty",
+    "description": "Multiples of 10 are formed by putting a number before 10. 20 = 2 × 10."
+  },
+
+  {
+    "id": 21,
+    "value": "21",
+    "kanji": "二十一",
+    "hiragana": "にじゅういち",
+    "romaji": "nijuuichi",
+    "meaning": "twenty-one",
+    "description": "Numbers between tens follow the pattern: 20 + 1 = 21."
+  },
+
+  {
+    "id": 100,
+    "value": "100",
+    "kanji": "百",
+    "hiragana": "ひゃく",
+    "romaji": "hyaku",
+    "meaning": "one hundred",
+    "description": "100 is pronounced ひゃく (hyaku). Larger numbers are built using this base."
+  },
+
+  {
+    "id": 1000,
+    "value": "1000",
+    "kanji": "千",
+    "hiragana": "せん",
+    "romaji": "sen",
+    "meaning": "one thousand",
+    "description": "1000 is pronounced せん (sen)."
+  },
+
+  {
+    "id": 10000,
+    "value": "10000",
+    "kanji": "万",
+    "hiragana": "まん",
+    "romaji": "man",
+    "meaning": "ten thousand",
+    "description": "Japanese uses 万 (10,000) as a major number unit instead of 1,000 like English."
+  },
+
+  {
+    "id": 100000,
+    "value": "100000",
+    "kanji": "十万",
+    "hiragana": "じゅうまん",
+    "romaji": "juuman",
+    "meaning": "one hundred thousand"
+  },
+
+  {
+    "id": 1000000,
+    "value": "1000000",
+    "kanji": "百万",
+    "hiragana": "ひゃくまん",
+    "romaji": "hyakuman",
+    "meaning": "one million",
+    "description": "Large Japanese numbers continue using 万 (10,000) units. For example: 1,000,000 = 100 × 10,000."
+  }
+]
+}
