@@ -187,6 +187,7 @@
     "kanji": "六百",
     "hiragana": "ろっぴゃく",
     "romaji": "roppyaku",
+    "description": "Some numbers change pronunciation with 百 (ひゃく). 600 becomes ろっぴゃく (roppyaku) instead of ろくひゃく.",
     "meaning": "six hundred"
   },
   {
@@ -194,6 +195,7 @@
     "value": "800",
     "kanji": "八百",
     "hiragana": "はっぴゃく",
+    "description": "Some numbers change pronunciation with 百 (ひゃく). 800 becomes はっぴゃく (happyaku) instead of はちひゃく.",
     "romaji": "happyaku",
     "meaning": "eight hundred"
   },
