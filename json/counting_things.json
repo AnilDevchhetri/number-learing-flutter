@@ -1,0 +1,98 @@
+{
+  "category_id": "counting_things",
+  "category_title": "Counting Things (つ)",
+  "category_subtitle": "Learn the basic Japanese counter for general things",
+  "category_detail": "<b>Counting Things with 「つ」</b><br><br>In Japanese, the counter <b>「つ」</b> is used to count general things when you do not know the specific counter or when speaking in a simple, natural way.<br><br>This is one of the most important beginner counters because it can be used for many everyday objects.<br><br><b>Important Rule</b><br>The 「つ」 counter is mainly used only from <b>1 to 10</b>.<br><br>After 10, Japanese usually does <b>not</b> continue using the same 「つ」 pattern. Instead, speakers often use a more specific counter such as <b>個 (ko)</b> depending on the object being counted.<br><br><span class=\"example\">1つ</span> <span class=\"romaji\">(ひとつ / hitotsu)</span><br><span class=\"example\">2つ</span> <span class=\"romaji\">(ふたつ / futatsu)</span><br><span class=\"example\">3つ</span> <span class=\"romaji\">(みっつ / mittsu)</span><br><span class=\"example\">10</span> <span class=\"romaji\">(とお / too)</span><br><br><b>Examples after 10</b><br><span class=\"example\">11個</span> <span class=\"romaji\">(じゅういっこ / juuikko)</span><br><span class=\"example\">12個</span> <span class=\"romaji\">(じゅうにこ / juuniko)</span><br><br>So this category focuses on the standard and natural 「つ」 forms from 1 to 10.",
+  "item_list": [
+    {
+      "id": 1,
+      "value": "1",
+      "kanji": "一つ",
+      "hiragana": "ひとつ",
+      "romaji": "hitotsu",
+      "meaning": "one thing",
+      "description": "Used to count one general object when the specific counter is unknown."
+    },
+    {
+      "id": 2,
+      "value": "2",
+      "kanji": "二つ",
+      "hiragana": "ふたつ",
+      "romaji": "futatsu",
+      "meaning": "two things",
+      "description": "Used to count two general objects."
+    },
+    {
+      "id": 3,
+      "value": "3",
+      "kanji": "三つ",
+      "hiragana": "みっつ",
+      "romaji": "mittsu",
+      "meaning": "three things",
+      "description": "Used to count three general objects."
+    },
+    {
+      "id": 4,
+      "value": "4",
+      "kanji": "四つ",
+      "hiragana": "よっつ",
+      "romaji": "yottsu",
+      "meaning": "four things",
+      "description": "Used to count four general objects."
+    },
+    {
+      "id": 5,
+      "value": "5",
+      "kanji": "五つ",
+      "hiragana": "いつつ",
+      "romaji": "itsutsu",
+      "meaning": "five things",
+      "description": "Used to count five general objects."
+    },
+    {
+      "id": 6,
+      "value": "6",
+      "kanji": "六つ",
+      "hiragana": "むっつ",
+      "romaji": "muttsu",
+      "meaning": "six things",
+      "description": "Used to count six general objects."
+    },
+    {
+      "id": 7,
+      "value": "7",
+      "kanji": "七つ",
+      "hiragana": "ななつ",
+      "romaji": "nanatsu",
+      "meaning": "seven things",
+      "description": "Used to count seven general objects."
+    },
+    {
+      "id": 8,
+      "value": "8",
+      "kanji": "八つ",
+      "hiragana": "やっつ",
+      "romaji": "yattsu",
+      "meaning": "eight things",
+      "description": "Used to count eight general objects."
+    },
+    {
+      "id": 9,
+      "value": "9",
+      "kanji": "九つ",
+      "hiragana": "ここのつ",
+      "romaji": "kokonotsu",
+      "meaning": "nine things",
+      "description": "Used to count nine general objects."
+    },
+    {
+      "id": 10,
+      "value": "10",
+      "kanji": "十",
+      "hiragana": "とお",
+      "romaji": "too",
+      "meaning": "ten things",
+      "description": "Ten things is read as とお and is the last standard form in the 「つ」 counting pattern."
+    }
+  ]
+}
