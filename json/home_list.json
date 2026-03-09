@@ -5,73 +5,73 @@
     "icon": "numbers"
   },
   {
-    "title": "Counting numbers",
-    "file_name": "counting_numbers",
+    "title": "Counting things (つ)",
+    "file_name": "counting_things",
     "icon": "format_list_numbered"
   },
   {
-    "title": "Money numbers",
-    "file_name": "money_numbers",
-    "icon": "attach_money"
+    "title": "Counting people",
+    "file_name": "counting_people",
+    "icon": "groups"
   },
   {
-    "title": "Time numbers",
-    "file_name": "time_numbers",
-    "icon": "schedule"
+    "title": "Counting small items",
+    "file_name": "counting_small_items",
+    "icon": "inventory_2"
   },
   {
-    "title": "Date numbers",
-    "file_name": "date_numbers",
-    "icon": "calendar_today"
+    "title": "Counting long objects",
+    "file_name": "counting_long_objects",
+    "icon": "straighten"
   },
   {
-    "title": "Phone numbers",
-    "file_name": "phone_numbers",
-    "icon": "phone"
+    "title": "Counting flat objects",
+    "file_name": "counting_flat_objects",
+    "icon": "crop_landscape"
   },
   {
-    "title": "Address numbers",
-    "file_name": "address_numbers",
-    "icon": "location_on"
+    "title": "Counting animals",
+    "file_name": "counting_animals",
+    "icon": "pets"
   },
   {
-    "title": "Floor numbers",
-    "file_name": "floor_numbers",
-    "icon": "apartment"
+    "title": "Counting birds",
+    "file_name": "counting_birds",
+    "icon": "flutter_dash"
   },
   {
-    "title": "Room numbers",
-    "file_name": "room_numbers",
-    "icon": "meeting_room"
-  },
-  {
-    "title": "Machine numbers",
-    "file_name": "machine_numbers",
+    "title": "Counting machines",
+    "file_name": "counting_machines",
     "icon": "precision_manufacturing"
   },
   {
-    "title": "Order numbers",
-    "file_name": "order_numbers",
-    "icon": "receipt_long"
-  },
-  {
-    "title": "Page numbers",
-    "file_name": "page_numbers",
+    "title": "Counting books",
+    "file_name": "counting_books",
     "icon": "menu_book"
   },
   {
-    "title": "Bus numbers",
-    "file_name": "bus_numbers",
-    "icon": "directions_bus"
+    "title": "Counting floors",
+    "file_name": "counting_floors",
+    "icon": "apartment"
   },
   {
-    "title": "Train numbers",
-    "file_name": "train_numbers",
-    "icon": "train"
+    "title": "Counting houses",
+    "file_name": "counting_houses",
+    "icon": "home"
   },
   {
-    "title": "Score numbers",
-    "file_name": "score_numbers",
-    "icon": "sports_score"
+    "title": "Counting cups",
+    "file_name": "counting_cups",
+    "icon": "local_cafe"
+  },
+  {
+    "title": "Counting clothes",
+    "file_name": "counting_clothes",
+    "icon": "checkroom"
+  },
+  {
+    "title": "Counting occurrences",
+    "file_name": "counting_occurrences",
+    "icon": "repeat"
   }
 ]
