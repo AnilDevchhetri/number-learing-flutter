@@ -1,0 +1,177 @@
+{
+  "category_id": "counting_people",
+  "category_title": "Counting People",
+  "category_subtitle": "Learn how to count people in Japanese using 人",
+  "category_detail": "<b>Counting People in Japanese</b><br><br>In Japanese, people are counted with the counter <b>「人」</b>.<br><br>This counter is very important because it is used in daily conversation when talking about the number of people, family members, guests, students, workers, and more.<br><br><b>Important Reading Rules</b><br>The first two numbers are irregular and must be memorized:<br><span class=\"example\">1人</span> <span class=\"romaji\">(ひとり / hitori)</span><br><span class=\"example\">2人</span> <span class=\"romaji\">(ふたり / futari)</span><br><br>From <b>3 people and above</b>, Japanese usually follows the number + <b>にん (nin)</b> pattern:<br><span class=\"example\">3人</span> <span class=\"romaji\">(さんにん / sannin)</span><br><span class=\"example\">4人</span> <span class=\"romaji\">(よにん / yonin)</span><br><span class=\"example\">5人</span> <span class=\"romaji\">(ごにん / gonin)</span><br><br><b>Common Mistakes</b><br><span class=\"example\">4人</span> is usually read <b>よにん (yonin)</b>, not しにん, because しにん can also mean \"dead person.\"<br><br><span class=\"example\">7人</span> can be heard as <b>しちにん (shichinin)</b> in some contexts, but <b>ななにん (nananin)</b> is very common and easier for learners.<br><span class=\"example\">9人</span> is normally <b>きゅうにん (kyuunin)</b>, not くにん.<br><br>This category focuses on the most natural and useful readings for learners.",
+  "item_list": [
+    {
+      "id": 1,
+      "value": "1",
+      "kanji": "一人",
+      "hiragana": "ひとり",
+      "romaji": "hitori",
+      "meaning": "one person",
+      "description": "This is an irregular reading and must be memorized."
+    },
+    {
+      "id": 2,
+      "value": "2",
+      "kanji": "二人",
+      "hiragana": "ふたり",
+      "romaji": "futari",
+      "meaning": "two people",
+      "description": "This is an irregular reading and must be memorized."
+    },
+    {
+      "id": 3,
+      "value": "3",
+      "kanji": "三人",
+      "hiragana": "さんにん",
+      "romaji": "sannin",
+      "meaning": "three people",
+       "description": "After 3 people, the pattern usually follows number + にん."
+    },
+    {
+      "id": 4,
+      "value": "4",
+      "kanji": "四人",
+      "hiragana": "よにん",
+      "romaji": "yonin",
+      "meaning": "four people",
+      "description": "よにん is the standard reading. しにん is avoided because it can also mean dead person."
+    },
+    {
+      "id": 5,
+      "value": "5",
+      "kanji": "五人",
+      "hiragana": "ごにん",
+      "romaji": "gonin",
+      "meaning": "five people"
+    },
+    {
+      "id": 6,
+      "value": "6",
+      "kanji": "六人",
+      "hiragana": "ろくにん",
+      "romaji": "rokunin",
+      "meaning": "six people"
+    },
+    {
+      "id": 7,
+      "value": "7",
+      "kanji": "七人",
+      "hiragana": "ななにん / しちにん",
+      "romaji": "nananin / shichinin",
+      "meaning": "seven people",
+      "description": "ななにん is very common in daily speech. しちにん is also possible."
+    },
+    {
+      "id": 8,
+      "value": "8",
+      "kanji": "八人",
+      "hiragana": "はちにん",
+      "romaji": "hachinin",
+      "meaning": "eight people"
+    },
+    {
+      "id": 9,
+      "value": "9",
+      "kanji": "九人",
+      "hiragana": "きゅうにん",
+      "romaji": "kyuunin",
+      "meaning": "nine people",
+      "description": "きゅうにん is the standard reading."
+    },
+    {
+      "id": 10,
+      "value": "10",
+      "kanji": "十人",
+      "hiragana": "じゅうにん",
+      "romaji": "juunin",
+      "meaning": "ten people"
+    },
+    {
+      "id": 11,
+      "value": "11",
+      "kanji": "十一人",
+      "hiragana": "じゅういちにん",
+      "romaji": "juuichinin",
+      "meaning": "eleven people",
+     
+    },
+    {
+      "id": 12,
+      "value": "12",
+      "kanji": "十二人",
+      "hiragana": "じゅうににん",
+      "romaji": "juuninin",
+      "meaning": "twelve people"
+    },
+    {
+      "id": 13,
+      "value": "13",
+      "kanji": "十三人",
+      "hiragana": "じゅうさんにん",
+      "romaji": "juusannin",
+      "meaning": "thirteen people"
+    },
+    {
+      "id": 14,
+      "value": "14",
+      "kanji": "十四人",
+      "hiragana": "じゅうよにん / じゅうしにん",
+      "romaji": "juuyonin / juushinin",
+      "meaning": "fourteen people",
+      "description": "じゅうよにん is more natural and safer for learners. じゅうしにん may also be heard."
+    },
+    {
+      "id": 15,
+      "value": "15",
+      "kanji": "十五人",
+      "hiragana": "じゅうごにん",
+      "romaji": "juugonin",
+      "meaning": "fifteen people"
+    },
+    {
+      "id": 16,
+      "value": "16",
+      "kanji": "十六人",
+      "hiragana": "じゅうろくにん",
+      "romaji": "juurokunin",
+      "meaning": "sixteen people"
+    },
+    {
+      "id": 17,
+      "value": "17",
+      "kanji": "十七人",
+      "hiragana": "じゅうななにん / じゅうしちにん",
+      "romaji": "juunananin / juushichinin",
+      "meaning": "seventeen people",
+      "description": "じゅうななにん is very common. じゅうしちにん is also possible."
+    },
+    {
+      "id": 18,
+      "value": "18",
+      "kanji": "十八人",
+      "hiragana": "じゅうはちにん",
+      "romaji": "juuhachinin",
+      "meaning": "eighteen people"
+    },
+    {
+      "id": 19,
+      "value": "19",
+      "kanji": "十九人",
+      "hiragana": "じゅうきゅうにん",
+      "romaji": "juukyuunin",
+      "meaning": "nineteen people"
+    },
+    {
+      "id": 20,
+      "value": "20",
+      "kanji": "二十人",
+      "hiragana": "にじゅうにん",
+      "romaji": "nijuunin",
+      "meaning": "twenty people"
+    }
+  ]
+}
