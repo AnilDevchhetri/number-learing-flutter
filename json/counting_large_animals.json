@@ -1,0 +1,188 @@
+{
+  "category_id": "counting_large_animals",
+  "category_title": "Counting Large Animals",
+  "category_subtitle": "Learn how to count large animals in Japanese using 頭",
+  "category_detail": "<b>Counting Large Animals in Japanese</b><br><br>In Japanese, large animals are commonly counted using the counter <b>「頭」(とう / tou)</b>.<br><br>This counter is used for large animals such as <b>cows, horses, elephants, whales, and other livestock animals</b>.<br><br><b>Basic Pattern</b><br>Most numbers follow the simple pattern:<br><span class=\"example\">number + 頭</span><br><br>Examples:<br><span class=\"example\">1頭</span> <span class=\"romaji\">(いっとう / ittou)</span><br><span class=\"example\">2頭</span> <span class=\"romaji\">(にとう / nitou)</span><br><span class=\"example\">3頭</span> <span class=\"romaji\">(さんとう / santou)</span><br><br><b>Common Usage</b><br><span class=\"example\">牛が三頭います。</span> <span class=\"romaji\">(ushi ga santou imasu)</span><br>Meaning: There are three cows.<br><br>This counter is mainly used in agriculture, farming, and when referring to large animals.",
+  "item_list": [
+    {
+      "id": 1,
+      "value": "1",
+      "kanji": "一頭",
+      "hiragana": "いっとう",
+      "romaji": "ittou",
+      "meaning": "one large animal",
+      "sound_text": "いっとう"
+    },
+    {
+      "id": 2,
+      "value": "2",
+      "kanji": "二頭",
+      "hiragana": "にとう",
+      "romaji": "nitou",
+      "meaning": "two large animals",
+      "sound_text": "にとう"
+    },
+    {
+      "id": 3,
+      "value": "3",
+      "kanji": "三頭",
+      "hiragana": "さんとう",
+      "romaji": "santou",
+      "meaning": "three large animals",
+      "sound_text": "さんとう"
+    },
+    {
+      "id": 4,
+      "value": "4",
+      "kanji": "四頭",
+      "hiragana": "よんとう / しとう",
+      "romaji": "yontou / shitou",
+      "meaning": "four large animals",
+      "sound_text": "よんとう"
+    },
+    {
+      "id": 5,
+      "value": "5",
+      "kanji": "五頭",
+      "hiragana": "ごとう",
+      "romaji": "gotou",
+      "meaning": "five large animals",
+      "sound_text": "ごとう"
+    },
+    {
+      "id": 6,
+      "value": "6",
+      "kanji": "六頭",
+      "hiragana": "ろくとう",
+      "romaji": "rokutou",
+      "meaning": "six large animals",
+      "sound_text": "ろくとう"
+    },
+    {
+      "id": 7,
+      "value": "7",
+      "kanji": "七頭",
+      "hiragana": "ななとう / しちとう",
+      "romaji": "nanatou / shichitou",
+      "meaning": "seven large animals",
+      "sound_text": "ななとう"
+    },
+    {
+      "id": 8,
+      "value": "8",
+      "kanji": "八頭",
+      "hiragana": "はっとう / はちとう",
+      "romaji": "hattou / hachitou",
+      "meaning": "eight large animals",
+      "sound_text": "はっとう"
+    },
+    {
+      "id": 9,
+      "value": "9",
+      "kanji": "九頭",
+      "hiragana": "きゅうとう / くとう",
+      "romaji": "kyuutou / kutou",
+      "meaning": "nine large animals",
+      "sound_text": "きゅうとう"
+    },
+    {
+      "id": 10,
+      "value": "10",
+      "kanji": "十頭",
+      "hiragana": "じゅっとう / じっとう",
+      "romaji": "juttou / jittou",
+      "meaning": "ten large animals",
+      "sound_text": "じゅっとう"
+    },
+    {
+      "id": 11,
+      "value": "11",
+      "kanji": "十一頭",
+      "hiragana": "じゅういっとう",
+      "romaji": "juuittou",
+      "meaning": "eleven large animals",
+      "sound_text": "じゅういっとう"
+    },
+    {
+      "id": 12,
+      "value": "12",
+      "kanji": "十二頭",
+      "hiragana": "じゅうにとう",
+      "romaji": "juunitou",
+      "meaning": "twelve large animals",
+      "sound_text": "じゅうにとう"
+    },
+    {
+      "id": 13,
+      "value": "13",
+      "kanji": "十三頭",
+      "hiragana": "じゅうさんとう",
+      "romaji": "juusantou",
+      "meaning": "thirteen large animals",
+      "sound_text": "じゅうさんとう"
+    },
+    {
+      "id": 14,
+      "value": "14",
+      "kanji": "十四頭",
+      "hiragana": "じゅうよんとう / じゅうしとう",
+      "romaji": "juuyontou / juushitou",
+      "meaning": "fourteen large animals",
+      "sound_text": "じゅうよんとう"
+    },
+    {
+      "id": 15,
+      "value": "15",
+      "kanji": "十五頭",
+      "hiragana": "じゅうごとう",
+      "romaji": "juugotou",
+      "meaning": "fifteen large animals",
+      "sound_text": "じゅうごとう"
+    },
+    {
+      "id": 16,
+      "value": "16",
+      "kanji": "十六頭",
+      "hiragana": "じゅうろくとう",
+      "romaji": "juurokutou",
+      "meaning": "sixteen large animals",
+      "sound_text": "じゅうろくとう"
+    },
+    {
+      "id": 17,
+      "value": "17",
+      "kanji": "十七頭",
+      "hiragana": "じゅうななとう / じゅうしちとう",
+      "romaji": "juunanatou / juushichitou",
+      "meaning": "seventeen large animals",
+      "sound_text": "じゅうななとう"
+    },
+    {
+      "id": 18,
+      "value": "18",
+      "kanji": "十八頭",
+      "hiragana": "じゅうはっとう / じゅうはちとう",
+      "romaji": "juuhattou / juuhachitou",
+      "meaning": "eighteen large animals",
+      "sound_text": "じゅうはっとう"
+    },
+    {
+      "id": 19,
+      "value": "19",
+      "kanji": "十九頭",
+      "hiragana": "じゅうきゅうとう",
+      "romaji": "juukyuutou",
+      "meaning": "nineteen large animals",
+      "sound_text": "じゅうきゅうとう"
+    },
+    {
+      "id": 20,
+      "value": "20",
+      "kanji": "二十頭",
+      "hiragana": "にじゅっとう / にじっとう",
+      "romaji": "nijuttou / nijittou",
+      "meaning": "twenty large animals",
+      "sound_text": "にじゅっとう"
+    }
+  ]
+}
