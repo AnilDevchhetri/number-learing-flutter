@@ -1,0 +1,188 @@
+{
+  "category_id": "counting_cups",
+  "category_title": "Counting Cups",
+  "category_subtitle": "Learn how to count cups and glasses in Japanese using 杯",
+  "category_detail": "<b>Counting Cups in Japanese</b><br><br>In Japanese, cups and glasses of drinks are counted using the counter <b>「杯」(はい / hai)</b>.<br><br>This counter is used for <b>cups of tea, glasses of water, coffee, alcohol, and other beverages</b>.<br><br><b>Important Sound Changes</b><br>Some numbers change pronunciation when combined with 杯.<br><br><span class=\"example\">1杯</span> <span class=\"romaji\">(いっぱい / ippai)</span><br><span class=\"example\">3杯</span> <span class=\"romaji\">(さんばい / sanbai)</span><br><span class=\"example\">6杯</span> <span class=\"romaji\">(ろっぱい / roppai)</span><br><span class=\"example\">8杯</span> <span class=\"romaji\">(はっぱい / happai)</span><br><span class=\"example\">10杯</span> <span class=\"romaji\">(じゅっぱい / juppai)</span><br><br><b>Common Usage</b><br><span class=\"example\">コーヒーを二杯ください。</span> <span class=\"romaji\">(koohii o nihai kudasai)</span><br>Meaning: Please give me two cups of coffee.<br><br>This counter is very common when ordering drinks at restaurants or cafes.",
+  "item_list": [
+    {
+      "id": 1,
+      "value": "1",
+      "kanji": "一杯",
+      "hiragana": "いっぱい",
+      "romaji": "ippai",
+      "meaning": "one cup / one glass",
+      "sound_text": "いっぱい"
+    },
+    {
+      "id": 2,
+      "value": "2",
+      "kanji": "二杯",
+      "hiragana": "にはい",
+      "romaji": "nihai",
+      "meaning": "two cups",
+      "sound_text": "にはい"
+    },
+    {
+      "id": 3,
+      "value": "3",
+      "kanji": "三杯",
+      "hiragana": "さんばい",
+      "romaji": "sanbai",
+      "meaning": "three cups",
+      "sound_text": "さんばい"
+    },
+    {
+      "id": 4,
+      "value": "4",
+      "kanji": "四杯",
+      "hiragana": "よんはい / しはい",
+      "romaji": "yonhai / shihai",
+      "meaning": "four cups",
+      "sound_text": "よんはい"
+    },
+    {
+      "id": 5,
+      "value": "5",
+      "kanji": "五杯",
+      "hiragana": "ごはい",
+      "romaji": "gohai",
+      "meaning": "five cups",
+      "sound_text": "ごはい"
+    },
+    {
+      "id": 6,
+      "value": "6",
+      "kanji": "六杯",
+      "hiragana": "ろっぱい",
+      "romaji": "roppai",
+      "meaning": "six cups",
+      "sound_text": "ろっぱい"
+    },
+    {
+      "id": 7,
+      "value": "7",
+      "kanji": "七杯",
+      "hiragana": "ななはい / しちはい",
+      "romaji": "nanahai / shichihai",
+      "meaning": "seven cups",
+      "sound_text": "ななはい"
+    },
+    {
+      "id": 8,
+      "value": "8",
+      "kanji": "八杯",
+      "hiragana": "はっぱい",
+      "romaji": "happai",
+      "meaning": "eight cups",
+      "sound_text": "はっぱい"
+    },
+    {
+      "id": 9,
+      "value": "9",
+      "kanji": "九杯",
+      "hiragana": "きゅうはい / くはい",
+      "romaji": "kyuuhai / kuhai",
+      "meaning": "nine cups",
+      "sound_text": "きゅうはい"
+    },
+    {
+      "id": 10,
+      "value": "10",
+      "kanji": "十杯",
+      "hiragana": "じゅっぱい / じっぱい",
+      "romaji": "juppai / jippai",
+      "meaning": "ten cups",
+      "sound_text": "じゅっぱい"
+    },
+    {
+      "id": 11,
+      "value": "11",
+      "kanji": "十一杯",
+      "hiragana": "じゅういっぱい",
+      "romaji": "juuippai",
+      "meaning": "eleven cups",
+      "sound_text": "じゅういっぱい"
+    },
+    {
+      "id": 12,
+      "value": "12",
+      "kanji": "十二杯",
+      "hiragana": "じゅうにはい",
+      "romaji": "juunihai",
+      "meaning": "twelve cups",
+      "sound_text": "じゅうにはい"
+    },
+    {
+      "id": 13,
+      "value": "13",
+      "kanji": "十三杯",
+      "hiragana": "じゅうさんばい",
+      "romaji": "juusanbai",
+      "meaning": "thirteen cups",
+      "sound_text": "じゅうさんばい"
+    },
+    {
+      "id": 14,
+      "value": "14",
+      "kanji": "十四杯",
+      "hiragana": "じゅうよんはい / じゅうしはい",
+      "romaji": "juuyonhai / juushihai",
+      "meaning": "fourteen cups",
+      "sound_text": "じゅうよんはい"
+    },
+    {
+      "id": 15,
+      "value": "15",
+      "kanji": "十五杯",
+      "hiragana": "じゅうごはい",
+      "romaji": "juugohai",
+      "meaning": "fifteen cups",
+      "sound_text": "じゅうごはい"
+    },
+    {
+      "id": 16,
+      "value": "16",
+      "kanji": "十六杯",
+      "hiragana": "じゅうろっぱい",
+      "romaji": "juuroppai",
+      "meaning": "sixteen cups",
+      "sound_text": "じゅうろっぱい"
+    },
+    {
+      "id": 17,
+      "value": "17",
+      "kanji": "十七杯",
+      "hiragana": "じゅうななはい / じゅうしちはい",
+      "romaji": "juunanahai / juushichihai",
+      "meaning": "seventeen cups",
+      "sound_text": "じゅうななはい"
+    },
+    {
+      "id": 18,
+      "value": "18",
+      "kanji": "十八杯",
+      "hiragana": "じゅうはっぱい",
+      "romaji": "juuhappai",
+      "meaning": "eighteen cups",
+      "sound_text": "じゅうはっぱい"
+    },
+    {
+      "id": 19,
+      "value": "19",
+      "kanji": "十九杯",
+      "hiragana": "じゅうきゅうはい",
+      "romaji": "juukyuuhai",
+      "meaning": "nineteen cups",
+      "sound_text": "じゅうきゅうはい"
+    },
+    {
+      "id": 20,
+      "value": "20",
+      "kanji": "二十杯",
+      "hiragana": "にじゅっぱい / にじっぱい",
+      "romaji": "nijuppai / nijippai",
+      "meaning": "twenty cups",
+      "sound_text": "にじゅっぱい"
+    }
+  ]
+}
