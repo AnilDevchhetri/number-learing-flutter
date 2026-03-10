@@ -1,0 +1,193 @@
+{
+  "category_id": "counting_train_cars",
+  "category_title": "Counting Train Cars",
+  "category_subtitle": "Learn how to count train cars in Japanese using 両",
+  "category_detail": "<b>Counting Train Cars in Japanese</b><br><br>In Japanese, train cars, railway cars, and train car units are commonly counted with the counter <b>「両」</b>.<br><br>This counter is often used for <b>train cars, train sets in unit count, and railway vehicles</b>. In daily railway context, you will often hear expressions such as <b>8両編成</b> (an 8-car train set) or <b>10両</b> (10 train cars).<br><br><b>Basic Pattern</b><br>Most numbers follow the simple pattern:<br><span class=\"example\">number + 両</span><br><br>Examples:<br><span class=\"example\">1両</span> <span class=\"romaji\">(いちりょう / ichiryou)</span><br><span class=\"example\">2両</span> <span class=\"romaji\">(にりょう / niryou)</span><br><span class=\"example\">3両</span> <span class=\"romaji\">(さんりょう / sanryou)</span><br><br><b>Common Usage</b><br><span class=\"example\">この電車は10両です。</span> <span class=\"romaji\">(kono densha wa juuryou desu)</span><br>Meaning: This train has 10 cars.<br><br><span class=\"example\">8両編成の電車です。</span> <span class=\"romaji\">(hachiryou hensei no densha desu)</span><br>Meaning: It is an 8-car train set.<br><br><b>Important Notes</b><br>This counter is mainly used in railway and transportation contexts. It is more specific than general counters and is useful when talking about train length, platform information, and train operations.<br><br>This category focuses on the most useful and natural learner-friendly readings for counting train cars.",
+  "item_list": [
+    {
+      "id": 1,
+      "value": "1",
+      "kanji": "一両",
+      "hiragana": "いちりょう",
+      "romaji": "ichiryou",
+      "meaning": "one train car",
+      "sound_text": "いちりょう"
+    },
+    {
+      "id": 2,
+      "value": "2",
+      "kanji": "二両",
+      "hiragana": "にりょう",
+      "romaji": "niryou",
+      "meaning": "two train cars",
+      "sound_text": "にりょう"
+    },
+    {
+      "id": 3,
+      "value": "3",
+      "kanji": "三両",
+      "hiragana": "さんりょう",
+      "romaji": "sanryou",
+      "meaning": "three train cars",
+      "sound_text": "さんりょう"
+    },
+    {
+      "id": 4,
+      "value": "4",
+      "kanji": "四両",
+      "hiragana": "よんりょう / しりょう",
+      "romaji": "yonryou / shiryou",
+      "meaning": "four train cars",
+      "description": "よんりょう is the standard learner-friendly reading. しりょう may also be heard, but よんりょう is safer and more common for learners.",
+      "sound_text": "よんりょう"
+    },
+    {
+      "id": 5,
+      "value": "5",
+      "kanji": "五両",
+      "hiragana": "ごりょう",
+      "romaji": "goryou",
+      "meaning": "five train cars",
+      "sound_text": "ごりょう"
+    },
+    {
+      "id": 6,
+      "value": "6",
+      "kanji": "六両",
+      "hiragana": "ろくりょう",
+      "romaji": "rokuryou",
+      "meaning": "six train cars",
+      "sound_text": "ろくりょう"
+    },
+    {
+      "id": 7,
+      "value": "7",
+      "kanji": "七両",
+      "hiragana": "ななりょう / しちりょう",
+      "romaji": "nanaryou / shichiryou",
+      "meaning": "seven train cars",
+      "description": "ななりょう is very common and easier for learners. しちりょう is also possible.",
+      "sound_text": "ななりょう"
+    },
+    {
+      "id": 8,
+      "value": "8",
+      "kanji": "八両",
+      "hiragana": "はちりょう",
+      "romaji": "hachiryou",
+      "meaning": "eight train cars",
+      "sound_text": "はちりょう"
+    },
+    {
+      "id": 9,
+      "value": "9",
+      "kanji": "九両",
+      "hiragana": "きゅうりょう / くりょう",
+      "romaji": "kyuuryou / kuryou",
+      "meaning": "nine train cars",
+      "description": "きゅうりょう is the standard learner-friendly reading. くりょう may also be heard in some contexts.",
+      "sound_text": "きゅうりょう"
+    },
+    {
+      "id": 10,
+      "value": "10",
+      "kanji": "十両",
+      "hiragana": "じゅうりょう",
+      "romaji": "juuryou",
+      "meaning": "ten train cars",
+      "sound_text": "じゅうりょう"
+    },
+    {
+      "id": 11,
+      "value": "11",
+      "kanji": "十一両",
+      "hiragana": "じゅういちりょう",
+      "romaji": "juuichiryou",
+      "meaning": "eleven train cars",
+      "sound_text": "じゅういちりょう"
+    },
+    {
+      "id": 12,
+      "value": "12",
+      "kanji": "十二両",
+      "hiragana": "じゅうにりょう",
+      "romaji": "juuniryou",
+      "meaning": "twelve train cars",
+      "sound_text": "じゅうにりょう"
+    },
+    {
+      "id": 13,
+      "value": "13",
+      "kanji": "十三両",
+      "hiragana": "じゅうさんりょう",
+      "romaji": "juusanryou",
+      "meaning": "thirteen train cars",
+      "sound_text": "じゅうさんりょう"
+    },
+    {
+      "id": 14,
+      "value": "14",
+      "kanji": "十四両",
+      "hiragana": "じゅうよんりょう / じゅうしりょう",
+      "romaji": "juuyonryou / juushiryou",
+      "meaning": "fourteen train cars",
+      "description": "じゅうよんりょう is more common and recommended for learners. じゅうしりょう may also be heard.",
+      "sound_text": "じゅうよんりょう"
+    },
+    {
+      "id": 15,
+      "value": "15",
+      "kanji": "十五両",
+      "hiragana": "じゅうごりょう",
+      "romaji": "juugoryou",
+      "meaning": "fifteen train cars",
+      "sound_text": "じゅうごりょう"
+    },
+    {
+      "id": 16,
+      "value": "16",
+      "kanji": "十六両",
+      "hiragana": "じゅうろくりょう",
+      "romaji": "juurokuryou",
+      "meaning": "sixteen train cars",
+      "sound_text": "じゅうろくりょう"
+    },
+    {
+      "id": 17,
+      "value": "17",
+      "kanji": "十七両",
+      "hiragana": "じゅうななりょう / じゅうしちりょう",
+      "romaji": "juunanaryou / juushichiryou",
+      "meaning": "seventeen train cars",
+      "description": "じゅうななりょう is very common and easier for learners. じゅうしちりょう is also possible.",
+      "sound_text": "じゅうななりょう"
+    },
+    {
+      "id": 18,
+      "value": "18",
+      "kanji": "十八両",
+      "hiragana": "じゅうはちりょう",
+      "romaji": "juuhachiryou",
+      "meaning": "eighteen train cars",
+      "sound_text": "じゅうはちりょう"
+    },
+    {
+      "id": 19,
+      "value": "19",
+      "kanji": "十九両",
+      "hiragana": "じゅうきゅうりょう",
+      "romaji": "juukyuuryou",
+      "meaning": "nineteen train cars",
+      "sound_text": "じゅうきゅうりょう"
+    },
+    {
+      "id": 20,
+      "value": "20",
+      "kanji": "二十両",
+      "hiragana": "にじゅうりょう",
+      "romaji": "nijuuryou",
+      "meaning": "twenty train cars",
+      "sound_text": "にじゅうりょう"
+    }
+  ]
+}
