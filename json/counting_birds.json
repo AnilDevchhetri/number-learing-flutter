@@ -1,0 +1,188 @@
+{
+  "category_id": "counting_birds",
+  "category_title": "Counting Birds",
+  "category_subtitle": "Learn how to count birds in Japanese using 羽",
+  "category_detail": "<b>Counting Birds in Japanese</b><br><br>In Japanese, birds are commonly counted using the counter <b>「羽」(わ / wa)</b>.<br><br>This counter is mainly used for birds such as chickens, ducks, pigeons, and other flying birds. It can also sometimes be used for rabbits in certain traditional expressions.<br><br><b>Basic Pattern</b><br>Most numbers follow the simple pattern:<br><span class=\"example\">number + 羽</span><br><br>Examples:<br><span class=\"example\">1羽</span> <span class=\"romaji\">(いちわ / ichiwa)</span><br><span class=\"example\">2羽</span> <span class=\"romaji\">(にわ / niwa)</span><br><span class=\"example\">3羽</span> <span class=\"romaji\">(さんわ / sanwa)</span><br><br><b>Common Usage</b><br><span class=\"example\">鳥が三羽います。</span> <span class=\"romaji\">(tori ga sanwa imasu)</span><br>Meaning: There are three birds.<br><br>This counter is simple compared to many Japanese counters because the pronunciation pattern stays regular.",
+  "item_list": [
+    {
+      "id": 1,
+      "value": "1",
+      "kanji": "一羽",
+      "hiragana": "いちわ",
+      "romaji": "ichiwa",
+      "meaning": "one bird",
+      "sound_text": "いちわ"
+    },
+    {
+      "id": 2,
+      "value": "2",
+      "kanji": "二羽",
+      "hiragana": "にわ",
+      "romaji": "niwa",
+      "meaning": "two birds",
+      "sound_text": "にわ"
+    },
+    {
+      "id": 3,
+      "value": "3",
+      "kanji": "三羽",
+      "hiragana": "さんわ",
+      "romaji": "sanwa",
+      "meaning": "three birds",
+      "sound_text": "さんわ"
+    },
+    {
+      "id": 4,
+      "value": "4",
+      "kanji": "四羽",
+      "hiragana": "よんわ / しわ",
+      "romaji": "yonwa / shiwa",
+      "meaning": "four birds",
+      "sound_text": "よんわ"
+    },
+    {
+      "id": 5,
+      "value": "5",
+      "kanji": "五羽",
+      "hiragana": "ごわ",
+      "romaji": "gowa",
+      "meaning": "five birds",
+      "sound_text": "ごわ"
+    },
+    {
+      "id": 6,
+      "value": "6",
+      "kanji": "六羽",
+      "hiragana": "ろくわ",
+      "romaji": "rokuwa",
+      "meaning": "six birds",
+      "sound_text": "ろくわ"
+    },
+    {
+      "id": 7,
+      "value": "7",
+      "kanji": "七羽",
+      "hiragana": "ななわ / しちわ",
+      "romaji": "nanawa / shichiwa",
+      "meaning": "seven birds",
+      "sound_text": "ななわ"
+    },
+    {
+      "id": 8,
+      "value": "8",
+      "kanji": "八羽",
+      "hiragana": "はちわ",
+      "romaji": "hachiwa",
+      "meaning": "eight birds",
+      "sound_text": "はちわ"
+    },
+    {
+      "id": 9,
+      "value": "9",
+      "kanji": "九羽",
+      "hiragana": "きゅうわ / くわ",
+      "romaji": "kyuuwa / kuwa",
+      "meaning": "nine birds",
+      "sound_text": "きゅうわ"
+    },
+    {
+      "id": 10,
+      "value": "10",
+      "kanji": "十羽",
+      "hiragana": "じゅうわ",
+      "romaji": "juuwa",
+      "meaning": "ten birds",
+      "sound_text": "じゅうわ"
+    },
+    {
+      "id": 11,
+      "value": "11",
+      "kanji": "十一羽",
+      "hiragana": "じゅういちわ",
+      "romaji": "juuichiwa",
+      "meaning": "eleven birds",
+      "sound_text": "じゅういちわ"
+    },
+    {
+      "id": 12,
+      "value": "12",
+      "kanji": "十二羽",
+      "hiragana": "じゅうにわ",
+      "romaji": "juuniwa",
+      "meaning": "twelve birds",
+      "sound_text": "じゅうにわ"
+    },
+    {
+      "id": 13,
+      "value": "13",
+      "kanji": "十三羽",
+      "hiragana": "じゅうさんわ",
+      "romaji": "juusanwa",
+      "meaning": "thirteen birds",
+      "sound_text": "じゅうさんわ"
+    },
+    {
+      "id": 14,
+      "value": "14",
+      "kanji": "十四羽",
+      "hiragana": "じゅうよんわ / じゅうしわ",
+      "romaji": "juuyonwa / juushiwa",
+      "meaning": "fourteen birds",
+      "sound_text": "じゅうよんわ"
+    },
+    {
+      "id": 15,
+      "value": "15",
+      "kanji": "十五羽",
+      "hiragana": "じゅうごわ",
+      "romaji": "juugowa",
+      "meaning": "fifteen birds",
+      "sound_text": "じゅうごわ"
+    },
+    {
+      "id": 16,
+      "value": "16",
+      "kanji": "十六羽",
+      "hiragana": "じゅうろくわ",
+      "romaji": "juurokuwa",
+      "meaning": "sixteen birds",
+      "sound_text": "じゅうろくわ"
+    },
+    {
+      "id": 17,
+      "value": "17",
+      "kanji": "十七羽",
+      "hiragana": "じゅうななわ / じゅうしちわ",
+      "romaji": "juunanawa / juushichiwa",
+      "meaning": "seventeen birds",
+      "sound_text": "じゅうななわ"
+    },
+    {
+      "id": 18,
+      "value": "18",
+      "kanji": "十八羽",
+      "hiragana": "じゅうはちわ",
+      "romaji": "juuhachiwa",
+      "meaning": "eighteen birds",
+      "sound_text": "じゅうはちわ"
+    },
+    {
+      "id": 19,
+      "value": "19",
+      "kanji": "十九羽",
+      "hiragana": "じゅうきゅうわ",
+      "romaji": "juukyuuw a",
+      "meaning": "nineteen birds",
+      "sound_text": "じゅうきゅうわ"
+    },
+    {
+      "id": 20,
+      "value": "20",
+      "kanji": "二十羽",
+      "hiragana": "にじゅうわ",
+      "romaji": "nijuuw a",
+      "meaning": "twenty birds",
+      "sound_text": "にじゅうわ"
+    }
+  ]
+}
