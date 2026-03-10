@@ -11,7 +11,8 @@
       "hiragana": "いちまい",
       "romaji": "ichimai",
       "meaning": "one flat object",
-      "description": "Used for one flat item such as one sheet of paper, one ticket, or one plate."
+      "description": "Used for one flat item such as one sheet of paper, one ticket, or one plate.",
+      "sound_text": "いちまい"
     },
     {
       "id": 2,
@@ -20,7 +21,8 @@
       "hiragana": "にまい",
       "romaji": "nimai",
       "meaning": "two flat objects",
-      "description": "Used for two flat items such as two cards or two shirts."
+      "description": "Used for two flat items such as two cards or two shirts.",
+      "sound_text": "にまい"
     },
     {
       "id": 3,
@@ -29,7 +31,8 @@
       "hiragana": "さんまい",
       "romaji": "sanmai",
       "meaning": "three flat objects",
-      "description": "A regular and commonly used reading."
+      "description": "A regular and commonly used reading.",
+      "sound_text": "さんまい"
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
       "hiragana": "よんまい",
       "romaji": "yonmai",
       "meaning": "four flat objects",
-      "description": "よんまい is the standard learner-friendly reading."
+      "description": "よんまい is the standard learner-friendly reading.",
+      "sound_text": "よんまい"
     },
     {
       "id": 5,
@@ -46,7 +50,8 @@
       "kanji": "五枚",
       "hiragana": "ごまい",
       "romaji": "gomai",
-      "meaning": "five flat objects"
+      "meaning": "five flat objects",
+      "sound_text": "ごまい"
     },
     {
       "id": 6,
@@ -54,7 +59,8 @@
       "kanji": "六枚",
       "hiragana": "ろくまい",
       "romaji": "rokumai",
-      "meaning": "six flat objects"
+      "meaning": "six flat objects",
+      "sound_text": "ろくまい"
     },
     {
       "id": 7,
@@ -63,7 +69,8 @@
       "hiragana": "ななまい / しちまい",
       "romaji": "nanamai / shichimai",
       "meaning": "seven flat objects",
-      "description": "ななまい is very common and easy for learners. しちまい may also be heard."
+      "description": "ななまい is very common and easy for learners. しちまい may also be heard.",
+      "sound_text": "ななまい"
     },
     {
       "id": 8,
@@ -71,7 +78,8 @@
       "kanji": "八枚",
       "hiragana": "はちまい",
       "romaji": "hachimai",
-      "meaning": "eight flat objects"
+      "meaning": "eight flat objects",
+      "sound_text": "はちまい"
     },
     {
       "id": 9,
@@ -80,7 +88,8 @@
       "hiragana": "きゅうまい",
       "romaji": "kyuumai",
       "meaning": "nine flat objects",
-      "description": "きゅうまい is the standard reading."
+      "description": "きゅうまい is the standard reading.",
+      "sound_text": "きゅうまい"
     },
     {
       "id": 10,
@@ -88,7 +97,8 @@
       "kanji": "十枚",
       "hiragana": "じゅうまい",
       "romaji": "juumai",
-      "meaning": "ten flat objects"
+      "meaning": "ten flat objects",
+      "sound_text": "じゅうまい"
     },
     {
       "id": 11,
@@ -97,7 +107,8 @@
       "hiragana": "じゅういちまい",
       "romaji": "juuichimai",
       "meaning": "eleven flat objects",
-      "description": "From 11 onward, the reading usually follows the regular number + まい pattern."
+      "description": "From 11 onward, the reading usually follows the regular number + まい pattern.",
+      "sound_text": "じゅういちまい"
     },
     {
       "id": 12,
@@ -105,7 +116,8 @@
       "kanji": "十二枚",
       "hiragana": "じゅうにまい",
       "romaji": "juunimai",
-      "meaning": "twelve flat objects"
+      "meaning": "twelve flat objects",
+      "sound_text": "じゅうにまい"
     },
     {
       "id": 13,
@@ -113,7 +125,8 @@
       "kanji": "十三枚",
       "hiragana": "じゅうさんまい",
       "romaji": "juusanmai",
-      "meaning": "thirteen flat objects"
+      "meaning": "thirteen flat objects",
+      "sound_text": "じゅうさんまい"
     },
     {
       "id": 14,
@@ -122,7 +135,8 @@
       "hiragana": "じゅうよんまい / じゅうしまい",
       "romaji": "juuyonmai / juushimai",
       "meaning": "fourteen flat objects",
-      "description": "じゅうよんまい is more common and recommended for learners. じゅうしまい may also be heard."
+      "description": "じゅうよんまい is more common and recommended for learners. じゅうしまい may also be heard.",
+      "sound_text": "じゅうよんまい"
     },
     {
       "id": 15,
@@ -130,7 +144,8 @@
       "kanji": "十五枚",
       "hiragana": "じゅうごまい",
       "romaji": "juugomai",
-      "meaning": "fifteen flat objects"
+      "meaning": "fifteen flat objects",
+      "sound_text": "じゅうごまい"
     },
     {
       "id": 16,
@@ -138,7 +153,8 @@
       "kanji": "十六枚",
       "hiragana": "じゅうろくまい",
       "romaji": "juurokumai",
-      "meaning": "sixteen flat objects"
+      "meaning": "sixteen flat objects",
+      "sound_text": "じゅうろくまい"
     },
     {
       "id": 17,
@@ -147,7 +163,8 @@
       "hiragana": "じゅうななまい / じゅうしちまい",
       "romaji": "juunanamai / juushichimai",
       "meaning": "seventeen flat objects",
-      "description": "じゅうななまい is very common and easy for learners. じゅうしちまい is also possible."
+      "description": "じゅうななまい is very common and easy for learners. じゅうしちまい is also possible.",
+      "sound_text": "じゅうななまい"
     },
     {
       "id": 18,
@@ -155,7 +172,8 @@
       "kanji": "十八枚",
       "hiragana": "じゅうはちまい",
       "romaji": "juuhachimai",
-      "meaning": "eighteen flat objects"
+      "meaning": "eighteen flat objects",
+      "sound_text": "じゅうはちまい"
     },
     {
       "id": 19,
@@ -164,7 +182,8 @@
       "hiragana": "じゅうきゅうまい",
       "romaji": "juukyuumai",
       "meaning": "nineteen flat objects",
-      "description": "じゅうきゅうまい is the standard reading."
+      "description": "じゅうきゅうまい is the standard reading.",
+      "sound_text": "じゅうきゅうまい"
     },
     {
       "id": 20,
@@ -173,7 +192,8 @@
       "hiragana": "にじゅうまい",
       "romaji": "nijuumai",
       "meaning": "twenty flat objects",
-      "description": "A regular reading used for twenty flat items."
+      "description": "A regular reading used for twenty flat items.",
+      "sound_text": "にじゅうまい"
     }
   ]
 }
