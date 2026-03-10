@@ -1,0 +1,188 @@
+{
+  "category_id": "counting_occurrences",
+  "category_title": "Counting Occurrences",
+  "category_subtitle": "Learn how to count times or occurrences in Japanese using 回",
+  "category_detail": "<b>Counting Occurrences in Japanese</b><br><br>In Japanese, the counter <b>「回」(かい / kai)</b> is used to count how many times something happens.<br><br>This counter is used for events, actions, repetitions, experiences, and occurrences.<br><br><b>Examples</b><br><span class=\"example\">一回</span> <span class=\"romaji\">(いっかい / ikkai)</span><br><span class=\"example\">三回</span> <span class=\"romaji\">(さんかい / sankai)</span><br><span class=\"example\">六回</span> <span class=\"romaji\">(ろっかい / rokkai)</span><br><span class=\"example\">十回</span> <span class=\"romaji\">(じゅっかい / jukkai)</span><br><br><b>Common Usage</b><br><span class=\"example\">日本に三回行きました。</span> <span class=\"romaji\">(nihon ni sankai ikimashita)</span><br>Meaning: I went to Japan three times.<br><br><span class=\"example\">この映画を二回見ました。</span> <span class=\"romaji\">(kono eiga o nikai mimashita)</span><br>Meaning: I watched this movie twice.<br><br><b>Important Note</b><br>Some numbers change pronunciation because of sound changes, such as <b>1, 6, 8, and 10</b>.",
+  "item_list": [
+    {
+      "id": 1,
+      "value": "1",
+      "kanji": "一回",
+      "hiragana": "いっかい",
+      "romaji": "ikkai",
+      "meaning": "one time / once",
+      "sound_text": "いっかい"
+    },
+    {
+      "id": 2,
+      "value": "2",
+      "kanji": "二回",
+      "hiragana": "にかい",
+      "romaji": "nikai",
+      "meaning": "two times",
+      "sound_text": "にかい"
+    },
+    {
+      "id": 3,
+      "value": "3",
+      "kanji": "三回",
+      "hiragana": "さんかい",
+      "romaji": "sankai",
+      "meaning": "three times",
+      "sound_text": "さんかい"
+    },
+    {
+      "id": 4,
+      "value": "4",
+      "kanji": "四回",
+      "hiragana": "よんかい / しかい",
+      "romaji": "yonkai / shikai",
+      "meaning": "four times",
+      "sound_text": "よんかい"
+    },
+    {
+      "id": 5,
+      "value": "5",
+      "kanji": "五回",
+      "hiragana": "ごかい",
+      "romaji": "gokai",
+      "meaning": "five times",
+      "sound_text": "ごかい"
+    },
+    {
+      "id": 6,
+      "value": "6",
+      "kanji": "六回",
+      "hiragana": "ろっかい",
+      "romaji": "rokkai",
+      "meaning": "six times",
+      "sound_text": "ろっかい"
+    },
+    {
+      "id": 7,
+      "value": "7",
+      "kanji": "七回",
+      "hiragana": "ななかい / しちかい",
+      "romaji": "nanakai / shichikai",
+      "meaning": "seven times",
+      "sound_text": "ななかい"
+    },
+    {
+      "id": 8,
+      "value": "8",
+      "kanji": "八回",
+      "hiragana": "はっかい",
+      "romaji": "hakkai",
+      "meaning": "eight times",
+      "sound_text": "はっかい"
+    },
+    {
+      "id": 9,
+      "value": "9",
+      "kanji": "九回",
+      "hiragana": "きゅうかい / くかい",
+      "romaji": "kyuukai / kukai",
+      "meaning": "nine times",
+      "sound_text": "きゅうかい"
+    },
+    {
+      "id": 10,
+      "value": "10",
+      "kanji": "十回",
+      "hiragana": "じゅっかい / じっかい",
+      "romaji": "jukkai / jikkai",
+      "meaning": "ten times",
+      "sound_text": "じゅっかい"
+    },
+    {
+      "id": 11,
+      "value": "11",
+      "kanji": "十一回",
+      "hiragana": "じゅういっかい",
+      "romaji": "juuikkai",
+      "meaning": "eleven times",
+      "sound_text": "じゅういっかい"
+    },
+    {
+      "id": 12,
+      "value": "12",
+      "kanji": "十二回",
+      "hiragana": "じゅうにかい",
+      "romaji": "juunikai",
+      "meaning": "twelve times",
+      "sound_text": "じゅうにかい"
+    },
+    {
+      "id": 13,
+      "value": "13",
+      "kanji": "十三回",
+      "hiragana": "じゅうさんかい",
+      "romaji": "juusankai",
+      "meaning": "thirteen times",
+      "sound_text": "じゅうさんかい"
+    },
+    {
+      "id": 14,
+      "value": "14",
+      "kanji": "十四回",
+      "hiragana": "じゅうよんかい / じゅうしかい",
+      "romaji": "juuyonkai / juushikai",
+      "meaning": "fourteen times",
+      "sound_text": "じゅうよんかい"
+    },
+    {
+      "id": 15,
+      "value": "15",
+      "kanji": "十五回",
+      "hiragana": "じゅうごかい",
+      "romaji": "juugokai",
+      "meaning": "fifteen times",
+      "sound_text": "じゅうごかい"
+    },
+    {
+      "id": 16,
+      "value": "16",
+      "kanji": "十六回",
+      "hiragana": "じゅうろっかい",
+      "romaji": "juurokkai",
+      "meaning": "sixteen times",
+      "sound_text": "じゅうろっかい"
+    },
+    {
+      "id": 17,
+      "value": "17",
+      "kanji": "十七回",
+      "hiragana": "じゅうななかい / じゅうしちかい",
+      "romaji": "juunanakai / juushichikai",
+      "meaning": "seventeen times",
+      "sound_text": "じゅうななかい"
+    },
+    {
+      "id": 18,
+      "value": "18",
+      "kanji": "十八回",
+      "hiragana": "じゅうはっかい",
+      "romaji": "juuhakkai",
+      "meaning": "eighteen times",
+      "sound_text": "じゅうはっかい"
+    },
+    {
+      "id": 19,
+      "value": "19",
+      "kanji": "十九回",
+      "hiragana": "じゅうきゅうかい",
+      "romaji": "juukyuukai",
+      "meaning": "nineteen times",
+      "sound_text": "じゅうきゅうかい"
+    },
+    {
+      "id": 20,
+      "value": "20",
+      "kanji": "二十回",
+      "hiragana": "にじゅっかい / にじっかい",
+      "romaji": "nijukkai / nijikkai",
+      "meaning": "twenty times",
+      "sound_text": "にじゅっかい"
+    }
+  ]
+}
