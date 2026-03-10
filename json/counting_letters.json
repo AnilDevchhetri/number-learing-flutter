@@ -1,0 +1,200 @@
+{
+  "category_id": "counting_letters",
+  "category_title": "Counting Letters",
+  "category_subtitle": "Learn how to count letters, messages, or mail in Japanese using 通",
+  "category_detail": "<b>Counting Letters in Japanese</b><br><br>In Japanese, letters, mail, documents, notices, and messages are commonly counted with the counter <b>「通」</b>.<br><br>This counter is often used for things like <b>letters, emails, messages, postcards, formal notices, and official documents</b>.<br><br><b>Important Reading Pattern</b><br>The counter <b>通</b> has some sound changes, so learners should pay attention to pronunciation.<br><br>Examples:<br><span class=\"example\">1通</span> <span class=\"romaji\">(いっつう / ittsuu)</span><br><span class=\"example\">3通</span> <span class=\"romaji\">(さんつう / santsuu)</span><br><span class=\"example\">6通</span> <span class=\"romaji\">(ろくつう / rokutsuu)</span><br><span class=\"example\">8通</span> <span class=\"romaji\">(はっつう / hattsuu)</span><br><span class=\"example\">10通</span> <span class=\"romaji\">(じゅっつう / juttsuu)</span><br><br><b>Common Usage</b><br><span class=\"example\">手紙を一通送りました。</span> <span class=\"romaji\">(tegami o ittsuu okurimashita)</span><br>Meaning: I sent one letter.<br><br><span class=\"example\">メールを二通受け取りました。</span> <span class=\"romaji\">(meeru o nitsuu uketorimashita)</span><br>Meaning: I received two emails.<br><br><b>Important Notes</b><br>This counter is useful not only for physical letters, but also for written communication such as emails and messages in many contexts.<br><br>This category focuses on the most useful and natural learner-friendly readings for counting letters and mail.",
+  "item_list": [
+    {
+      "id": 1,
+      "value": "1",
+      "kanji": "一通",
+      "hiragana": "いっつう",
+      "romaji": "ittsuu",
+      "meaning": "one letter / one message",
+      "description": "This uses a sound change and must be memorized.",
+      "sound_text": "いっつう"
+    },
+    {
+      "id": 2,
+      "value": "2",
+      "kanji": "二通",
+      "hiragana": "につう",
+      "romaji": "nitsuu",
+      "meaning": "two letters",
+      "description": "A regular reading used for two letters, emails, or documents.",
+      "sound_text": "につう"
+    },
+    {
+      "id": 3,
+      "value": "3",
+      "kanji": "三通",
+      "hiragana": "さんつう",
+      "romaji": "santsuu",
+      "meaning": "three letters",
+      "sound_text": "さんつう"
+    },
+    {
+      "id": 4,
+      "value": "4",
+      "kanji": "四通",
+      "hiragana": "よんつう / しつう",
+      "romaji": "yontsuu / shitsuu",
+      "meaning": "four letters",
+      "description": "よんつう is the standard learner-friendly reading. しつう may also be heard.",
+      "sound_text": "よんつう"
+    },
+    {
+      "id": 5,
+      "value": "5",
+      "kanji": "五通",
+      "hiragana": "ごつう",
+      "romaji": "gotsuu",
+      "meaning": "five letters",
+      "sound_text": "ごつう"
+    },
+    {
+      "id": 6,
+      "value": "6",
+      "kanji": "六通",
+      "hiragana": "ろくつう",
+      "romaji": "rokutsuu",
+      "meaning": "six letters",
+      "sound_text": "ろくつう"
+    },
+    {
+      "id": 7,
+      "value": "7",
+      "kanji": "七通",
+      "hiragana": "ななつう / しちつう",
+      "romaji": "nanatsuu / shichitsuu",
+      "meaning": "seven letters",
+      "description": "ななつう is very common and easier for learners. しちつう is also possible.",
+      "sound_text": "ななつう"
+    },
+    {
+      "id": 8,
+      "value": "8",
+      "kanji": "八通",
+      "hiragana": "はっつう / はちつう",
+      "romaji": "hattsuu / hachitsuu",
+      "meaning": "eight letters",
+      "description": "はっつう is the standard reading. はちつう may appear in careful speech, but learners should remember はっつう.",
+      "sound_text": "はっつう"
+    },
+    {
+      "id": 9,
+      "value": "9",
+      "kanji": "九通",
+      "hiragana": "きゅうつう",
+      "romaji": "kyuutsuu",
+      "meaning": "nine letters",
+      "description": "きゅうつう is the standard reading.",
+      "sound_text": "きゅうつう"
+    },
+    {
+      "id": 10,
+      "value": "10",
+      "kanji": "十通",
+      "hiragana": "じゅっつう / じっつう",
+      "romaji": "juttsuu / jittsuu",
+      "meaning": "ten letters",
+      "description": "じゅっつう is very common. じっつう is also heard. Both are acceptable.",
+      "sound_text": "じゅっつう"
+    },
+    {
+      "id": 11,
+      "value": "11",
+      "kanji": "十一通",
+      "hiragana": "じゅういっつう",
+      "romaji": "juuittsuu",
+      "meaning": "eleven letters",
+      "description": "This follows the same sound pattern as 1通, so it becomes いっつう.",
+      "sound_text": "じゅういっつう"
+    },
+    {
+      "id": 12,
+      "value": "12",
+      "kanji": "十二通",
+      "hiragana": "じゅうにつう",
+      "romaji": "juunitsuu",
+      "meaning": "twelve letters",
+      "sound_text": "じゅうにつう"
+    },
+    {
+      "id": 13,
+      "value": "13",
+      "kanji": "十三通",
+      "hiragana": "じゅうさんつう",
+      "romaji": "juusantsuu",
+      "meaning": "thirteen letters",
+      "sound_text": "じゅうさんつう"
+    },
+    {
+      "id": 14,
+      "value": "14",
+      "kanji": "十四通",
+      "hiragana": "じゅうよんつう / じゅうしつう",
+      "romaji": "juuyontsuu / juushitsuu",
+      "meaning": "fourteen letters",
+      "description": "じゅうよんつう is more common and recommended for learners. じゅうしつう may also be heard.",
+      "sound_text": "じゅうよんつう"
+    },
+    {
+      "id": 15,
+      "value": "15",
+      "kanji": "十五通",
+      "hiragana": "じゅうごつう",
+      "romaji": "juugotsuu",
+      "meaning": "fifteen letters",
+      "sound_text": "じゅうごつう"
+    },
+    {
+      "id": 16,
+      "value": "16",
+      "kanji": "十六通",
+      "hiragana": "じゅうろくつう",
+      "romaji": "juurokutsuu",
+      "meaning": "sixteen letters",
+      "sound_text": "じゅうろくつう"
+    },
+    {
+      "id": 17,
+      "value": "17",
+      "kanji": "十七通",
+      "hiragana": "じゅうななつう / じゅうしちつう",
+      "romaji": "juunanatsuu / juushichitsuu",
+      "meaning": "seventeen letters",
+      "description": "じゅうななつう is very common and easier for learners. じゅうしちつう is also possible.",
+      "sound_text": "じゅうななつう"
+    },
+    {
+      "id": 18,
+      "value": "18",
+      "kanji": "十八通",
+      "hiragana": "じゅうはっつう / じゅうはちつう",
+      "romaji": "juuhattsuu / juuhachitsuu",
+      "meaning": "eighteen letters",
+      "description": "じゅうはっつう is the standard reading. じゅうはちつう may appear in careful speech, but learners should remember じゅうはっつう.",
+      "sound_text": "じゅうはっつう"
+    },
+    {
+      "id": 19,
+      "value": "19",
+      "kanji": "十九通",
+      "hiragana": "じゅうきゅうつう",
+      "romaji": "juukyuutsuu",
+      "meaning": "nineteen letters",
+      "sound_text": "じゅうきゅうつう"
+    },
+    {
+      "id": 20,
+      "value": "20",
+      "kanji": "二十通",
+      "hiragana": "にじゅっつう / にじっつう",
+      "romaji": "nijuttsuu / nijittsuu",
+      "meaning": "twenty letters",
+      "description": "にじゅっつう is very common. にじっつう is also heard. Both are acceptable.",
+      "sound_text": "にじゅっつう"
+    }
+  ]
+}
