@@ -11,7 +11,8 @@
       "hiragana": "ひとり",
       "romaji": "hitori",
       "meaning": "one person",
-      "description": "This is an irregular reading and must be memorized."
+      "description": "This is an irregular reading and must be memorized.",
+      "sound_text": "ひとり"
     },
     {
       "id": 2,
@@ -20,7 +21,8 @@
       "hiragana": "ふたり",
       "romaji": "futari",
       "meaning": "two people",
-      "description": "This is an irregular reading and must be memorized."
+      "description": "This is an irregular reading and must be memorized.",
+      "sound_text": "ふたり"
     },
     {
       "id": 3,
@@ -29,7 +31,8 @@
       "hiragana": "さんにん",
       "romaji": "sannin",
       "meaning": "three people",
-       "description": "After 3 people, the pattern usually follows number + にん."
+      "description": "After 3 people, the pattern usually follows number + にん.",
+      "sound_text": "さんにん"
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
       "hiragana": "よにん",
       "romaji": "yonin",
       "meaning": "four people",
-      "description": "よにん is the standard reading. しにん is avoided because it can also mean dead person."
+      "description": "よにん is the standard reading. しにん is avoided because it can also mean dead person.",
+      "sound_text": "よにん"
     },
     {
       "id": 5,
@@ -46,7 +50,8 @@
       "kanji": "五人",
       "hiragana": "ごにん",
       "romaji": "gonin",
-      "meaning": "five people"
+      "meaning": "five people",
+      "sound_text": "ごにん"
     },
     {
       "id": 6,
@@ -54,7 +59,8 @@
       "kanji": "六人",
       "hiragana": "ろくにん",
       "romaji": "rokunin",
-      "meaning": "six people"
+      "meaning": "six people",
+      "sound_text": "ろくにん"
     },
     {
       "id": 7,
@@ -63,7 +69,8 @@
       "hiragana": "ななにん / しちにん",
       "romaji": "nananin / shichinin",
       "meaning": "seven people",
-      "description": "ななにん is very common in daily speech. しちにん is also possible."
+      "description": "ななにん is very common in daily speech. しちにん is also possible.",
+      "sound_text": "ななにん"
     },
     {
       "id": 8,
@@ -71,7 +78,8 @@
       "kanji": "八人",
       "hiragana": "はちにん",
       "romaji": "hachinin",
-      "meaning": "eight people"
+      "meaning": "eight people",
+      "sound_text": "はちにん"
     },
     {
       "id": 9,
@@ -80,7 +88,8 @@
       "hiragana": "きゅうにん",
       "romaji": "kyuunin",
       "meaning": "nine people",
-      "description": "きゅうにん is the standard reading."
+      "description": "きゅうにん is the standard reading.",
+      "sound_text": "きゅうにん"
     },
     {
       "id": 10,
@@ -88,7 +97,8 @@
       "kanji": "十人",
       "hiragana": "じゅうにん",
       "romaji": "juunin",
-      "meaning": "ten people"
+      "meaning": "ten people",
+      "sound_text": "じゅうにん"
     },
     {
       "id": 11,
@@ -97,7 +107,7 @@
       "hiragana": "じゅういちにん",
       "romaji": "juuichinin",
       "meaning": "eleven people",
-     
+      "sound_text": "じゅういちにん"
     },
     {
       "id": 12,
@@ -105,7 +115,8 @@
       "kanji": "十二人",
       "hiragana": "じゅうににん",
       "romaji": "juuninin",
-      "meaning": "twelve people"
+      "meaning": "twelve people",
+      "sound_text": "じゅうににん"
     },
     {
       "id": 13,
@@ -113,7 +124,8 @@
       "kanji": "十三人",
       "hiragana": "じゅうさんにん",
       "romaji": "juusannin",
-      "meaning": "thirteen people"
+      "meaning": "thirteen people",
+      "sound_text": "じゅうさんにん"
     },
     {
       "id": 14,
@@ -122,7 +134,8 @@
       "hiragana": "じゅうよにん / じゅうしにん",
       "romaji": "juuyonin / juushinin",
       "meaning": "fourteen people",
-      "description": "じゅうよにん is more natural and safer for learners. じゅうしにん may also be heard."
+      "description": "じゅうよにん is more natural and safer for learners.",
+      "sound_text": "じゅうよにん"
     },
     {
       "id": 15,
@@ -130,7 +143,8 @@
       "kanji": "十五人",
       "hiragana": "じゅうごにん",
       "romaji": "juugonin",
-      "meaning": "fifteen people"
+      "meaning": "fifteen people",
+      "sound_text": "じゅうごにん"
     },
     {
       "id": 16,
@@ -138,7 +152,8 @@
       "kanji": "十六人",
       "hiragana": "じゅうろくにん",
       "romaji": "juurokunin",
-      "meaning": "sixteen people"
+      "meaning": "sixteen people",
+      "sound_text": "じゅうろくにん"
     },
     {
       "id": 17,
@@ -147,7 +162,8 @@
       "hiragana": "じゅうななにん / じゅうしちにん",
       "romaji": "juunananin / juushichinin",
       "meaning": "seventeen people",
-      "description": "じゅうななにん is very common. じゅうしちにん is also possible."
+      "description": "じゅうななにん is very common.",
+      "sound_text": "じゅうななにん"
     },
     {
       "id": 18,
@@ -155,7 +171,8 @@
       "kanji": "十八人",
       "hiragana": "じゅうはちにん",
       "romaji": "juuhachinin",
-      "meaning": "eighteen people"
+      "meaning": "eighteen people",
+      "sound_text": "じゅうはちにん"
     },
     {
       "id": 19,
@@ -163,7 +180,8 @@
       "kanji": "十九人",
       "hiragana": "じゅうきゅうにん",
       "romaji": "juukyuunin",
-      "meaning": "nineteen people"
+      "meaning": "nineteen people",
+      "sound_text": "じゅうきゅうにん"
     },
     {
       "id": 20,
@@ -171,7 +189,8 @@
       "kanji": "二十人",
       "hiragana": "にじゅうにん",
       "romaji": "nijuunin",
-      "meaning": "twenty people"
+      "meaning": "twenty people",
+      "sound_text": "にじゅうにん"
     }
   ]
 }
