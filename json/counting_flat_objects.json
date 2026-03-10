@@ -1,0 +1,179 @@
+{
+  "category_id": "counting_flat_objects",
+  "category_title": "Counting Flat Objects",
+  "category_subtitle": "Learn how to count flat objects in Japanese using 枚",
+  "category_detail": "<b>Counting Flat Objects in Japanese</b><br><br>In Japanese, flat and thin objects are commonly counted with the counter <b>「枚」</b>.<br><br>This counter is used for things like <b>paper, tickets, cards, shirts, plates, leaves, photos, stamps, and other flat items</b>.<br><br><b>Basic Pattern</b><br>Most numbers follow the pattern:<br><span class=\"example\">number + 枚</span><br><br>Examples:<br><span class=\"example\">1枚</span> <span class=\"romaji\">(いちまい / ichimai)</span><br><span class=\"example\">2枚</span> <span class=\"romaji\">(にまい / nimai)</span><br><span class=\"example\">3枚</span> <span class=\"romaji\">(さんまい / sanmai)</span><br><br><b>Important Notes</b><br>This counter is easier than some other Japanese counters because its reading pattern is quite regular.<br><br>However, learners should still pay attention to pronunciation and remember that <b>枚</b> is specifically for <b>flat or thin objects</b>, not for general items.<br><br><b>Common Examples</b><br><span class=\"example\">紙を一枚ください。</span> <span class=\"romaji\">(kami o ichimai kudasai)</span><br>Meaning: Please give me one sheet of paper.<br><br><span class=\"example\">切符を二枚買いました。</span> <span class=\"romaji\">(kippu o nimai kaimashita)</span><br>Meaning: I bought two tickets.<br><br>This category focuses on the most useful and natural learner-friendly readings for counting flat objects.",
+  "item_list": [
+    {
+      "id": 1,
+      "value": "1",
+      "kanji": "一枚",
+      "hiragana": "いちまい",
+      "romaji": "ichimai",
+      "meaning": "one flat object",
+      "description": "Used for one flat item such as one sheet of paper, one ticket, or one plate."
+    },
+    {
+      "id": 2,
+      "value": "2",
+      "kanji": "二枚",
+      "hiragana": "にまい",
+      "romaji": "nimai",
+      "meaning": "two flat objects",
+      "description": "Used for two flat items such as two cards or two shirts."
+    },
+    {
+      "id": 3,
+      "value": "3",
+      "kanji": "三枚",
+      "hiragana": "さんまい",
+      "romaji": "sanmai",
+      "meaning": "three flat objects",
+      "description": "A regular and commonly used reading."
+    },
+    {
+      "id": 4,
+      "value": "4",
+      "kanji": "四枚",
+      "hiragana": "よんまい",
+      "romaji": "yonmai",
+      "meaning": "four flat objects",
+      "description": "よんまい is the standard learner-friendly reading."
+    },
+    {
+      "id": 5,
+      "value": "5",
+      "kanji": "五枚",
+      "hiragana": "ごまい",
+      "romaji": "gomai",
+      "meaning": "five flat objects"
+    },
+    {
+      "id": 6,
+      "value": "6",
+      "kanji": "六枚",
+      "hiragana": "ろくまい",
+      "romaji": "rokumai",
+      "meaning": "six flat objects"
+    },
+    {
+      "id": 7,
+      "value": "7",
+      "kanji": "七枚",
+      "hiragana": "ななまい / しちまい",
+      "romaji": "nanamai / shichimai",
+      "meaning": "seven flat objects",
+      "description": "ななまい is very common and easy for learners. しちまい may also be heard."
+    },
+    {
+      "id": 8,
+      "value": "8",
+      "kanji": "八枚",
+      "hiragana": "はちまい",
+      "romaji": "hachimai",
+      "meaning": "eight flat objects"
+    },
+    {
+      "id": 9,
+      "value": "9",
+      "kanji": "九枚",
+      "hiragana": "きゅうまい",
+      "romaji": "kyuumai",
+      "meaning": "nine flat objects",
+      "description": "きゅうまい is the standard reading."
+    },
+    {
+      "id": 10,
+      "value": "10",
+      "kanji": "十枚",
+      "hiragana": "じゅうまい",
+      "romaji": "juumai",
+      "meaning": "ten flat objects"
+    },
+    {
+      "id": 11,
+      "value": "11",
+      "kanji": "十一枚",
+      "hiragana": "じゅういちまい",
+      "romaji": "juuichimai",
+      "meaning": "eleven flat objects",
+      "description": "From 11 onward, the reading usually follows the regular number + まい pattern."
+    },
+    {
+      "id": 12,
+      "value": "12",
+      "kanji": "十二枚",
+      "hiragana": "じゅうにまい",
+      "romaji": "juunimai",
+      "meaning": "twelve flat objects"
+    },
+    {
+      "id": 13,
+      "value": "13",
+      "kanji": "十三枚",
+      "hiragana": "じゅうさんまい",
+      "romaji": "juusanmai",
+      "meaning": "thirteen flat objects"
+    },
+    {
+      "id": 14,
+      "value": "14",
+      "kanji": "十四枚",
+      "hiragana": "じゅうよんまい / じゅうしまい",
+      "romaji": "juuyonmai / juushimai",
+      "meaning": "fourteen flat objects",
+      "description": "じゅうよんまい is more common and recommended for learners. じゅうしまい may also be heard."
+    },
+    {
+      "id": 15,
+      "value": "15",
+      "kanji": "十五枚",
+      "hiragana": "じゅうごまい",
+      "romaji": "juugomai",
+      "meaning": "fifteen flat objects"
+    },
+    {
+      "id": 16,
+      "value": "16",
+      "kanji": "十六枚",
+      "hiragana": "じゅうろくまい",
+      "romaji": "juurokumai",
+      "meaning": "sixteen flat objects"
+    },
+    {
+      "id": 17,
+      "value": "17",
+      "kanji": "十七枚",
+      "hiragana": "じゅうななまい / じゅうしちまい",
+      "romaji": "juunanamai / juushichimai",
+      "meaning": "seventeen flat objects",
+      "description": "じゅうななまい is very common and easy for learners. じゅうしちまい is also possible."
+    },
+    {
+      "id": 18,
+      "value": "18",
+      "kanji": "十八枚",
+      "hiragana": "じゅうはちまい",
+      "romaji": "juuhachimai",
+      "meaning": "eighteen flat objects"
+    },
+    {
+      "id": 19,
+      "value": "19",
+      "kanji": "十九枚",
+      "hiragana": "じゅうきゅうまい",
+      "romaji": "juukyuumai",
+      "meaning": "nineteen flat objects",
+      "description": "じゅうきゅうまい is the standard reading."
+    },
+    {
+      "id": 20,
+      "value": "20",
+      "kanji": "二十枚",
+      "hiragana": "にじゅうまい",
+      "romaji": "nijuumai",
+      "meaning": "twenty flat objects",
+      "description": "A regular reading used for twenty flat items."
+    }
+  ]
+}
