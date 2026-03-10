@@ -1,0 +1,196 @@
+{
+  "category_id": "counting_order_numbers",
+  "category_title": "Counting Order Numbers",
+  "category_subtitle": "Learn how to express order and sequence in Japanese using 番目",
+  "category_detail": "<b>Counting Order Numbers in Japanese</b><br><br>In Japanese, order numbers such as <b>first, second, third, fourth</b> are commonly expressed using <b>「番目」</b>.<br><br>This pattern is used when talking about position, rank, or sequence in a line, list, order, or process.<br><br><b>Basic Pattern</b><br>The usual pattern is:<br><span class=\"example\">number + 番目</span><br><br>Examples:<br><span class=\"example\">一番目</span> <span class=\"romaji\">(いちばんめ / ichibanme)</span><br><span class=\"example\">二番目</span> <span class=\"romaji\">(にばんめ / nibanme)</span><br><span class=\"example\">三番目</span> <span class=\"romaji\">(さんばんめ / sanbanme)</span><br><br><b>Common Usage</b><br><span class=\"example\">私は一番目に来ました。</span> <span class=\"romaji\">(watashi wa ichibanme ni kimashita)</span><br>Meaning: I came first.<br><br><span class=\"example\">二番目のページを見てください。</span> <span class=\"romaji\">(nibanme no peeji o mite kudasai)</span><br>Meaning: Please look at the second page.<br><br><b>Important Notes</b><br><b>番目</b> is used for sequence or position, not for counting general objects. It answers questions like <b>which one in order?</b> rather than <b>how many?</b><br><br>This category focuses on the most useful and natural learner-friendly forms for order numbers.",
+  "item_list": [
+    {
+      "id": 1,
+      "value": "1st",
+      "kanji": "一番目",
+      "hiragana": "いちばんめ",
+      "romaji": "ichibanme",
+      "meaning": "first",
+      "description": "Used for the first position in an order or sequence.",
+      "sound_text": "いちばんめ"
+    },
+    {
+      "id": 2,
+      "value": "2nd",
+      "kanji": "二番目",
+      "hiragana": "にばんめ",
+      "romaji": "nibanme",
+      "meaning": "second",
+      "description": "Used for the second position in an order or sequence.",
+      "sound_text": "にばんめ"
+    },
+    {
+      "id": 3,
+      "value": "3rd",
+      "kanji": "三番目",
+      "hiragana": "さんばんめ",
+      "romaji": "sanbanme",
+      "meaning": "third",
+      "description": "Used for the third position in an order or sequence.",
+      "sound_text": "さんばんめ"
+    },
+    {
+      "id": 4,
+      "value": "4th",
+      "kanji": "四番目",
+      "hiragana": "よんばんめ / しばんめ",
+      "romaji": "yonbanme / shibanme",
+      "meaning": "fourth",
+      "description": "よんばんめ is the standard learner-friendly reading. しばんめ may also be heard.",
+      "sound_text": "よんばんめ"
+    },
+    {
+      "id": 5,
+      "value": "5th",
+      "kanji": "五番目",
+      "hiragana": "ごばんめ",
+      "romaji": "gobanme",
+      "meaning": "fifth",
+      "sound_text": "ごばんめ"
+    },
+    {
+      "id": 6,
+      "value": "6th",
+      "kanji": "六番目",
+      "hiragana": "ろくばんめ",
+      "romaji": "rokubanme",
+      "meaning": "sixth",
+      "sound_text": "ろくばんめ"
+    },
+    {
+      "id": 7,
+      "value": "7th",
+      "kanji": "七番目",
+      "hiragana": "ななばんめ / しちばんめ",
+      "romaji": "nanabanme / shichibanme",
+      "meaning": "seventh",
+      "description": "ななばんめ is very common and easier for learners. しちばんめ is also possible.",
+      "sound_text": "ななばんめ"
+    },
+    {
+      "id": 8,
+      "value": "8th",
+      "kanji": "八番目",
+      "hiragana": "はちばんめ",
+      "romaji": "hachibanme",
+      "meaning": "eighth",
+      "sound_text": "はちばんめ"
+    },
+    {
+      "id": 9,
+      "value": "9th",
+      "kanji": "九番目",
+      "hiragana": "きゅうばんめ / くばんめ",
+      "romaji": "kyuubanme / kubanme",
+      "meaning": "ninth",
+      "description": "きゅうばんめ is the standard learner-friendly reading. くばんめ may also be heard.",
+      "sound_text": "きゅうばんめ"
+    },
+    {
+      "id": 10,
+      "value": "10th",
+      "kanji": "十番目",
+      "hiragana": "じゅうばんめ",
+      "romaji": "juubanme",
+      "meaning": "tenth",
+      "sound_text": "じゅうばんめ"
+    },
+    {
+      "id": 11,
+      "value": "11th",
+      "kanji": "十一番目",
+      "hiragana": "じゅういちばんめ",
+      "romaji": "juuichibanme",
+      "meaning": "eleventh",
+      "sound_text": "じゅういちばんめ"
+    },
+    {
+      "id": 12,
+      "value": "12th",
+      "kanji": "十二番目",
+      "hiragana": "じゅうにばんめ",
+      "romaji": "juunibanme",
+      "meaning": "twelfth",
+      "sound_text": "じゅうにばんめ"
+    },
+    {
+      "id": 13,
+      "value": "13th",
+      "kanji": "十三番目",
+      "hiragana": "じゅうさんばんめ",
+      "romaji": "juusanbanme",
+      "meaning": "thirteenth",
+      "sound_text": "じゅうさんばんめ"
+    },
+    {
+      "id": 14,
+      "value": "14th",
+      "kanji": "十四番目",
+      "hiragana": "じゅうよんばんめ / じゅうしばんめ",
+      "romaji": "juuyonbanme / juushibanme",
+      "meaning": "fourteenth",
+      "description": "じゅうよんばんめ is more common and recommended for learners. じゅうしばんめ may also be heard.",
+      "sound_text": "じゅうよんばんめ"
+    },
+    {
+      "id": 15,
+      "value": "15th",
+      "kanji": "十五番目",
+      "hiragana": "じゅうごばんめ",
+      "romaji": "juugobanme",
+      "meaning": "fifteenth",
+      "sound_text": "じゅうごばんめ"
+    },
+    {
+      "id": 16,
+      "value": "16th",
+      "kanji": "十六番目",
+      "hiragana": "じゅうろくばんめ",
+      "romaji": "juurokubanme",
+      "meaning": "sixteenth",
+      "sound_text": "じゅうろくばんめ"
+    },
+    {
+      "id": 17,
+      "value": "17th",
+      "kanji": "十七番目",
+      "hiragana": "じゅうななばんめ / じゅうしちばんめ",
+      "romaji": "juunanabanme / juushichibanme",
+      "meaning": "seventeenth",
+      "description": "じゅうななばんめ is very common and easier for learners. じゅうしちばんめ is also possible.",
+      "sound_text": "じゅうななばんめ"
+    },
+    {
+      "id": 18,
+      "value": "18th",
+      "kanji": "十八番目",
+      "hiragana": "じゅうはちばんめ",
+      "romaji": "juuhachibanme",
+      "meaning": "eighteenth",
+      "sound_text": "じゅうはちばんめ"
+    },
+    {
+      "id": 19,
+      "value": "19th",
+      "kanji": "十九番目",
+      "hiragana": "じゅうきゅうばんめ",
+      "romaji": "juukyuubanme",
+      "meaning": "nineteenth",
+      "sound_text": "じゅうきゅうばんめ"
+    },
+    {
+      "id": 20,
+      "value": "20th",
+      "kanji": "二十番目",
+      "hiragana": "にじゅうばんめ",
+      "romaji": "nijuubanme",
+      "meaning": "twentieth",
+      "sound_text": "にじゅうばんめ"
+    }
+  ]
+}
