@@ -1,0 +1,188 @@
+{
+  "category_id": "counting_houses",
+  "category_title": "Counting Houses",
+  "category_subtitle": "Learn how to count houses and buildings in Japanese using 軒",
+  "category_detail": "<b>Counting Houses in Japanese</b><br><br>In Japanese, houses and buildings are counted using the counter <b>「軒」(けん / ken)</b>.<br><br>This counter is commonly used for <b>houses, shops, restaurants, and other buildings</b>.<br><br><b>Important Sound Changes</b><br>Some numbers change pronunciation when combined with 軒.<br><br><span class=\"example\">1軒</span> <span class=\"romaji\">(いっけん / ikken)</span><br><span class=\"example\">6軒</span> <span class=\"romaji\">(ろっけん / rokken)</span><br><span class=\"example\">8軒</span> <span class=\"romaji\">(はっけん / hakken)</span><br><span class=\"example\">10軒</span> <span class=\"romaji\">(じゅっけん / jukken)</span><br><br><b>Common Usage</b><br><span class=\"example\">この通りには家が三軒あります。</span> <span class=\"romaji\">(kono toori ni wa ie ga sanken arimasu)</span><br>Meaning: There are three houses on this street.<br><br>This counter is useful when talking about buildings in a neighborhood.",
+  "item_list": [
+    {
+      "id": 1,
+      "value": "1",
+      "kanji": "一軒",
+      "hiragana": "いっけん",
+      "romaji": "ikken",
+      "meaning": "one house",
+      "sound_text": "いっけん"
+    },
+    {
+      "id": 2,
+      "value": "2",
+      "kanji": "二軒",
+      "hiragana": "にけん",
+      "romaji": "niken",
+      "meaning": "two houses",
+      "sound_text": "にけん"
+    },
+    {
+      "id": 3,
+      "value": "3",
+      "kanji": "三軒",
+      "hiragana": "さんげん / さんけん",
+      "romaji": "sangen / sanken",
+      "meaning": "three houses",
+      "sound_text": "さんげん"
+    },
+    {
+      "id": 4,
+      "value": "4",
+      "kanji": "四軒",
+      "hiragana": "よんけん / しけん",
+      "romaji": "yonken / shiken",
+      "meaning": "four houses",
+      "sound_text": "よんけん"
+    },
+    {
+      "id": 5,
+      "value": "5",
+      "kanji": "五軒",
+      "hiragana": "ごけん",
+      "romaji": "goken",
+      "meaning": "five houses",
+      "sound_text": "ごけん"
+    },
+    {
+      "id": 6,
+      "value": "6",
+      "kanji": "六軒",
+      "hiragana": "ろっけん",
+      "romaji": "rokken",
+      "meaning": "six houses",
+      "sound_text": "ろっけん"
+    },
+    {
+      "id": 7,
+      "value": "7",
+      "kanji": "七軒",
+      "hiragana": "ななけん / しちけん",
+      "romaji": "nanaken / shichiken",
+      "meaning": "seven houses",
+      "sound_text": "ななけん"
+    },
+    {
+      "id": 8,
+      "value": "8",
+      "kanji": "八軒",
+      "hiragana": "はっけん",
+      "romaji": "hakken",
+      "meaning": "eight houses",
+      "sound_text": "はっけん"
+    },
+    {
+      "id": 9,
+      "value": "9",
+      "kanji": "九軒",
+      "hiragana": "きゅうけん / くけん",
+      "romaji": "kyuuken / kuken",
+      "meaning": "nine houses",
+      "sound_text": "きゅうけん"
+    },
+    {
+      "id": 10,
+      "value": "10",
+      "kanji": "十軒",
+      "hiragana": "じゅっけん / じっけん",
+      "romaji": "jukken / jikken",
+      "meaning": "ten houses",
+      "sound_text": "じゅっけん"
+    },
+    {
+      "id": 11,
+      "value": "11",
+      "kanji": "十一軒",
+      "hiragana": "じゅういっけん",
+      "romaji": "juuikken",
+      "meaning": "eleven houses",
+      "sound_text": "じゅういっけん"
+    },
+    {
+      "id": 12,
+      "value": "12",
+      "kanji": "十二軒",
+      "hiragana": "じゅうにけん",
+      "romaji": "juuniken",
+      "meaning": "twelve houses",
+      "sound_text": "じゅうにけん"
+    },
+    {
+      "id": 13,
+      "value": "13",
+      "kanji": "十三軒",
+      "hiragana": "じゅうさんげん / じゅうさんけん",
+      "romaji": "juusangen / juusanken",
+      "meaning": "thirteen houses",
+      "sound_text": "じゅうさんげん"
+    },
+    {
+      "id": 14,
+      "value": "14",
+      "kanji": "十四軒",
+      "hiragana": "じゅうよんけん / じゅうしけん",
+      "romaji": "juuyonken / juushiken",
+      "meaning": "fourteen houses",
+      "sound_text": "じゅうよんけん"
+    },
+    {
+      "id": 15,
+      "value": "15",
+      "kanji": "十五軒",
+      "hiragana": "じゅうごけん",
+      "romaji": "juugoken",
+      "meaning": "fifteen houses",
+      "sound_text": "じゅうごけん"
+    },
+    {
+      "id": 16,
+      "value": "16",
+      "kanji": "十六軒",
+      "hiragana": "じゅうろっけん",
+      "romaji": "juurokken",
+      "meaning": "sixteen houses",
+      "sound_text": "じゅうろっけん"
+    },
+    {
+      "id": 17,
+      "value": "17",
+      "kanji": "十七軒",
+      "hiragana": "じゅうななけん / じゅうしちけん",
+      "romaji": "juunanaken / juushichiken",
+      "meaning": "seventeen houses",
+      "sound_text": "じゅうななけん"
+    },
+    {
+      "id": 18,
+      "value": "18",
+      "kanji": "十八軒",
+      "hiragana": "じゅうはっけん",
+      "romaji": "juuhakken",
+      "meaning": "eighteen houses",
+      "sound_text": "じゅうはっけん"
+    },
+    {
+      "id": 19,
+      "value": "19",
+      "kanji": "十九軒",
+      "hiragana": "じゅうきゅうけん",
+      "romaji": "juukyuuken",
+      "meaning": "nineteen houses",
+      "sound_text": "じゅうきゅうけん"
+    },
+    {
+      "id": 20,
+      "value": "20",
+      "kanji": "二十軒",
+      "hiragana": "にじゅっけん / にじっけん",
+      "romaji": "nijukken / nijikken",
+      "meaning": "twenty houses",
+      "sound_text": "にじゅっけん"
+    }
+  ]
+}
