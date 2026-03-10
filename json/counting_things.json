@@ -10,7 +10,8 @@
       "kanji": "一つ",
       "hiragana": "ひとつ",
       "romaji": "hitotsu",
-      "meaning": "one thing"
+      "meaning": "one thing",
+      "sound_text": "ひとつ"
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "kanji": "二つ",
       "hiragana": "ふたつ",
       "romaji": "futatsu",
-      "meaning": "two things"
+      "meaning": "two things",
+      "sound_text": "ふたつ"
     },
     {
       "id": 3,
@@ -26,7 +28,8 @@
       "kanji": "三つ",
       "hiragana": "みっつ",
       "romaji": "mittsu",
-      "meaning": "three things"
+      "meaning": "three things",
+      "sound_text": "みっつ"
     },
     {
       "id": 4,
@@ -34,7 +37,8 @@
       "kanji": "四つ",
       "hiragana": "よっつ",
       "romaji": "yottsu",
-      "meaning": "four things"
+      "meaning": "four things",
+      "sound_text": "よっつ"
     },
     {
       "id": 5,
@@ -42,7 +46,8 @@
       "kanji": "五つ",
       "hiragana": "いつつ",
       "romaji": "itsutsu",
-      "meaning": "five things"
+      "meaning": "five things",
+      "sound_text": "いつつ"
     },
     {
       "id": 6,
@@ -50,7 +55,8 @@
       "kanji": "六つ",
       "hiragana": "むっつ",
       "romaji": "muttsu",
-      "meaning": "six things"
+      "meaning": "six things",
+      "sound_text": "むっつ"
     },
     {
       "id": 7,
@@ -58,7 +64,8 @@
       "kanji": "七つ",
       "hiragana": "ななつ",
       "romaji": "nanatsu",
-      "meaning": "seven things"
+      "meaning": "seven things",
+      "sound_text": "ななつ"
     },
     {
       "id": 8,
@@ -66,7 +73,8 @@
       "kanji": "八つ",
       "hiragana": "やっつ",
       "romaji": "yattsu",
-      "meaning": "eight things"
+      "meaning": "eight things",
+      "sound_text": "やっつ"
     },
     {
       "id": 9,
@@ -74,7 +82,8 @@
       "kanji": "九つ",
       "hiragana": "ここのつ",
       "romaji": "kokonotsu",
-      "meaning": "nine things"
+      "meaning": "nine things",
+      "sound_text": "ここのつ"
     },
     {
       "id": 10,
@@ -82,7 +91,8 @@
       "kanji": "十",
       "hiragana": "とお",
       "romaji": "too",
-      "meaning": "ten things"
+      "meaning": "ten things",
+      "sound_text": "とお"
     },
     {
       "id": 11,
@@ -91,7 +101,8 @@
       "hiragana": "じゅういっこ",
       "romaji": "juuikko",
       "meaning": "eleven things",
-      "description": "After ten, the counter 個 (こ) is commonly used instead of the 「つ」 pattern."
+      "description": "After ten, the counter 個 (こ) is commonly used instead of the 「つ」 pattern.",
+      "sound_text": "じゅういっこ"
     },
     {
       "id": 12,
@@ -99,7 +110,8 @@
       "kanji": "十二個",
       "hiragana": "じゅうにこ",
       "romaji": "juuniko",
-      "meaning": "twelve things"
+      "meaning": "twelve things",
+      "sound_text": "じゅうにこ"
     },
     {
       "id": 13,
@@ -107,7 +119,8 @@
       "kanji": "十三個",
       "hiragana": "じゅうさんこ",
       "romaji": "juusanko",
-      "meaning": "thirteen things"
+      "meaning": "thirteen things",
+      "sound_text": "じゅうさんこ"
     },
     {
       "id": 14,
@@ -115,7 +128,8 @@
       "kanji": "十四個",
       "hiragana": "じゅうよんこ",
       "romaji": "juuyonko",
-      "meaning": "fourteen things"
+      "meaning": "fourteen things",
+      "sound_text": "じゅうよんこ"
     },
     {
       "id": 15,
@@ -123,7 +137,8 @@
       "kanji": "十五個",
       "hiragana": "じゅうごこ",
       "romaji": "juugoko",
-      "meaning": "fifteen things"
+      "meaning": "fifteen things",
+      "sound_text": "じゅうごこ"
     }
   ]
 }
