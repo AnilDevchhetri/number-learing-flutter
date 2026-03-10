@@ -1,0 +1,188 @@
+{
+  "category_id": "counting_machines",
+  "category_title": "Counting Machines",
+  "category_subtitle": "Learn how to count machines and vehicles in Japanese using 台",
+  "category_detail": "<b>Counting Machines in Japanese</b><br><br>In Japanese, machines and mechanical devices are counted using the counter <b>「台」(だい / dai)</b>.<br><br>This counter is used for things such as <b>cars, computers, televisions, smartphones, cameras, refrigerators, washing machines, and other mechanical equipment</b>.<br><br><b>Basic Pattern</b><br>Most numbers follow the simple pattern:<br><span class=\"example\">number + 台</span><br><br>Examples:<br><span class=\"example\">1台</span> <span class=\"romaji\">(いちだい / ichidai)</span><br><span class=\"example\">2台</span> <span class=\"romaji\">(にだい / nidai)</span><br><span class=\"example\">3台</span> <span class=\"romaji\">(さんだい / sandai)</span><br><br><b>Common Usage</b><br><span class=\"example\">車が三台あります。</span> <span class=\"romaji\">(kuruma ga sandai arimasu)</span><br>Meaning: There are three cars.<br><br>This counter has a very regular pronunciation pattern and is easy for learners.",
+  "item_list": [
+    {
+      "id": 1,
+      "value": "1",
+      "kanji": "一台",
+      "hiragana": "いちだい",
+      "romaji": "ichidai",
+      "meaning": "one machine",
+      "sound_text": "いちだい"
+    },
+    {
+      "id": 2,
+      "value": "2",
+      "kanji": "二台",
+      "hiragana": "にだい",
+      "romaji": "nidai",
+      "meaning": "two machines",
+      "sound_text": "にだい"
+    },
+    {
+      "id": 3,
+      "value": "3",
+      "kanji": "三台",
+      "hiragana": "さんだい",
+      "romaji": "sandai",
+      "meaning": "three machines",
+      "sound_text": "さんだい"
+    },
+    {
+      "id": 4,
+      "value": "4",
+      "kanji": "四台",
+      "hiragana": "よんだい / しだい",
+      "romaji": "yondai / shidai",
+      "meaning": "four machines",
+      "sound_text": "よんだい"
+    },
+    {
+      "id": 5,
+      "value": "5",
+      "kanji": "五台",
+      "hiragana": "ごだい",
+      "romaji": "godai",
+      "meaning": "five machines",
+      "sound_text": "ごだい"
+    },
+    {
+      "id": 6,
+      "value": "6",
+      "kanji": "六台",
+      "hiragana": "ろくだい",
+      "romaji": "rokudai",
+      "meaning": "six machines",
+      "sound_text": "ろくだい"
+    },
+    {
+      "id": 7,
+      "value": "7",
+      "kanji": "七台",
+      "hiragana": "ななだい / しちだい",
+      "romaji": "nanadai / shichidai",
+      "meaning": "seven machines",
+      "sound_text": "ななだい"
+    },
+    {
+      "id": 8,
+      "value": "8",
+      "kanji": "八台",
+      "hiragana": "はちだい",
+      "romaji": "hachidai",
+      "meaning": "eight machines",
+      "sound_text": "はちだい"
+    },
+    {
+      "id": 9,
+      "value": "9",
+      "kanji": "九台",
+      "hiragana": "きゅうだい / くだい",
+      "romaji": "kyuudai / kudai",
+      "meaning": "nine machines",
+      "sound_text": "きゅうだい"
+    },
+    {
+      "id": 10,
+      "value": "10",
+      "kanji": "十台",
+      "hiragana": "じゅうだい",
+      "romaji": "juudai",
+      "meaning": "ten machines",
+      "sound_text": "じゅうだい"
+    },
+    {
+      "id": 11,
+      "value": "11",
+      "kanji": "十一台",
+      "hiragana": "じゅういちだい",
+      "romaji": "juuichidai",
+      "meaning": "eleven machines",
+      "sound_text": "じゅういちだい"
+    },
+    {
+      "id": 12,
+      "value": "12",
+      "kanji": "十二台",
+      "hiragana": "じゅうにだい",
+      "romaji": "juunidai",
+      "meaning": "twelve machines",
+      "sound_text": "じゅうにだい"
+    },
+    {
+      "id": 13,
+      "value": "13",
+      "kanji": "十三台",
+      "hiragana": "じゅうさんだい",
+      "romaji": "juusandai",
+      "meaning": "thirteen machines",
+      "sound_text": "じゅうさんだい"
+    },
+    {
+      "id": 14,
+      "value": "14",
+      "kanji": "十四台",
+      "hiragana": "じゅうよんだい / じゅうしだい",
+      "romaji": "juuyondai / juushidai",
+      "meaning": "fourteen machines",
+      "sound_text": "じゅうよんだい"
+    },
+    {
+      "id": 15,
+      "value": "15",
+      "kanji": "十五台",
+      "hiragana": "じゅうごだい",
+      "romaji": "juugodai",
+      "meaning": "fifteen machines",
+      "sound_text": "じゅうごだい"
+    },
+    {
+      "id": 16,
+      "value": "16",
+      "kanji": "十六台",
+      "hiragana": "じゅうろくだい",
+      "romaji": "juurokudai",
+      "meaning": "sixteen machines",
+      "sound_text": "じゅうろくだい"
+    },
+    {
+      "id": 17,
+      "value": "17",
+      "kanji": "十七台",
+      "hiragana": "じゅうななだい / じゅうしちだい",
+      "romaji": "juunanadai / juushichidai",
+      "meaning": "seventeen machines",
+      "sound_text": "じゅうななだい"
+    },
+    {
+      "id": 18,
+      "value": "18",
+      "kanji": "十八台",
+      "hiragana": "じゅうはちだい",
+      "romaji": "juuhachidai",
+      "meaning": "eighteen machines",
+      "sound_text": "じゅうはちだい"
+    },
+    {
+      "id": 19,
+      "value": "19",
+      "kanji": "十九台",
+      "hiragana": "じゅうきゅうだい",
+      "romaji": "juukyuudai",
+      "meaning": "nineteen machines",
+      "sound_text": "じゅうきゅうだい"
+    },
+    {
+      "id": 20,
+      "value": "20",
+      "kanji": "二十台",
+      "hiragana": "にじゅうだい",
+      "romaji": "nijuudai",
+      "meaning": "twenty machines",
+      "sound_text": "にじゅうだい"
+    }
+  ]
+}
