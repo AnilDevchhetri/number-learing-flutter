@@ -1,0 +1,188 @@
+{
+  "category_id": "counting_books",
+  "category_title": "Counting Books",
+  "category_subtitle": "Learn how to count books and bound volumes in Japanese using 冊",
+  "category_detail": "<b>Counting Books in Japanese</b><br><br>In Japanese, books and bound printed materials are counted using the counter <b>「冊」(さつ / satsu)</b>.<br><br>This counter is commonly used for <b>books, notebooks, magazines, dictionaries, manuals, and other bound publications</b>.<br><br><b>Important Sound Changes</b><br>Some numbers change pronunciation when combined with 冊.<br><br><span class=\"example\">1冊</span> <span class=\"romaji\">(いっさつ / issatsu)</span><br><span class=\"example\">8冊</span> <span class=\"romaji\">(はっさつ / hassatsu)</span><br><span class=\"example\">10冊</span> <span class=\"romaji\">(じゅっさつ / jussatsu)</span><br><br><b>Common Usage</b><br><span class=\"example\">本を三冊買いました。</span> <span class=\"romaji\">(hon o sansatsu kaimashita)</span><br>Meaning: I bought three books.<br><br>This counter is very commonly used in everyday life and when shopping for books.",
+  "item_list": [
+    {
+      "id": 1,
+      "value": "1",
+      "kanji": "一冊",
+      "hiragana": "いっさつ",
+      "romaji": "issatsu",
+      "meaning": "one book",
+      "sound_text": "いっさつ"
+    },
+    {
+      "id": 2,
+      "value": "2",
+      "kanji": "二冊",
+      "hiragana": "にさつ",
+      "romaji": "nisatsu",
+      "meaning": "two books",
+      "sound_text": "にさつ"
+    },
+    {
+      "id": 3,
+      "value": "3",
+      "kanji": "三冊",
+      "hiragana": "さんさつ",
+      "romaji": "sansatsu",
+      "meaning": "three books",
+      "sound_text": "さんさつ"
+    },
+    {
+      "id": 4,
+      "value": "4",
+      "kanji": "四冊",
+      "hiragana": "よんさつ / しさつ",
+      "romaji": "yonsatsu / shisatsu",
+      "meaning": "four books",
+      "sound_text": "よんさつ"
+    },
+    {
+      "id": 5,
+      "value": "5",
+      "kanji": "五冊",
+      "hiragana": "ごさつ",
+      "romaji": "gosatsu",
+      "meaning": "five books",
+      "sound_text": "ごさつ"
+    },
+    {
+      "id": 6,
+      "value": "6",
+      "kanji": "六冊",
+      "hiragana": "ろくさつ",
+      "romaji": "rokusatsu",
+      "meaning": "six books",
+      "sound_text": "ろくさつ"
+    },
+    {
+      "id": 7,
+      "value": "7",
+      "kanji": "七冊",
+      "hiragana": "ななさつ / しちさつ",
+      "romaji": "nanasatsu / shichisatsu",
+      "meaning": "seven books",
+      "sound_text": "ななさつ"
+    },
+    {
+      "id": 8,
+      "value": "8",
+      "kanji": "八冊",
+      "hiragana": "はっさつ",
+      "romaji": "hassatsu",
+      "meaning": "eight books",
+      "sound_text": "はっさつ"
+    },
+    {
+      "id": 9,
+      "value": "9",
+      "kanji": "九冊",
+      "hiragana": "きゅうさつ / くさつ",
+      "romaji": "kyuusatsu / kusatsu",
+      "meaning": "nine books",
+      "sound_text": "きゅうさつ"
+    },
+    {
+      "id": 10,
+      "value": "10",
+      "kanji": "十冊",
+      "hiragana": "じゅっさつ / じっさつ",
+      "romaji": "jussatsu / jissatsu",
+      "meaning": "ten books",
+      "sound_text": "じゅっさつ"
+    },
+    {
+      "id": 11,
+      "value": "11",
+      "kanji": "十一冊",
+      "hiragana": "じゅういっさつ",
+      "romaji": "juuissatsu",
+      "meaning": "eleven books",
+      "sound_text": "じゅういっさつ"
+    },
+    {
+      "id": 12,
+      "value": "12",
+      "kanji": "十二冊",
+      "hiragana": "じゅうにさつ",
+      "romaji": "juunisatsu",
+      "meaning": "twelve books",
+      "sound_text": "じゅうにさつ"
+    },
+    {
+      "id": 13,
+      "value": "13",
+      "kanji": "十三冊",
+      "hiragana": "じゅうさんさつ",
+      "romaji": "juusansatsu",
+      "meaning": "thirteen books",
+      "sound_text": "じゅうさんさつ"
+    },
+    {
+      "id": 14,
+      "value": "14",
+      "kanji": "十四冊",
+      "hiragana": "じゅうよんさつ / じゅうしさつ",
+      "romaji": "juuyonsatsu / juushisatsu",
+      "meaning": "fourteen books",
+      "sound_text": "じゅうよんさつ"
+    },
+    {
+      "id": 15,
+      "value": "15",
+      "kanji": "十五冊",
+      "hiragana": "じゅうごさつ",
+      "romaji": "juugosatsu",
+      "meaning": "fifteen books",
+      "sound_text": "じゅうごさつ"
+    },
+    {
+      "id": 16,
+      "value": "16",
+      "kanji": "十六冊",
+      "hiragana": "じゅうろくさつ",
+      "romaji": "juurokusatsu",
+      "meaning": "sixteen books",
+      "sound_text": "じゅうろくさつ"
+    },
+    {
+      "id": 17,
+      "value": "17",
+      "kanji": "十七冊",
+      "hiragana": "じゅうななさつ / じゅうしちさつ",
+      "romaji": "juunanasatsu / juushichisatsu",
+      "meaning": "seventeen books",
+      "sound_text": "じゅうななさつ"
+    },
+    {
+      "id": 18,
+      "value": "18",
+      "kanji": "十八冊",
+      "hiragana": "じゅうはっさつ",
+      "romaji": "juuhassatsu",
+      "meaning": "eighteen books",
+      "sound_text": "じゅうはっさつ"
+    },
+    {
+      "id": 19,
+      "value": "19",
+      "kanji": "十九冊",
+      "hiragana": "じゅうきゅうさつ",
+      "romaji": "juukyuusatsu",
+      "meaning": "nineteen books",
+      "sound_text": "じゅうきゅうさつ"
+    },
+    {
+      "id": 20,
+      "value": "20",
+      "kanji": "二十冊",
+      "hiragana": "にじゅっさつ / にじっさつ",
+      "romaji": "nijussatsu / nijissatsu",
+      "meaning": "twenty books",
+      "sound_text": "にじゅっさつ"
+    }
+  ]
+}
