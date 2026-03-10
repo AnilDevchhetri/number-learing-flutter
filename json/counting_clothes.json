@@ -1,0 +1,188 @@
+{
+  "category_id": "counting_clothes",
+  "category_title": "Counting Clothes",
+  "category_subtitle": "Learn how to count clothes in Japanese using 着",
+  "category_detail": "<b>Counting Clothes in Japanese</b><br><br>In Japanese, clothing items are counted using the counter <b>「着」(ちゃく / chaku)</b>.<br><br>This counter is commonly used for <b>shirts, jackets, coats, suits, dresses, uniforms, and other worn clothing items</b>.<br><br><b>Basic Pattern</b><br>Most numbers follow the pattern:<br><span class=\"example\">number + 着</span><br><br>Examples:<br><span class=\"example\">1着</span> <span class=\"romaji\">(いっちゃく / icchaku)</span><br><span class=\"example\">2着</span> <span class=\"romaji\">(にちゃく / nichaku)</span><br><span class=\"example\">3着</span> <span class=\"romaji\">(さんちゃく / sanchaku)</span><br><br><b>Common Usage</b><br><span class=\"example\">シャツを二着買いました。</span> <span class=\"romaji\">(shatsu o nichaku kaimashita)</span><br>Meaning: I bought two shirts.<br><br>This counter is frequently used when talking about buying or wearing clothes.",
+  "item_list": [
+    {
+      "id": 1,
+      "value": "1",
+      "kanji": "一着",
+      "hiragana": "いっちゃく",
+      "romaji": "icchaku",
+      "meaning": "one piece of clothing",
+      "sound_text": "いっちゃく"
+    },
+    {
+      "id": 2,
+      "value": "2",
+      "kanji": "二着",
+      "hiragana": "にちゃく",
+      "romaji": "nichaku",
+      "meaning": "two pieces of clothing",
+      "sound_text": "にちゃく"
+    },
+    {
+      "id": 3,
+      "value": "3",
+      "kanji": "三着",
+      "hiragana": "さんちゃく",
+      "romaji": "sanchaku",
+      "meaning": "three pieces of clothing",
+      "sound_text": "さんちゃく"
+    },
+    {
+      "id": 4,
+      "value": "4",
+      "kanji": "四着",
+      "hiragana": "よんちゃく / しちゃく",
+      "romaji": "yonchaku / shichaku",
+      "meaning": "four pieces of clothing",
+      "sound_text": "よんちゃく"
+    },
+    {
+      "id": 5,
+      "value": "5",
+      "kanji": "五着",
+      "hiragana": "ごちゃく",
+      "romaji": "gochaku",
+      "meaning": "five pieces of clothing",
+      "sound_text": "ごちゃく"
+    },
+    {
+      "id": 6,
+      "value": "6",
+      "kanji": "六着",
+      "hiragana": "ろくちゃく",
+      "romaji": "rokuchaku",
+      "meaning": "six pieces of clothing",
+      "sound_text": "ろくちゃく"
+    },
+    {
+      "id": 7,
+      "value": "7",
+      "kanji": "七着",
+      "hiragana": "ななちゃく / しちちゃく",
+      "romaji": "nanachaku / shichichaku",
+      "meaning": "seven pieces of clothing",
+      "sound_text": "ななちゃく"
+    },
+    {
+      "id": 8,
+      "value": "8",
+      "kanji": "八着",
+      "hiragana": "はっちゃく",
+      "romaji": "hacchaku",
+      "meaning": "eight pieces of clothing",
+      "sound_text": "はっちゃく"
+    },
+    {
+      "id": 9,
+      "value": "9",
+      "kanji": "九着",
+      "hiragana": "きゅうちゃく / くちゃく",
+      "romaji": "kyuuchaku / kuchaku",
+      "meaning": "nine pieces of clothing",
+      "sound_text": "きゅうちゃく"
+    },
+    {
+      "id": 10,
+      "value": "10",
+      "kanji": "十着",
+      "hiragana": "じゅっちゃく / じっちゃく",
+      "romaji": "jucchaku / jicchaku",
+      "meaning": "ten pieces of clothing",
+      "sound_text": "じゅっちゃく"
+    },
+    {
+      "id": 11,
+      "value": "11",
+      "kanji": "十一着",
+      "hiragana": "じゅういっちゃく",
+      "romaji": "juuicchaku",
+      "meaning": "eleven pieces of clothing",
+      "sound_text": "じゅういっちゃく"
+    },
+    {
+      "id": 12,
+      "value": "12",
+      "kanji": "十二着",
+      "hiragana": "じゅうにちゃく",
+      "romaji": "juunichaku",
+      "meaning": "twelve pieces of clothing",
+      "sound_text": "じゅうにちゃく"
+    },
+    {
+      "id": 13,
+      "value": "13",
+      "kanji": "十三着",
+      "hiragana": "じゅうさんちゃく",
+      "romaji": "juusanchaku",
+      "meaning": "thirteen pieces of clothing",
+      "sound_text": "じゅうさんちゃく"
+    },
+    {
+      "id": 14,
+      "value": "14",
+      "kanji": "十四着",
+      "hiragana": "じゅうよんちゃく / じゅうしちゃく",
+      "romaji": "juuyonchaku / juushichaku",
+      "meaning": "fourteen pieces of clothing",
+      "sound_text": "じゅうよんちゃく"
+    },
+    {
+      "id": 15,
+      "value": "15",
+      "kanji": "十五着",
+      "hiragana": "じゅうごちゃく",
+      "romaji": "juugochaku",
+      "meaning": "fifteen pieces of clothing",
+      "sound_text": "じゅうごちゃく"
+    },
+    {
+      "id": 16,
+      "value": "16",
+      "kanji": "十六着",
+      "hiragana": "じゅうろくちゃく",
+      "romaji": "juurokuchaku",
+      "meaning": "sixteen pieces of clothing",
+      "sound_text": "じゅうろくちゃく"
+    },
+    {
+      "id": 17,
+      "value": "17",
+      "kanji": "十七着",
+      "hiragana": "じゅうななちゃく / じゅうしちちゃく",
+      "romaji": "juunanachaku / juushichichaku",
+      "meaning": "seventeen pieces of clothing",
+      "sound_text": "じゅうななちゃく"
+    },
+    {
+      "id": 18,
+      "value": "18",
+      "kanji": "十八着",
+      "hiragana": "じゅうはっちゃく",
+      "romaji": "juuhacchaku",
+      "meaning": "eighteen pieces of clothing",
+      "sound_text": "じゅうはっちゃく"
+    },
+    {
+      "id": 19,
+      "value": "19",
+      "kanji": "十九着",
+      "hiragana": "じゅうきゅうちゃく",
+      "romaji": "juukyuuchaku",
+      "meaning": "nineteen pieces of clothing",
+      "sound_text": "じゅうきゅうちゃく"
+    },
+    {
+      "id": 20,
+      "value": "20",
+      "kanji": "二十着",
+      "hiragana": "にじゅっちゃく / にじっちゃく",
+      "romaji": "nijucchaku / nijicchaku",
+      "meaning": "twenty pieces of clothing",
+      "sound_text": "にじゅっちゃく"
+    }
+  ]
+}
