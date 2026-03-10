@@ -1,0 +1,188 @@
+{
+  "category_id": "counting_pairs",
+  "category_title": "Counting Pairs",
+  "category_subtitle": "Learn how to count pairs or teams in Japanese using 組",
+  "category_detail": "<b>Counting Pairs in Japanese</b><br><br>In Japanese, the counter <b>「組」(くみ / kumi)</b> is used to count pairs, teams, or groups of people working together.<br><br>This counter is commonly used in schools, competitions, events, and when talking about couples or teams.<br><br><b>Basic Pattern</b><br>Most numbers follow the pattern:<br><span class=\"example\">number + 組</span><br><br>Examples:<br><span class=\"example\">一組</span> <span class=\"romaji\">(ひとくみ / hitokumi)</span><br><span class=\"example\">二組</span> <span class=\"romaji\">(ふたくみ / futakumi)</span><br><span class=\"example\">三組</span> <span class=\"romaji\">(さんくみ / sankumi)</span><br><br><b>Common Usage</b><br><span class=\"example\">三組のカップルが来ました。</span> <span class=\"romaji\">(sankumi no kappuru ga kimashita)</span><br>Meaning: Three couples came.<br><br><span class=\"example\">このクラスは五組あります。</span> <span class=\"romaji\">(kono kurasu wa gokumi arimasu)</span><br>Meaning: This class has five groups.<br><br>Compared to many other counters, the pronunciation of 組 is very regular and easy to learn.",
+  "item_list": [
+    {
+      "id": 1,
+      "value": "1",
+      "kanji": "一組",
+      "hiragana": "ひとくみ",
+      "romaji": "hitokumi",
+      "meaning": "one pair / one group",
+      "sound_text": "ひとくみ"
+    },
+    {
+      "id": 2,
+      "value": "2",
+      "kanji": "二組",
+      "hiragana": "ふたくみ",
+      "romaji": "futakumi",
+      "meaning": "two pairs",
+      "sound_text": "ふたくみ"
+    },
+    {
+      "id": 3,
+      "value": "3",
+      "kanji": "三組",
+      "hiragana": "さんくみ",
+      "romaji": "sankumi",
+      "meaning": "three pairs",
+      "sound_text": "さんくみ"
+    },
+    {
+      "id": 4,
+      "value": "4",
+      "kanji": "四組",
+      "hiragana": "よんくみ / しくみ",
+      "romaji": "yonkumi / shikumi",
+      "meaning": "four pairs",
+      "sound_text": "よんくみ"
+    },
+    {
+      "id": 5,
+      "value": "5",
+      "kanji": "五組",
+      "hiragana": "ごくみ",
+      "romaji": "gokumi",
+      "meaning": "five pairs",
+      "sound_text": "ごくみ"
+    },
+    {
+      "id": 6,
+      "value": "6",
+      "kanji": "六組",
+      "hiragana": "ろっくみ",
+      "romaji": "rokkumi",
+      "meaning": "six pairs",
+      "sound_text": "ろっくみ"
+    },
+    {
+      "id": 7,
+      "value": "7",
+      "kanji": "七組",
+      "hiragana": "ななくみ / しちくみ",
+      "romaji": "nanakumi / shichikumi",
+      "meaning": "seven pairs",
+      "sound_text": "ななくみ"
+    },
+    {
+      "id": 8,
+      "value": "8",
+      "kanji": "八組",
+      "hiragana": "はちくみ",
+      "romaji": "hachikumi",
+      "meaning": "eight pairs",
+      "sound_text": "はちくみ"
+    },
+    {
+      "id": 9,
+      "value": "9",
+      "kanji": "九組",
+      "hiragana": "きゅうくみ / くくみ",
+      "romaji": "kyuukumi / kukumi",
+      "meaning": "nine pairs",
+      "sound_text": "きゅうくみ"
+    },
+    {
+      "id": 10,
+      "value": "10",
+      "kanji": "十組",
+      "hiragana": "じゅっくみ / じっくみ",
+      "romaji": "jukkumi / jikkumi",
+      "meaning": "ten pairs",
+      "sound_text": "じゅっくみ"
+    },
+    {
+      "id": 11,
+      "value": "11",
+      "kanji": "十一組",
+      "hiragana": "じゅういっくみ",
+      "romaji": "juuikkumi",
+      "meaning": "eleven pairs",
+      "sound_text": "じゅういっくみ"
+    },
+    {
+      "id": 12,
+      "value": "12",
+      "kanji": "十二組",
+      "hiragana": "じゅうにくみ",
+      "romaji": "juunikumi",
+      "meaning": "twelve pairs",
+      "sound_text": "じゅうにくみ"
+    },
+    {
+      "id": 13,
+      "value": "13",
+      "kanji": "十三組",
+      "hiragana": "じゅうさんくみ",
+      "romaji": "juusankumi",
+      "meaning": "thirteen pairs",
+      "sound_text": "じゅうさんくみ"
+    },
+    {
+      "id": 14,
+      "value": "14",
+      "kanji": "十四組",
+      "hiragana": "じゅうよんくみ / じゅうしくみ",
+      "romaji": "juuyonkumi / juushikumi",
+      "meaning": "fourteen pairs",
+      "sound_text": "じゅうよんくみ"
+    },
+    {
+      "id": 15,
+      "value": "15",
+      "kanji": "十五組",
+      "hiragana": "じゅうごくみ",
+      "romaji": "juugokumi",
+      "meaning": "fifteen pairs",
+      "sound_text": "じゅうごくみ"
+    },
+    {
+      "id": 16,
+      "value": "16",
+      "kanji": "十六組",
+      "hiragana": "じゅうろっくみ",
+      "romaji": "juurokkumi",
+      "meaning": "sixteen pairs",
+      "sound_text": "じゅうろっくみ"
+    },
+    {
+      "id": 17,
+      "value": "17",
+      "kanji": "十七組",
+      "hiragana": "じゅうななくみ / じゅうしちくみ",
+      "romaji": "juunanakumi / juushichikumi",
+      "meaning": "seventeen pairs",
+      "sound_text": "じゅうななくみ"
+    },
+    {
+      "id": 18,
+      "value": "18",
+      "kanji": "十八組",
+      "hiragana": "じゅうはちくみ",
+      "romaji": "juuhachikumi",
+      "meaning": "eighteen pairs",
+      "sound_text": "じゅうはちくみ"
+    },
+    {
+      "id": 19,
+      "value": "19",
+      "kanji": "十九組",
+      "hiragana": "じゅうきゅうくみ",
+      "romaji": "juukyuukumi",
+      "meaning": "nineteen pairs",
+      "sound_text": "じゅうきゅうくみ"
+    },
+    {
+      "id": 20,
+      "value": "20",
+      "kanji": "二十組",
+      "hiragana": "にじゅっくみ / にじっくみ",
+      "romaji": "nijukkumi / nijikkumi",
+      "meaning": "twenty pairs",
+      "sound_text": "にじゅっくみ"
+    }
+  ]
+}
