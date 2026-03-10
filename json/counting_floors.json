@@ -1,0 +1,188 @@
+{
+  "category_id": "counting_floors",
+  "category_title": "Counting Floors",
+  "category_subtitle": "Learn how to count building floors in Japanese using 階",
+  "category_detail": "<b>Counting Floors in Japanese</b><br><br>In Japanese, floors of a building are counted using the counter <b>「階」(かい / kai)</b>.<br><br>This counter is used when referring to floors in buildings such as apartments, offices, shopping malls, and hotels.<br><br><b>Important Sound Changes</b><br>Some numbers change pronunciation when combined with 階.<br><br><span class=\"example\">1階</span> <span class=\"romaji\">(いっかい / ikkai)</span><br><span class=\"example\">3階</span> <span class=\"romaji\">(さんがい / sangai)</span><br><span class=\"example\">6階</span> <span class=\"romaji\">(ろっかい / rokkai)</span><br><span class=\"example\">8階</span> <span class=\"romaji\">(はっかい / hakkai)</span><br><span class=\"example\">10階</span> <span class=\"romaji\">(じゅっかい / jukkai)</span><br><br><b>Common Usage</b><br><span class=\"example\">レストランは三階にあります。</span> <span class=\"romaji\">(resutoran wa sangai ni arimasu)</span><br>Meaning: The restaurant is on the third floor.<br><br>This counter is very common when giving directions inside buildings.",
+  "item_list": [
+    {
+      "id": 1,
+      "value": "1",
+      "kanji": "一階",
+      "hiragana": "いっかい",
+      "romaji": "ikkai",
+      "meaning": "first floor",
+      "sound_text": "いっかい"
+    },
+    {
+      "id": 2,
+      "value": "2",
+      "kanji": "二階",
+      "hiragana": "にかい",
+      "romaji": "nikai",
+      "meaning": "second floor",
+      "sound_text": "にかい"
+    },
+    {
+      "id": 3,
+      "value": "3",
+      "kanji": "三階",
+      "hiragana": "さんがい",
+      "romaji": "sangai",
+      "meaning": "third floor",
+      "sound_text": "さんがい"
+    },
+    {
+      "id": 4,
+      "value": "4",
+      "kanji": "四階",
+      "hiragana": "よんかい / しかい",
+      "romaji": "yonkai / shikai",
+      "meaning": "fourth floor",
+      "sound_text": "よんかい"
+    },
+    {
+      "id": 5,
+      "value": "5",
+      "kanji": "五階",
+      "hiragana": "ごかい",
+      "romaji": "gokai",
+      "meaning": "fifth floor",
+      "sound_text": "ごかい"
+    },
+    {
+      "id": 6,
+      "value": "6",
+      "kanji": "六階",
+      "hiragana": "ろっかい",
+      "romaji": "rokkai",
+      "meaning": "sixth floor",
+      "sound_text": "ろっかい"
+    },
+    {
+      "id": 7,
+      "value": "7",
+      "kanji": "七階",
+      "hiragana": "ななかい / しちかい",
+      "romaji": "nanakai / shichikai",
+      "meaning": "seventh floor",
+      "sound_text": "ななかい"
+    },
+    {
+      "id": 8,
+      "value": "8",
+      "kanji": "八階",
+      "hiragana": "はっかい",
+      "romaji": "hakkai",
+      "meaning": "eighth floor",
+      "sound_text": "はっかい"
+    },
+    {
+      "id": 9,
+      "value": "9",
+      "kanji": "九階",
+      "hiragana": "きゅうかい / くかい",
+      "romaji": "kyuukai / kukai",
+      "meaning": "ninth floor",
+      "sound_text": "きゅうかい"
+    },
+    {
+      "id": 10,
+      "value": "10",
+      "kanji": "十階",
+      "hiragana": "じゅっかい / じっかい",
+      "romaji": "jukkai / jikkai",
+      "meaning": "tenth floor",
+      "sound_text": "じゅっかい"
+    },
+    {
+      "id": 11,
+      "value": "11",
+      "kanji": "十一階",
+      "hiragana": "じゅういっかい",
+      "romaji": "juuikkai",
+      "meaning": "eleventh floor",
+      "sound_text": "じゅういっかい"
+    },
+    {
+      "id": 12,
+      "value": "12",
+      "kanji": "十二階",
+      "hiragana": "じゅうにかい",
+      "romaji": "juunikai",
+      "meaning": "twelfth floor",
+      "sound_text": "じゅうにかい"
+    },
+    {
+      "id": 13,
+      "value": "13",
+      "kanji": "十三階",
+      "hiragana": "じゅうさんがい",
+      "romaji": "juusangai",
+      "meaning": "thirteenth floor",
+      "sound_text": "じゅうさんがい"
+    },
+    {
+      "id": 14,
+      "value": "14",
+      "kanji": "十四階",
+      "hiragana": "じゅうよんかい / じゅうしかい",
+      "romaji": "juuyonkai / juushikai",
+      "meaning": "fourteenth floor",
+      "sound_text": "じゅうよんかい"
+    },
+    {
+      "id": 15,
+      "value": "15",
+      "kanji": "十五階",
+      "hiragana": "じゅうごかい",
+      "romaji": "juugokai",
+      "meaning": "fifteenth floor",
+      "sound_text": "じゅうごかい"
+    },
+    {
+      "id": 16,
+      "value": "16",
+      "kanji": "十六階",
+      "hiragana": "じゅうろっかい",
+      "romaji": "juurokkai",
+      "meaning": "sixteenth floor",
+      "sound_text": "じゅうろっかい"
+    },
+    {
+      "id": 17,
+      "value": "17",
+      "kanji": "十七階",
+      "hiragana": "じゅうななかい / じゅうしちかい",
+      "romaji": "juunanakai / juushichikai",
+      "meaning": "seventeenth floor",
+      "sound_text": "じゅうななかい"
+    },
+    {
+      "id": 18,
+      "value": "18",
+      "kanji": "十八階",
+      "hiragana": "じゅうはっかい",
+      "romaji": "juuhakkai",
+      "meaning": "eighteenth floor",
+      "sound_text": "じゅうはっかい"
+    },
+    {
+      "id": 19,
+      "value": "19",
+      "kanji": "十九階",
+      "hiragana": "じゅうきゅうかい",
+      "romaji": "juukyuukai",
+      "meaning": "nineteenth floor",
+      "sound_text": "じゅうきゅうかい"
+    },
+    {
+      "id": 20,
+      "value": "20",
+      "kanji": "二十階",
+      "hiragana": "にじゅっかい / にじっかい",
+      "romaji": "nijukkai / nijikkai",
+      "meaning": "twentieth floor",
+      "sound_text": "にじゅっかい"
+    }
+  ]
+}
