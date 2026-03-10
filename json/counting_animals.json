@@ -1,0 +1,188 @@
+{
+  "category_id": "counting_animals",
+  "category_title": "Counting Animals",
+  "category_subtitle": "Learn how to count animals in Japanese using 匹 (ひき / hiki)",
+"category_detail": "<b>Counting Animals in Japanese</b><br><br>Small and medium-sized animals in Japanese are commonly counted with the counter <b>「匹」(ひき / hiki)</b>.<br><br>This counter is used for animals such as <b>dogs, cats, fish, rabbits, insects, frogs, and many other small creatures</b>.<br><br><b>Important Sound Changes</b><br>The pronunciation changes depending on the number.<br><br><span class=\"example\">1匹</span> <span class=\"romaji\">(いっぴき / ippiki)</span><br><span class=\"example\">3匹</span> <span class=\"romaji\">(さんびき / sanbiki)</span><br><span class=\"example\">6匹</span> <span class=\"romaji\">(ろっぴき / roppiki)</span><br><span class=\"example\">8匹</span> <span class=\"romaji\">(はっぴき / happiki)</span><br><span class=\"example\">10匹</span> <span class=\"romaji\">(じゅっぴき / juppiki)</span><br><br><b>Main Sound Patterns</b><br><span class=\"example\">〜ひき</span>: 2,4,5,7,9<br>Examples: 2匹 (にひき / nihiki), 4匹 (よんひき / yonhiki)<br><br><span class=\"example\">〜びき</span>: numbers ending in 3<br>Examples: 3匹 (さんびき / sanbiki), 13匹 (じゅうさんびき / juusanbiki), 23匹 (にじゅうさんびき / nijuusanbiki)<br><br><span class=\"example\">〜ぴき</span>: 1,6,8,10 and similar numbers<br>Examples: 1匹 (いっぴき / ippiki), 6匹 (ろっぴき / roppiki), 8匹 (はっぴき / happiki), 10匹 (じゅっぴき / juppiki)<br><br><b>Examples</b><br><span class=\"example\">犬が一匹います。</span> <span class=\"romaji\">(inu ga ippiki imasu)</span><br>Meaning: There is one dog.<br><br><span class=\"example\">猫を三匹飼っています。</span> <span class=\"romaji\">(neko o sanbiki katteimasu)</span><br>Meaning: I have three cats.",
+  "item_list": [
+    {
+      "id": 1,
+      "value": "1",
+      "kanji": "一匹",
+      "hiragana": "いっぴき",
+      "romaji": "ippiki",
+      "meaning": "one animal",
+      "sound_text": "いっぴき"
+    },
+    {
+      "id": 2,
+      "value": "2",
+      "kanji": "二匹",
+      "hiragana": "にひき",
+      "romaji": "nihiki",
+      "meaning": "two animals",
+      "sound_text": "にひき"
+    },
+    {
+      "id": 3,
+      "value": "3",
+      "kanji": "三匹",
+      "hiragana": "さんびき",
+      "romaji": "sanbiki",
+      "meaning": "three animals",
+      "sound_text": "さんびき"
+    },
+    {
+      "id": 4,
+      "value": "4",
+      "kanji": "四匹",
+      "hiragana": "よんひき",
+      "romaji": "yonhiki",
+      "meaning": "four animals",
+      "sound_text": "よんひき"
+    },
+    {
+      "id": 5,
+      "value": "5",
+      "kanji": "五匹",
+      "hiragana": "ごひき",
+      "romaji": "gohiki",
+      "meaning": "five animals",
+      "sound_text": "ごひき"
+    },
+    {
+      "id": 6,
+      "value": "6",
+      "kanji": "六匹",
+      "hiragana": "ろっぴき",
+      "romaji": "roppiki",
+      "meaning": "six animals",
+      "sound_text": "ろっぴき"
+    },
+    {
+      "id": 7,
+      "value": "7",
+      "kanji": "七匹",
+      "hiragana": "ななひき / しちひき",
+      "romaji": "nanahiki / shichihiki",
+      "meaning": "seven animals",
+      "sound_text": "ななひき"
+    },
+    {
+      "id": 8,
+      "value": "8",
+      "kanji": "八匹",
+      "hiragana": "はっぴき",
+      "romaji": "happiki",
+      "meaning": "eight animals",
+      "sound_text": "はっぴき"
+    },
+    {
+      "id": 9,
+      "value": "9",
+      "kanji": "九匹",
+      "hiragana": "きゅうひき",
+      "romaji": "kyuuhiki",
+      "meaning": "nine animals",
+      "sound_text": "きゅうひき"
+    },
+    {
+      "id": 10,
+      "value": "10",
+      "kanji": "十匹",
+      "hiragana": "じゅっぴき / じっぴき",
+      "romaji": "juppiki / jippiki",
+      "meaning": "ten animals",
+      "sound_text": "じゅっぴき"
+    },
+    {
+      "id": 11,
+      "value": "11",
+      "kanji": "十一匹",
+      "hiragana": "じゅういっぴき",
+      "romaji": "juuippiki",
+      "meaning": "eleven animals",
+      "sound_text": "じゅういっぴき"
+    },
+    {
+      "id": 12,
+      "value": "12",
+      "kanji": "十二匹",
+      "hiragana": "じゅうにひき",
+      "romaji": "juunihiki",
+      "meaning": "twelve animals",
+      "sound_text": "じゅうにひき"
+    },
+    {
+      "id": 13,
+      "value": "13",
+      "kanji": "十三匹",
+      "hiragana": "じゅうさんびき",
+      "romaji": "juusanbiki",
+      "meaning": "thirteen animals",
+      "sound_text": "じゅうさんびき"
+    },
+    {
+      "id": 14,
+      "value": "14",
+      "kanji": "十四匹",
+      "hiragana": "じゅうよんひき",
+      "romaji": "juuyonhiki",
+      "meaning": "fourteen animals",
+      "sound_text": "じゅうよんひき"
+    },
+    {
+      "id": 15,
+      "value": "15",
+      "kanji": "十五匹",
+      "hiragana": "じゅうごひき",
+      "romaji": "juugohiki",
+      "meaning": "fifteen animals",
+      "sound_text": "じゅうごひき"
+    },
+    {
+      "id": 16,
+      "value": "16",
+      "kanji": "十六匹",
+      "hiragana": "じゅうろっぴき",
+      "romaji": "juuroppiki",
+      "meaning": "sixteen animals",
+      "sound_text": "じゅうろっぴき"
+    },
+    {
+      "id": 17,
+      "value": "17",
+      "kanji": "十七匹",
+      "hiragana": "じゅうななひき / じゅうしちひき",
+      "romaji": "juunanahiki / juushichihiki",
+      "meaning": "seventeen animals",
+      "sound_text": "じゅうななひき"
+    },
+    {
+      "id": 18,
+      "value": "18",
+      "kanji": "十八匹",
+      "hiragana": "じゅうはっぴき",
+      "romaji": "juuhappiki",
+      "meaning": "eighteen animals",
+      "sound_text": "じゅうはっぴき"
+    },
+    {
+      "id": 19,
+      "value": "19",
+      "kanji": "十九匹",
+      "hiragana": "じゅうきゅうひき",
+      "romaji": "juukyuuhiki",
+      "meaning": "nineteen animals",
+      "sound_text": "じゅうきゅうひき"
+    },
+    {
+      "id": 20,
+      "value": "20",
+      "kanji": "二十匹",
+      "hiragana": "にじゅっぴき / にじっぴき",
+      "romaji": "nijuppiki / nijippiki",
+      "meaning": "twenty animals",
+      "sound_text": "にじゅっぴき"
+    }
+  ]
+}
