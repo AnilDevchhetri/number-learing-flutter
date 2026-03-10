@@ -11,7 +11,8 @@
       "hiragana": "いっぽん",
       "romaji": "ippon",
       "meaning": "one long object",
-      "description": "Used for one long or cylindrical object such as one pen, one bottle, or one umbrella."
+      "description": "Used for one long or cylindrical object such as one pen, one bottle, or one umbrella.",
+      "sound_text": "いっぽん"
     },
     {
       "id": 2,
@@ -20,7 +21,8 @@
       "hiragana": "にほん",
       "romaji": "nihon",
       "meaning": "two long objects",
-      "description": "A regular reading used for two long objects."
+      "description": "A regular reading used for two long objects.",
+      "sound_text": "にほん"
     },
     {
       "id": 3,
@@ -29,7 +31,8 @@
       "hiragana": "さんぼん",
       "romaji": "sanbon",
       "meaning": "three long objects",
-      "description": "This uses a sound change to ぼん and must be memorized."
+      "description": "This uses a sound change to ぼん and must be memorized.",
+      "sound_text": "さんぼん"
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
       "hiragana": "よんほん",
       "romaji": "yonhon",
       "meaning": "four long objects",
-      "description": "よんほん is the standard learner-friendly reading."
+      "description": "よんほん is the standard learner-friendly reading.",
+      "sound_text": "よんほん"
     },
     {
       "id": 5,
@@ -46,7 +50,8 @@
       "kanji": "五本",
       "hiragana": "ごほん",
       "romaji": "gohon",
-      "meaning": "five long objects"
+      "meaning": "five long objects",
+      "sound_text": "ごほん"
     },
     {
       "id": 6,
@@ -55,7 +60,8 @@
       "hiragana": "ろっぽん",
       "romaji": "roppon",
       "meaning": "six long objects",
-      "description": "This uses a sound change to ぽん and must be memorized."
+      "description": "This uses a sound change to ぽん and must be memorized.",
+      "sound_text": "ろっぽん"
     },
     {
       "id": 7,
@@ -64,7 +70,8 @@
       "hiragana": "ななほん / しちほん",
       "romaji": "nanahon / shichihon",
       "meaning": "seven long objects",
-      "description": "ななほん is very common and easier for learners. しちほん may also be heard."
+      "description": "ななほん is very common and easier for learners. しちほん may also be heard.",
+      "sound_text": "ななほん"
     },
     {
       "id": 8,
@@ -73,7 +80,8 @@
       "hiragana": "はっぽん / はちほん",
       "romaji": "happon / hachihon",
       "meaning": "eight long objects",
-      "description": "はっぽん is the standard reading. はちほん may appear in very careful speech, but はっぽん is what learners should remember."
+      "description": "はっぽん is the standard reading.",
+      "sound_text": "はっぽん"
     },
     {
       "id": 9,
@@ -82,7 +90,8 @@
       "hiragana": "きゅうほん",
       "romaji": "kyuuhon",
       "meaning": "nine long objects",
-      "description": "きゅうほん is the standard reading."
+      "description": "きゅうほん is the standard reading.",
+      "sound_text": "きゅうほん"
     },
     {
       "id": 10,
@@ -91,7 +100,8 @@
       "hiragana": "じゅっぽん / じっぽん",
       "romaji": "juppon / jippon",
       "meaning": "ten long objects",
-      "description": "じゅっぽん is very common. じっぽん is also heard. Both are acceptable."
+      "description": "じゅっぽん is very common.",
+      "sound_text": "じゅっぽん"
     },
     {
       "id": 11,
@@ -100,7 +110,8 @@
       "hiragana": "じゅういっぽん",
       "romaji": "juuippon",
       "meaning": "eleven long objects",
-      "description": "This follows the same sound pattern as 1本, so it becomes いっぽん."
+      "description": "This follows the same sound pattern as 1本.",
+      "sound_text": "じゅういっぽん"
     },
     {
       "id": 12,
@@ -109,7 +120,8 @@
       "hiragana": "じゅうにほん",
       "romaji": "juunihon",
       "meaning": "twelve long objects",
-      "description": "A regular reading used for twelve long objects."
+      "description": "A regular reading used for twelve long objects.",
+      "sound_text": "じゅうにほん"
     },
     {
       "id": 13,
@@ -118,7 +130,8 @@
       "hiragana": "じゅうさんぼん",
       "romaji": "juusanbon",
       "meaning": "thirteen long objects",
-      "description": "This follows the same sound pattern as 3本, so it becomes さんぼん."
+      "description": "This follows the same sound pattern as 3本.",
+      "sound_text": "じゅうさんぼん"
     },
     {
       "id": 14,
@@ -127,7 +140,8 @@
       "hiragana": "じゅうよんほん / じゅうしほん",
       "romaji": "juuyonhon / juushihon",
       "meaning": "fourteen long objects",
-      "description": "じゅうよんほん is more common and recommended for learners. じゅうしほん may also be heard."
+      "description": "じゅうよんほん is more common.",
+      "sound_text": "じゅうよんほん"
     },
     {
       "id": 15,
@@ -135,7 +149,8 @@
       "kanji": "十五本",
       "hiragana": "じゅうごほん",
       "romaji": "juugohon",
-      "meaning": "fifteen long objects"
+      "meaning": "fifteen long objects",
+      "sound_text": "じゅうごほん"
     },
     {
       "id": 16,
@@ -144,7 +159,8 @@
       "hiragana": "じゅうろっぽん",
       "romaji": "juuroppon",
       "meaning": "sixteen long objects",
-      "description": "This follows the same sound pattern as 6本, so it becomes ろっぽん."
+      "description": "This follows the same sound pattern as 6本.",
+      "sound_text": "じゅうろっぽん"
     },
     {
       "id": 17,
@@ -153,7 +169,8 @@
       "hiragana": "じゅうななほん / じゅうしちほん",
       "romaji": "juunanahon / juushichihon",
       "meaning": "seventeen long objects",
-      "description": "じゅうななほん is very common and easier for learners. じゅうしちほん is also possible."
+      "description": "じゅうななほん is very common.",
+      "sound_text": "じゅうななほん"
     },
     {
       "id": 18,
@@ -162,7 +179,8 @@
       "hiragana": "じゅうはっぽん / じゅうはちほん",
       "romaji": "juuhappon / juuhachihon",
       "meaning": "eighteen long objects",
-      "description": "じゅうはっぽん is the standard reading. じゅうはちほん may appear in careful speech, but learners should remember じゅうはっぽん."
+      "description": "じゅうはっぽん is the standard reading.",
+      "sound_text": "じゅうはっぽん"
     },
     {
       "id": 19,
@@ -171,7 +189,8 @@
       "hiragana": "じゅうきゅうほん",
       "romaji": "juukyuuhon",
       "meaning": "nineteen long objects",
-      "description": "じゅうきゅうほん is the standard reading."
+      "description": "じゅうきゅうほん is the standard reading.",
+      "sound_text": "じゅうきゅうほん"
     },
     {
       "id": 20,
@@ -180,7 +199,8 @@
       "hiragana": "にじゅっぽん / にじっぽん",
       "romaji": "nijuppon / nijippon",
       "meaning": "twenty long objects",
-      "description": "にじゅっぽん is very common. にじっぽん is also heard. Both are acceptable."
+      "description": "にじゅっぽん is very common.",
+      "sound_text": "にじゅっぽん"
     }
   ]
 }
