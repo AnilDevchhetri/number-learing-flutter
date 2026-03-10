@@ -1,0 +1,186 @@
+{
+  "category_id": "counting_long_objects",
+  "category_title": "Counting Long Objects",
+  "category_subtitle": "Learn how to count long and cylindrical objects in Japanese using 本",
+  "category_detail": "<b>Counting Long Objects in Japanese</b><br><br>In Japanese, long, cylindrical, or stick-like objects are commonly counted with the counter <b>「本」</b>.<br><br>This counter is used for things like <b>bottles, pens, pencils, umbrellas, trees, roads, rivers, cables, and other long objects</b>.<br><br><b>Important Reading Pattern</b><br>The counter <b>本</b> has important sound changes, so learners should memorize the pronunciation carefully.<br><br>Examples:<br><span class=\"example\">1本</span> <span class=\"romaji\">(いっぽん / ippon)</span><br><span class=\"example\">3本</span> <span class=\"romaji\">(さんぼん / sanbon)</span><br><span class=\"example\">6本</span> <span class=\"romaji\">(ろっぽん / roppon)</span><br><span class=\"example\">8本</span> <span class=\"romaji\">(はっぽん / happon)</span><br><span class=\"example\">10本</span> <span class=\"romaji\">(じゅっぽん / juppon)</span><br><br><b>Main Sound Groups</b><br><span class=\"example\">〜ほん</span>: 2, 4, 5, 7, 9<br><span class=\"example\">〜ぼん</span>: 3 and sometimes 13, 23, etc.<br><span class=\"example\">〜ぽん</span>: 1, 6, 8, 10 and similar sound-change numbers<br><br><b>Common Examples</b><br><span class=\"example\">ペンを一本ください。</span> <span class=\"romaji\">(pen o ippon kudasai)</span><br>Meaning: Please give me one pen.<br><br><span class=\"example\">ビールを三本買いました。</span> <span class=\"romaji\">(biiru o sanbon kaimashita)</span><br>Meaning: I bought three bottles of beer.<br><br><b>Important Notes</b><br>This counter is not only for physical objects like pens or bottles. It is also used for some long-shaped things such as <b>roads, train lines, rivers, and phone calls in some contexts</b>.<br><br>This category focuses on the most useful and natural learner-friendly readings for counting long objects.",
+  "item_list": [
+    {
+      "id": 1,
+      "value": "1",
+      "kanji": "一本",
+      "hiragana": "いっぽん",
+      "romaji": "ippon",
+      "meaning": "one long object",
+      "description": "Used for one long or cylindrical object such as one pen, one bottle, or one umbrella."
+    },
+    {
+      "id": 2,
+      "value": "2",
+      "kanji": "二本",
+      "hiragana": "にほん",
+      "romaji": "nihon",
+      "meaning": "two long objects",
+      "description": "A regular reading used for two long objects."
+    },
+    {
+      "id": 3,
+      "value": "3",
+      "kanji": "三本",
+      "hiragana": "さんぼん",
+      "romaji": "sanbon",
+      "meaning": "three long objects",
+      "description": "This uses a sound change to ぼん and must be memorized."
+    },
+    {
+      "id": 4,
+      "value": "4",
+      "kanji": "四本",
+      "hiragana": "よんほん",
+      "romaji": "yonhon",
+      "meaning": "four long objects",
+      "description": "よんほん is the standard learner-friendly reading."
+    },
+    {
+      "id": 5,
+      "value": "5",
+      "kanji": "五本",
+      "hiragana": "ごほん",
+      "romaji": "gohon",
+      "meaning": "five long objects"
+    },
+    {
+      "id": 6,
+      "value": "6",
+      "kanji": "六本",
+      "hiragana": "ろっぽん",
+      "romaji": "roppon",
+      "meaning": "six long objects",
+      "description": "This uses a sound change to ぽん and must be memorized."
+    },
+    {
+      "id": 7,
+      "value": "7",
+      "kanji": "七本",
+      "hiragana": "ななほん / しちほん",
+      "romaji": "nanahon / shichihon",
+      "meaning": "seven long objects",
+      "description": "ななほん is very common and easier for learners. しちほん may also be heard."
+    },
+    {
+      "id": 8,
+      "value": "8",
+      "kanji": "八本",
+      "hiragana": "はっぽん / はちほん",
+      "romaji": "happon / hachihon",
+      "meaning": "eight long objects",
+      "description": "はっぽん is the standard reading. はちほん may appear in very careful speech, but はっぽん is what learners should remember."
+    },
+    {
+      "id": 9,
+      "value": "9",
+      "kanji": "九本",
+      "hiragana": "きゅうほん",
+      "romaji": "kyuuhon",
+      "meaning": "nine long objects",
+      "description": "きゅうほん is the standard reading."
+    },
+    {
+      "id": 10,
+      "value": "10",
+      "kanji": "十本",
+      "hiragana": "じゅっぽん / じっぽん",
+      "romaji": "juppon / jippon",
+      "meaning": "ten long objects",
+      "description": "じゅっぽん is very common. じっぽん is also heard. Both are acceptable."
+    },
+    {
+      "id": 11,
+      "value": "11",
+      "kanji": "十一本",
+      "hiragana": "じゅういっぽん",
+      "romaji": "juuippon",
+      "meaning": "eleven long objects",
+      "description": "This follows the same sound pattern as 1本, so it becomes いっぽん."
+    },
+    {
+      "id": 12,
+      "value": "12",
+      "kanji": "十二本",
+      "hiragana": "じゅうにほん",
+      "romaji": "juunihon",
+      "meaning": "twelve long objects",
+      "description": "A regular reading used for twelve long objects."
+    },
+    {
+      "id": 13,
+      "value": "13",
+      "kanji": "十三本",
+      "hiragana": "じゅうさんぼん",
+      "romaji": "juusanbon",
+      "meaning": "thirteen long objects",
+      "description": "This follows the same sound pattern as 3本, so it becomes さんぼん."
+    },
+    {
+      "id": 14,
+      "value": "14",
+      "kanji": "十四本",
+      "hiragana": "じゅうよんほん / じゅうしほん",
+      "romaji": "juuyonhon / juushihon",
+      "meaning": "fourteen long objects",
+      "description": "じゅうよんほん is more common and recommended for learners. じゅうしほん may also be heard."
+    },
+    {
+      "id": 15,
+      "value": "15",
+      "kanji": "十五本",
+      "hiragana": "じゅうごほん",
+      "romaji": "juugohon",
+      "meaning": "fifteen long objects"
+    },
+    {
+      "id": 16,
+      "value": "16",
+      "kanji": "十六本",
+      "hiragana": "じゅうろっぽん",
+      "romaji": "juuroppon",
+      "meaning": "sixteen long objects",
+      "description": "This follows the same sound pattern as 6本, so it becomes ろっぽん."
+    },
+    {
+      "id": 17,
+      "value": "17",
+      "kanji": "十七本",
+      "hiragana": "じゅうななほん / じゅうしちほん",
+      "romaji": "juunanahon / juushichihon",
+      "meaning": "seventeen long objects",
+      "description": "じゅうななほん is very common and easier for learners. じゅうしちほん is also possible."
+    },
+    {
+      "id": 18,
+      "value": "18",
+      "kanji": "十八本",
+      "hiragana": "じゅうはっぽん / じゅうはちほん",
+      "romaji": "juuhappon / juuhachihon",
+      "meaning": "eighteen long objects",
+      "description": "じゅうはっぽん is the standard reading. じゅうはちほん may appear in careful speech, but learners should remember じゅうはっぽん."
+    },
+    {
+      "id": 19,
+      "value": "19",
+      "kanji": "十九本",
+      "hiragana": "じゅうきゅうほん",
+      "romaji": "juukyuuhon",
+      "meaning": "nineteen long objects",
+      "description": "じゅうきゅうほん is the standard reading."
+    },
+    {
+      "id": 20,
+      "value": "20",
+      "kanji": "二十本",
+      "hiragana": "にじゅっぽん / にじっぽん",
+      "romaji": "nijuppon / nijippon",
+      "meaning": "twenty long objects",
+      "description": "にじゅっぽん is very common. にじっぽん is also heard. Both are acceptable."
+    }
+  ]
+}
