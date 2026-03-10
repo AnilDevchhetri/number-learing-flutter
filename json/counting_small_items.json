@@ -11,7 +11,8 @@
       "hiragana": "いっこ",
       "romaji": "ikko",
       "meaning": "one small item",
-      "description": "The reading changes from いちこ to いっこ for natural pronunciation."
+      "description": "The reading changes from いちこ to いっこ for natural pronunciation.",
+      "sound_text": "いっこ"
     },
     {
       "id": 2,
@@ -19,7 +20,8 @@
       "kanji": "二個",
       "hiragana": "にこ",
       "romaji": "niko",
-      "meaning": "two small items"
+      "meaning": "two small items",
+      "sound_text": "にこ"
     },
     {
       "id": 3,
@@ -27,7 +29,8 @@
       "kanji": "三個",
       "hiragana": "さんこ",
       "romaji": "sanko",
-      "meaning": "three small items"
+      "meaning": "three small items",
+      "sound_text": "さんこ"
     },
     {
       "id": 4,
@@ -36,7 +39,8 @@
       "hiragana": "よんこ",
       "romaji": "yonko",
       "meaning": "four small items",
-      "description": "よんこ is the standard and most natural reading for learners."
+      "description": "よんこ is the standard and most natural reading for learners.",
+      "sound_text": "よんこ"
     },
     {
       "id": 5,
@@ -44,7 +48,8 @@
       "kanji": "五個",
       "hiragana": "ごこ",
       "romaji": "goko",
-      "meaning": "five small items"
+      "meaning": "five small items",
+      "sound_text": "ごこ"
     },
     {
       "id": 6,
@@ -53,7 +58,8 @@
       "hiragana": "ろっこ",
       "romaji": "rokko",
       "meaning": "six small items",
-      "description": "The reading changes from ろくこ to ろっこ for easier pronunciation."
+      "description": "The reading changes from ろくこ to ろっこ for easier pronunciation.",
+      "sound_text": "ろっこ"
     },
     {
       "id": 7,
@@ -62,7 +68,8 @@
       "hiragana": "ななこ / しちこ",
       "romaji": "nanako / shichiko",
       "meaning": "seven small items",
-      "description": "ななこ is easier and very natural for learners. しちこ may also be heard."
+      "description": "ななこ is easier and very natural for learners. しちこ may also be heard.",
+      "sound_text": "ななこ"
     },
     {
       "id": 8,
@@ -71,7 +78,8 @@
       "hiragana": "はっこ",
       "romaji": "hakko",
       "meaning": "eight small items",
-      "description": "The reading changes from はちこ to はっこ for natural pronunciation."
+      "description": "The reading changes from はちこ to はっこ for natural pronunciation.",
+      "sound_text": "はっこ"
     },
     {
       "id": 9,
@@ -79,7 +87,8 @@
       "kanji": "九個",
       "hiragana": "きゅうこ",
       "romaji": "kyuuko",
-      "meaning": "nine small items"
+      "meaning": "nine small items",
+      "sound_text": "きゅうこ"
     },
     {
       "id": 10,
@@ -88,7 +97,8 @@
       "hiragana": "じゅっこ / じっこ",
       "romaji": "jukko / jikko",
       "meaning": "ten small items",
-      "description": "Both じゅっこ and じっこ are used. じゅっこ is very common in learning materials."
+      "description": "Both じゅっこ and じっこ are used. じゅっこ is very common in learning materials.",
+      "sound_text": "じゅっこ"
     },
     {
       "id": 11,
@@ -97,7 +107,8 @@
       "hiragana": "じゅういっこ",
       "romaji": "juuikko",
       "meaning": "eleven small items",
-      "description": "The final part follows the sound pattern of 1個, so it becomes いっこ."
+      "description": "The final part follows the sound pattern of 1個, so it becomes いっこ.",
+      "sound_text": "じゅういっこ"
     },
     {
       "id": 12,
@@ -105,7 +116,8 @@
       "kanji": "十二個",
       "hiragana": "じゅうにこ",
       "romaji": "juuniko",
-      "meaning": "twelve small items"
+      "meaning": "twelve small items",
+      "sound_text": "じゅうにこ"
     },
     {
       "id": 13,
@@ -113,7 +125,8 @@
       "kanji": "十三個",
       "hiragana": "じゅうさんこ",
       "romaji": "juusanko",
-      "meaning": "thirteen small items"
+      "meaning": "thirteen small items",
+      "sound_text": "じゅうさんこ"
     },
     {
       "id": 14,
@@ -122,7 +135,8 @@
       "hiragana": "じゅうよんこ / じゅうしこ",
       "romaji": "juuyonko / juushiko",
       "meaning": "fourteen small items",
-      "description": "じゅうよんこ is more natural and easier for learners. じゅうしこ may also be heard."
+      "description": "じゅうよんこ is more natural and easier for learners.",
+      "sound_text": "じゅうよんこ"
     },
     {
       "id": 15,
@@ -130,7 +144,8 @@
       "kanji": "十五個",
       "hiragana": "じゅうごこ",
       "romaji": "juugoko",
-      "meaning": "fifteen small items"
+      "meaning": "fifteen small items",
+      "sound_text": "じゅうごこ"
     },
     {
       "id": 16,
@@ -139,7 +154,8 @@
       "hiragana": "じゅうろっこ",
       "romaji": "juurokko",
       "meaning": "sixteen small items",
-      "description": "The final part follows the sound pattern of 6個, so it becomes ろっこ."
+      "description": "The final part follows the sound pattern of 6個, so it becomes ろっこ.",
+      "sound_text": "じゅうろっこ"
     },
     {
       "id": 17,
@@ -148,7 +164,8 @@
       "hiragana": "じゅうななこ / じゅうしちこ",
       "romaji": "juunanako / juushichiko",
       "meaning": "seventeen small items",
-      "description": "じゅうななこ is natural and easy for learners. じゅうしちこ may also be used."
+      "description": "じゅうななこ is natural and easy for learners.",
+      "sound_text": "じゅうななこ"
     },
     {
       "id": 18,
@@ -157,7 +174,8 @@
       "hiragana": "じゅうはっこ",
       "romaji": "juuhakko",
       "meaning": "eighteen small items",
-      "description": "The final part follows the sound pattern of 8個, so it becomes はっこ."
+      "description": "The final part follows the sound pattern of 8個, so it becomes はっこ.",
+      "sound_text": "じゅうはっこ"
     },
     {
       "id": 19,
@@ -165,7 +183,8 @@
       "kanji": "十九個",
       "hiragana": "じゅうきゅうこ",
       "romaji": "juukyuuko",
-      "meaning": "nineteen small items"
+      "meaning": "nineteen small items",
+      "sound_text": "じゅうきゅうこ"
     },
     {
       "id": 20,
@@ -174,7 +193,8 @@
       "hiragana": "にじゅっこ / にじっこ",
       "romaji": "nijukko / nijikko",
       "meaning": "twenty small items",
-      "description": "Both にじゅっこ and にじっこ are used. The sound changes because of 個."
+      "description": "Both にじゅっこ and にじっこ are used. The sound changes because of 個.",
+      "sound_text": "にじゅっこ"
     }
   ]
 }
