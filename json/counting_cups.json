@@ -183,6 +183,89 @@
       "romaji": "nijuppai / nijippai",
       "meaning": "twenty cups",
       "sound_text": "にじゅっぱい"
-    }
+    },
+
+    {
+  "id": 1501,
+  "kanji": "コーヒーを一杯飲みました。",
+  "hiragana": "こーひーをいっぱいのみました。",
+  "romaji": "koohii o ippai nomimashita",
+  "meaning": "I drank one cup of coffee.",
+  "sound_text": "こーひーをいっぱいのみました"
+},
+{
+  "id": 1502,
+  "kanji": "お茶を二杯ください。",
+  "hiragana": "おちゃをにはいください。",
+  "romaji": "ocha o nihai kudasai",
+  "meaning": "Please give me two cups of tea.",
+  "sound_text": "おちゃをにはいください"
+},
+{
+  "id": 1503,
+  "kanji": "水を三杯飲みました。",
+  "hiragana": "みずをさんばいのみました。",
+  "romaji": "mizu o sanbai nomimashita",
+  "meaning": "I drank three glasses of water.",
+  "sound_text": "みずをさんばいのみました"
+},
+{
+  "id": 1504,
+  "kanji": "彼はビールを四杯飲みました。",
+  "hiragana": "かれはびーるをよんはいのみました。",
+  "romaji": "kare wa biiru o yonhai nomimashita",
+  "meaning": "He drank four glasses of beer.",
+  "sound_text": "かれはびーるをよんはいのみました"
+},
+{
+  "id": 1505,
+  "kanji": "ジュースを五杯注文しました。",
+  "hiragana": "じゅーすをごはいちゅうもんしました。",
+  "romaji": "juusu o gohai chuumon shimashita",
+  "meaning": "I ordered five glasses of juice.",
+  "sound_text": "じゅーすをごはいちゅうもんしました"
+},
+{
+  "id": 1506,
+  "kanji": "友達とビールを六杯飲みました。",
+  "hiragana": "ともだちとびーるをろっぱいのみました。",
+  "romaji": "tomodachi to biiru o roppai nomimashita",
+  "meaning": "I drank six beers with my friend.",
+  "sound_text": "ともだちとびーるをろっぱいのみました"
+},
+{
+  "id": 1507,
+  "kanji": "パーティーでワインを七杯飲みました。",
+  "hiragana": "ぱーてぃーでわいんをななはいのみました。",
+  "romaji": "paatii de wain o nanahai nomimashita",
+  "meaning": "I drank seven glasses of wine at the party.",
+  "sound_text": "ぱーてぃーでわいんをななはいのみました"
+},
+{
+  "id": 1508,
+  "kanji": "彼は水を八杯飲みました。",
+  "hiragana": "かれはみずをはっぱいのみました。",
+  "romaji": "kare wa mizu o happai nomimashita",
+  "meaning": "He drank eight glasses of water.",
+  "sound_text": "かれはみずをはっぱいのみました"
+},
+{
+  "id": 1509,
+  "kanji": "コーヒーを九杯飲みました。",
+  "hiragana": "こーひーをきゅうはいのみました。",
+  "romaji": "koohii o kyuuhai nomimashita",
+  "meaning": "I drank nine cups of coffee.",
+  "sound_text": "こーひーをきゅうはいのみました"
+},
+{
+  "id": 1510,
+  "kanji": "彼らはビールを十杯飲みました。",
+  "hiragana": "かれらはびーるをじゅっぱいのみました。",
+  "romaji": "karera wa biiru o juppai nomimashita",
+  "meaning": "They drank ten beers.",
+  "sound_text": "かれらはびーるをじゅっぱいのみました"
+}
+
+    
   ]
 }
