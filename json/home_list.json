@@ -5,6 +5,21 @@
     "icon": "numbers"
   },
   {
+    "title": "Age",
+    "file_name": "counting_age",
+    "icon": "cake"
+  },
+  {
+    "title": "Days",
+    "file_name": "counting_days",
+    "icon": "calendar_today"
+  },
+   {
+    "title": "Months",
+    "file_name": "counting_months",
+    "icon": "date_range"
+  },
+  {
     "title": "Counting things (つ)",
     "file_name": "counting_things",
     "icon": "format_list_numbered"
