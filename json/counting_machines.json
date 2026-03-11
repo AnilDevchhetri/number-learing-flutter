@@ -183,6 +183,88 @@
       "romaji": "nijuudai",
       "meaning": "twenty machines",
       "sound_text": "にじゅうだい"
-    }
+    },
+    {
+  "id": 1701,
+  "kanji": "車が一台あります。",
+  "hiragana": "くるまがいちだいあります。",
+  "romaji": "kuruma ga ichidai arimasu",
+  "meaning": "There is one car.",
+  "sound_text": "くるまがいちだいあります"
+},
+{
+  "id": 1702,
+  "kanji": "会社にパソコンが二台あります。",
+  "hiragana": "かいしゃにパソコンがにだいあります。",
+  "romaji": "kaisha ni pasokon ga nidai arimasu",
+  "meaning": "There are two computers in the office.",
+  "sound_text": "かいしゃにパソコンがにだいあります"
+},
+{
+  "id": 1703,
+  "kanji": "家にテレビが三台あります。",
+  "hiragana": "いえにテレビがさんだいあります。",
+  "romaji": "ie ni terebi ga sandai arimasu",
+  "meaning": "There are three televisions in the house.",
+  "sound_text": "いえにテレビがさんだいあります"
+},
+{
+  "id": 1704,
+  "kanji": "駐車場に車が四台止まっています。",
+  "hiragana": "ちゅうしゃじょうにくるまがよんだいとまっています。",
+  "romaji": "chuushajou ni kuruma ga yondai tomatteimasu",
+  "meaning": "Four cars are parked in the parking lot.",
+  "sound_text": "ちゅうしゃじょうにくるまがよんだいとまっています"
+},
+{
+  "id": 1705,
+  "kanji": "店にカメラが五台あります。",
+  "hiragana": "みせにカメラがごだいあります。",
+  "romaji": "mise ni kamera ga godai arimasu",
+  "meaning": "There are five cameras in the shop.",
+  "sound_text": "みせにカメラがごだいあります"
+},
+{
+  "id": 1706,
+  "kanji": "工場に機械が六台あります。",
+  "hiragana": "こうじょうにきかいがろくだいあります。",
+  "romaji": "koujou ni kikai ga rokudai arimasu",
+  "meaning": "There are six machines in the factory.",
+  "sound_text": "こうじょうにきかいがろくだいあります"
+},
+{
+  "id": 1707,
+  "kanji": "会社にプリンターが七台あります。",
+  "hiragana": "かいしゃにプリンターがななだいあります。",
+  "romaji": "kaisha ni purintaa ga nanadai arimasu",
+  "meaning": "There are seven printers in the office.",
+  "sound_text": "かいしゃにプリンターがななだいあります"
+},
+{
+  "id": 1708,
+  "kanji": "展示会で車を八台見ました。",
+  "hiragana": "てんじかいでくるまをはちだいみました。",
+  "romaji": "tenjikai de kuruma o hachidai mimashita",
+  "meaning": "I saw eight cars at the exhibition.",
+  "sound_text": "てんじかいでくるまをはちだいみました"
+},
+{
+  "id": 1709,
+  "kanji": "店にパソコンが九台あります。",
+  "hiragana": "みせにパソコンがきゅうだいあります。",
+  "romaji": "mise ni pasokon ga kyuudai arimasu",
+  "meaning": "There are nine computers in the shop.",
+  "sound_text": "みせにパソコンがきゅうだいあります"
+},
+{
+  "id": 1710,
+  "kanji": "駐車場に車が十台あります。",
+  "hiragana": "ちゅうしゃじょうにくるまがじゅうだいあります。",
+  "romaji": "chuushajou ni kuruma ga juudai arimasu",
+  "meaning": "There are ten cars in the parking lot.",
+  "sound_text": "ちゅうしゃじょうにくるまがじゅうだいあります"
+}
+
+    
   ]
 }
