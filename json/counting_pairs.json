@@ -183,6 +183,87 @@
       "romaji": "nijukkumi / nijikkumi",
       "meaning": "twenty pairs",
       "sound_text": "にじゅっくみ"
-    }
+    }.
+  {
+  "id": 1501,
+  "kanji": "一組のカップルが来ました。",
+  "hiragana": "ひとくみのカップルがきました。",
+  "romaji": "hitokumi no kappuru ga kimashita",
+  "meaning": "One couple arrived.",
+  "sound_text": "ひとくみのカップルがきました"
+},
+{
+  "id": 1502,
+  "kanji": "二組のチームが試合をします。",
+  "hiragana": "ふたくみのチームがしあいをします。",
+  "romaji": "futakumi no chiimu ga shiai o shimasu",
+  "meaning": "Two teams will play a match.",
+  "sound_text": "ふたくみのチームがしあいをします"
+},
+{
+  "id": 1503,
+  "kanji": "三組の学生が発表しました。",
+  "hiragana": "さんくみのがくせいがはっぴょうしました。",
+  "romaji": "sankumi no gakusei ga happyou shimashita",
+  "meaning": "Three groups of students presented.",
+  "sound_text": "さんくみのがくせいがはっぴょうしました"
+},
+{
+  "id": 1504,
+  "kanji": "このクラスは四組あります。",
+  "hiragana": "このクラスはよんくみあります。",
+  "romaji": "kono kurasu wa yonkumi arimasu",
+  "meaning": "This class has four groups.",
+  "sound_text": "このクラスはよんくみあります"
+},
+{
+  "id": 1505,
+  "kanji": "五組のチームが大会に参加しました。",
+  "hiragana": "ごくみのチームがたいかいにさんかしました。",
+  "romaji": "gokumi no chiimu ga taikai ni sanka shimashita",
+  "meaning": "Five teams participated in the competition.",
+  "sound_text": "ごくみのチームがたいかいにさんかしました"
+},
+{
+  "id": 1506,
+  "kanji": "六組の生徒がグループ活動をしています。",
+  "hiragana": "ろっくみのせいとがグループかつどうをしています。",
+  "romaji": "rokkumi no seito ga guruupu katsudou o shiteimasu",
+  "meaning": "Six groups of students are doing group activities.",
+  "sound_text": "ろっくみのせいとがグループかつどうをしています"
+},
+{
+  "id": 1507,
+  "kanji": "七組のカップルがダンスをしました。",
+  "hiragana": "ななくみのカップルがダンスをしました。",
+  "romaji": "nanakumi no kappuru ga dansu o shimashita",
+  "meaning": "Seven couples danced.",
+  "sound_text": "ななくみのカップルがダンスをしました"
+},
+{
+  "id": 1508,
+  "kanji": "八組のチームがトーナメントに出ました。",
+  "hiragana": "はちくみのチームがトーナメントにでました。",
+  "romaji": "hachikumi no chiimu ga toonaumento ni demashita",
+  "meaning": "Eight teams entered the tournament.",
+  "sound_text": "はちくみのチームがトーナメントにでました"
+},
+{
+  "id": 1509,
+  "kanji": "九組の学生が参加しました。",
+  "hiragana": "きゅうくみのがくせいがさんかしました。",
+  "romaji": "kyuukumi no gakusei ga sanka shimashita",
+  "meaning": "Nine groups of students participated.",
+  "sound_text": "きゅうくみのがくせいがさんかしました"
+},
+{
+  "id": 1510,
+  "kanji": "十組のチームが大会に出場しました。",
+  "hiragana": "じゅっくみのチームがたいかいにしゅつじょうしました。",
+  "romaji": "jukkumi no chiimu ga taikai ni shutsujou shimashita",
+  "meaning": "Ten teams competed in the tournament.",
+  "sound_text": "じゅっくみのチームがたいかいにしゅつじょうしました"
+}
+    
   ]
 }
