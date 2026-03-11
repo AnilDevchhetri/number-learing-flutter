@@ -1,0 +1,238 @@
+{
+  "category_id": "counting_days",
+  "category_title": "Days",
+  "category_subtitle": "Counting days in Japanese",
+  "category_detail": "<b>Counting Days in Japanese (日 / にち / nichi)</b><br><br>In Japanese, days are counted using the counter <b>日</b>. However, the first ten days have many <b>special and irregular readings</b> that must be memorized.<br><br><b>Irregular Days</b><br>Unlike most counters, the first ten days do not follow the normal number + にち pattern.<br><br><span class=\"example\">1日</span> <span class=\"romaji\">(ついたち / tsuitachi)</span><br><span class=\"example\">2日</span> <span class=\"romaji\">(ふつか / futsuka)</span><br><span class=\"example\">3日</span> <span class=\"romaji\">(みっか / mikka)</span><br><span class=\"example\">4日</span> <span class=\"romaji\">(よっか / yokka)</span><br><span class=\"example\">5日</span> <span class=\"romaji\">(いつか / itsuka)</span><br><span class=\"example\">6日</span> <span class=\"romaji\">(むいか / muika)</span><br><span class=\"example\">7日</span> <span class=\"romaji\">(なのか / nanoka)</span><br><span class=\"example\">8日</span> <span class=\"romaji\">(ようか / youka)</span><br><span class=\"example\">9日</span> <span class=\"romaji\">(ここのか / kokonoka)</span><br><span class=\"example\">10日</span> <span class=\"romaji\">(とおか / tooka)</span><br><br><b>After 10</b><br>From day 11 onward, Japanese usually follows a regular pattern using <b>〜日 (にち / nichi)</b>.<br><br><span class=\"example\">11日</span> <span class=\"romaji\">(じゅういちにち / juuichi nichi)</span><br><span class=\"example\">20日</span> <span class=\"romaji\">(はつか / hatsuka)</span><br><br><b>Important Exception</b><br><span class=\"example\">20日</span> <span class=\"romaji\">(はつか / hatsuka)</span><br>This is another special reading and does not follow the normal pattern.",
+
+  "item_list": [
+
+    {
+      "id": 1,
+      "value": "1",
+      "kanji": "一日",
+      "hiragana": "ついたち",
+      "romaji": "tsuitachi",
+      "meaning": "first day of the month / one day",
+      "sound_text": "ついたち"
+    },
+    {
+      "id": 2,
+      "value": "2",
+      "kanji": "二日",
+      "hiragana": "ふつか",
+      "romaji": "futsuka",
+      "meaning": "two days / second day",
+      "sound_text": "ふつか"
+    },
+    {
+      "id": 3,
+      "value": "3",
+      "kanji": "三日",
+      "hiragana": "みっか",
+      "romaji": "mikka",
+      "meaning": "three days / third day",
+      "sound_text": "みっか"
+    },
+    {
+      "id": 4,
+      "value": "4",
+      "kanji": "四日",
+      "hiragana": "よっか",
+      "romaji": "yokka",
+      "meaning": "four days / fourth day",
+      "sound_text": "よっか"
+    },
+    {
+      "id": 5,
+      "value": "5",
+      "kanji": "五日",
+      "hiragana": "いつか",
+      "romaji": "itsuka",
+      "meaning": "five days / fifth day",
+      "sound_text": "いつか"
+    },
+    {
+      "id": 6,
+      "value": "6",
+      "kanji": "六日",
+      "hiragana": "むいか",
+      "romaji": "muika",
+      "meaning": "six days / sixth day",
+      "sound_text": "むいか"
+    },
+    {
+      "id": 7,
+      "value": "7",
+      "kanji": "七日",
+      "hiragana": "なのか",
+      "romaji": "nanoka",
+      "meaning": "seven days / seventh day",
+      "sound_text": "なのか"
+    },
+    {
+      "id": 8,
+      "value": "8",
+      "kanji": "八日",
+      "hiragana": "ようか",
+      "romaji": "youka",
+      "meaning": "eight days / eighth day",
+      "sound_text": "ようか"
+    },
+    {
+      "id": 9,
+      "value": "9",
+      "kanji": "九日",
+      "hiragana": "ここのか",
+      "romaji": "kokonoka",
+      "meaning": "nine days / ninth day",
+      "sound_text": "ここのか"
+    },
+    {
+      "id": 10,
+      "value": "10",
+      "kanji": "十日",
+      "hiragana": "とおか",
+      "romaji": "tooka",
+      "meaning": "ten days / tenth day",
+      "sound_text": "とおか"
+    },
+    {
+      "id": 11,
+      "value": "11",
+      "kanji": "十一日",
+      "hiragana": "じゅういちにち",
+      "romaji": "juuichi nichi",
+      "meaning": "eleven days / eleventh day",
+      "sound_text": "じゅういちにち"
+    },
+    {
+      "id": 12,
+      "value": "12",
+      "kanji": "十二日",
+      "hiragana": "じゅうににち",
+      "romaji": "juuni nichi",
+      "meaning": "twelve days / twelfth day",
+      "sound_text": "じゅうににち"
+    },
+    {
+      "id": 13,
+      "value": "13",
+      "kanji": "十三日",
+      "hiragana": "じゅうさんにち",
+      "romaji": "juusan nichi",
+      "meaning": "thirteen days / thirteenth day",
+      "sound_text": "じゅうさんにち"
+    },
+    {
+      "id": 14,
+      "value": "14",
+      "kanji": "十四日",
+      "hiragana": "じゅうよっか",
+      "romaji": "juuyokka",
+      "meaning": "fourteen days / fourteenth day",
+      "sound_text": "じゅうよっか"
+    },
+    {
+      "id": 15,
+      "value": "15",
+      "kanji": "十五日",
+      "hiragana": "じゅうごにち",
+      "romaji": "juugo nichi",
+      "meaning": "fifteen days / fifteenth day",
+      "sound_text": "じゅうごにち"
+    },
+    {
+      "id": 20,
+      "value": "20",
+      "kanji": "二十日",
+      "hiragana": "はつか",
+      "romaji": "hatsuka",
+      "meaning": "twenty days / twentieth day",
+      "sound_text": "はつか"
+    },
+
+
+{
+  "id": 1101,
+  "kanji": "今日は一日です。",
+  "hiragana": "きょうはついたちです。",
+  "romaji": "kyou wa tsuitachi desu",
+  "meaning": "Today is the first day of the month.",
+  "sound_text": "きょうはついたちです"
+},
+{
+  "id": 1102,
+  "kanji": "会議は二日にあります。",
+  "hiragana": "かいぎはふつかにあります。",
+  "romaji": "kaigi wa futsuka ni arimasu",
+  "meaning": "The meeting is on the 2nd.",
+  "sound_text": "かいぎはふつかにあります"
+},
+{
+  "id": 1103,
+  "kanji": "今日は三日目です。",
+  "hiragana": "きょうはみっかめです。",
+  "romaji": "kyou wa mikkame desu",
+  "meaning": "Today is the third day.",
+  "sound_text": "きょうはみっかめです"
+},
+{
+  "id": 1104,
+  "kanji": "旅行は四日間です。",
+  "hiragana": "りょこうはよっかかんです。",
+  "romaji": "ryokou wa yokkakan desu",
+  "meaning": "The trip is four days long.",
+  "sound_text": "りょこうはよっかかんです"
+},
+{
+  "id": 1105,
+  "kanji": "日本に五日滞在します。",
+  "hiragana": "にほんにいつかたいざいします。",
+  "romaji": "nihon ni itsuka taizai shimasu",
+  "meaning": "I will stay in Japan for five days.",
+  "sound_text": "にほんにいつかたいざいします"
+},
+{
+  "id": 1106,
+  "kanji": "六日に試験があります。",
+  "hiragana": "むいかにしけんがあります。",
+  "romaji": "muika ni shiken ga arimasu",
+  "meaning": "The exam is on the 6th.",
+  "sound_text": "むいかにしけんがあります"
+},
+{
+  "id": 1107,
+  "kanji": "七日に友達に会います。",
+  "hiragana": "なのかにともだちにあいます。",
+  "romaji": "nanoka ni tomodachi ni aimasu",
+  "meaning": "I will meet my friend on the 7th.",
+  "sound_text": "なのかにともだちにあいます"
+},
+{
+  "id": 1108,
+  "kanji": "八日に日本へ行きます。",
+  "hiragana": "ようかににほんへいきます。",
+  "romaji": "youka ni nihon e ikimasu",
+  "meaning": "I will go to Japan on the 8th.",
+  "sound_text": "ようかににほんへいきます"
+},
+{
+  "id": 1109,
+  "kanji": "九日に学校が始まります。",
+  "hiragana": "ここのかにがっこうがはじまります。",
+  "romaji": "kokonoka ni gakkou ga hajimarimasu",
+  "meaning": "School starts on the 9th.",
+  "sound_text": "ここのかにがっこうがはじまります"
+},
+{
+  "id": 1110,
+  "kanji": "二十日に給料をもらいます。",
+  "hiragana": "はつかにきゅうりょうをもらいます。",
+  "romaji": "hatsuka ni kyuuryou o moraimasu",
+  "meaning": "I receive my salary on the 20th.",
+  "sound_text": "はつかにきゅうりょうをもらいます"
+}
+
+    
+  ]
+}
