@@ -191,6 +191,90 @@
       "romaji": "nijuunin",
       "meaning": "twenty people",
       "sound_text": "にじゅうにん"
-    }
+    },
+    {
+  "id": 1501,
+  "kanji": "公園に一人います。",
+  "hiragana": "こうえんにひとりいます。",
+  "romaji": "kouen ni hitori imasu",
+  "meaning": "There is one person in the park.",
+  "sound_text": "こうえんにひとりいます"
+},
+{
+  "id": 1502,
+  "kanji": "私たちは二人です。",
+  "hiragana": "わたしたちはふたりです。",
+  "romaji": "watashitachi wa futari desu",
+  "meaning": "There are two of us.",
+  "sound_text": "わたしたちはふたりです"
+},
+{
+  "id": 1503,
+  "kanji": "クラスに三人の学生がいます。",
+  "hiragana": "クラスにさんにんのがくせいがいます。",
+  "romaji": "kurasu ni sannin no gakusei ga imasu",
+  "meaning": "There are three students in the class.",
+  "sound_text": "クラスにさんにんのがくせいがいます"
+},
+{
+  "id": 1504,
+  "kanji": "会議に四人参加しました。",
+  "hiragana": "かいぎによにんさんかしました。",
+  "romaji": "kaigi ni yonin sanka shimashita",
+  "meaning": "Four people participated in the meeting.",
+  "sound_text": "かいぎによにんさんかしました"
+},
+{
+  "id": 1505,
+  "kanji": "家族は五人です。",
+  "hiragana": "かぞくはごにんです。",
+  "romaji": "kazoku wa gonin desu",
+  "meaning": "There are five people in my family.",
+  "sound_text": "かぞくはごにんです"
+},
+{
+  "id": 1506,
+  "kanji": "店に六人のお客さんがいます。",
+  "hiragana": "みせにろくにんのおきゃくさんがいます。",
+  "romaji": "mise ni rokunin no okyakusan ga imasu",
+  "meaning": "There are six customers in the shop.",
+  "sound_text": "みせにろくにんのおきゃくさんがいます"
+},
+{
+  "id": 1507,
+  "kanji": "公園で七人の子供が遊んでいます。",
+  "hiragana": "こうえんでななにんのこどもがあそんでいます。",
+  "romaji": "kouen de nananin no kodomo ga asondeimasu",
+  "meaning": "Seven children are playing in the park.",
+  "sound_text": "こうえんでななにんのこどもがあそんでいます"
+},
+{
+  "id": 1508,
+  "kanji": "クラスに八人の学生がいます。",
+  "hiragana": "クラスにはちにんのがくせいがいます。",
+  "romaji": "kurasu ni hachinin no gakusei ga imasu",
+  "meaning": "There are eight students in the class.",
+  "sound_text": "クラスにはちにんのがくせいがいます"
+},
+{
+  "id": 1509,
+  "kanji": "パーティーに九人来ました。",
+  "hiragana": "パーティーにきゅうにんきました。",
+  "romaji": "paatii ni kyuunin kimashita",
+  "meaning": "Nine people came to the party.",
+  "sound_text": "パーティーにきゅうにんきました"
+},
+{
+  "id": 1510,
+  "kanji": "会議に十人参加しました。",
+  "hiragana": "かいぎにじゅうにんさんかしました。",
+  "romaji": "kaigi ni juunin sanka shimashita",
+  "meaning": "Ten people participated in the meeting.",
+  "sound_text": "かいぎにじゅうにんさんかしました"
+}
+
+
+
+    
   ]
 }
