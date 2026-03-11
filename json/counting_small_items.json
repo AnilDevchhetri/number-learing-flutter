@@ -195,6 +195,89 @@
       "meaning": "twenty small items",
       "description": "Both にじゅっこ and にじっこ are used. The sound changes because of 個.",
       "sound_text": "にじゅっこ"
-    }
+    },
+    {
+  "id": 1501,
+  "kanji": "りんごを一個食べました。",
+  "hiragana": "りんごをいっこたべました。",
+  "romaji": "ringo o ikko tabemashita",
+  "meaning": "I ate one apple.",
+  "sound_text": "りんごをいっこたべました"
+},
+{
+  "id": 1502,
+  "kanji": "卵を二個買いました。",
+  "hiragana": "たまごをにこかいました。",
+  "romaji": "tamago o niko kaimashita",
+  "meaning": "I bought two eggs.",
+  "sound_text": "たまごをにこかいました"
+},
+{
+  "id": 1503,
+  "kanji": "キャンディーを三個もらいました。",
+  "hiragana": "キャンディーをさんこもらいました。",
+  "romaji": "kyandii o sanko moraimashita",
+  "meaning": "I received three candies.",
+  "sound_text": "キャンディーをさんこもらいました"
+},
+{
+  "id": 1504,
+  "kanji": "箱の中にボールが四個あります。",
+  "hiragana": "はこのなかにボールがよんこあります。",
+  "romaji": "hako no naka ni booru ga yonko arimasu",
+  "meaning": "There are four balls in the box.",
+  "sound_text": "はこのなかにボールがよんこあります"
+},
+{
+  "id": 1505,
+  "kanji": "机の上にケーキが五個あります。",
+  "hiragana": "つくえのうえにケーキがごこあります。",
+  "romaji": "tsukue no ue ni keeki ga goko arimasu",
+  "meaning": "There are five cakes on the desk.",
+  "sound_text": "つくえのうえにケーキがごこあります"
+},
+{
+  "id": 1506,
+  "kanji": "棚に箱が六個並んでいます。",
+  "hiragana": "たなにはこがろっこならんでいます。",
+  "romaji": "tana ni hako ga rokko narandeimasu",
+  "meaning": "Six boxes are lined up on the shelf.",
+  "sound_text": "たなにはこがろっこならんでいます"
+},
+{
+  "id": 1507,
+  "kanji": "お菓子を七個買いました。",
+  "hiragana": "おかしをななこかいました。",
+  "romaji": "okashi o nanako kaimashita",
+  "meaning": "I bought seven sweets.",
+  "sound_text": "おかしをななこかいました"
+},
+{
+  "id": 1508,
+  "kanji": "皿の上にクッキーが八個あります。",
+  "hiragana": "さらのうえにクッキーがはっこあります。",
+  "romaji": "sara no ue ni kukkii ga hakko arimasu",
+  "meaning": "There are eight cookies on the plate.",
+  "sound_text": "さらのうえにクッキーがはっこあります"
+},
+{
+  "id": 1509,
+  "kanji": "箱にボールが九個入っています。",
+  "hiragana": "はこにボールがきゅうこはいっています。",
+  "romaji": "hako ni booru ga kyuuko haitteimasu",
+  "meaning": "Nine balls are inside the box.",
+  "sound_text": "はこにボールがきゅうこはいっています"
+},
+{
+  "id": 1510,
+  "kanji": "りんごを十個買いました。",
+  "hiragana": "りんごをじゅっこかいました。",
+  "romaji": "ringo o jukko kaimashita",
+  "meaning": "I bought ten apples.",
+  "sound_text": "りんごをじゅっこかいました"
+}
+
+
+    
   ]
 }
