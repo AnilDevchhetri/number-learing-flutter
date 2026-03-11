@@ -1,0 +1,269 @@
+{
+  "category_id": "counting_years",
+  "category_title": "Years",
+  "category_subtitle": "Counting years in Japanese",
+  "category_detail": "<b>Counting Years in Japanese (年 / ねん / nen)</b><br><br>In Japanese, years are counted using the counter <b>年 (ねん / nen)</b>. This counter is used for both <b>duration</b> (for example, one year, two years) and <b>calendar years</b> (for example, 2024年).<br><br><b>Basic Pattern</b><br>Number + 年 (ねん / nen)<br><br><span class=\"example\">1年</span> <span class=\"romaji\">(いちねん / ichinen)</span><br><span class=\"example\">5年</span> <span class=\"romaji\">(ごねん / gonen)</span><br><span class=\"example\">10年</span> <span class=\"romaji\">(じゅうねん / juunen)</span><br><br><b>Sound Changes</b><br>Most year readings are regular, but some numbers have slightly different sounds when combined with 年.<br><br><span class=\"example\">4年</span> <span class=\"romaji\">(よねん / yonen)</span><br><span class=\"example\">7年</span> <span class=\"romaji\">(ななねん / nananen)</span><br><span class=\"example\">9年</span> <span class=\"romaji\">(きゅうねん / kyuunen)</span><br><br><b>Usage</b><br><span class=\"example\">三年日本語を勉強しました。</span><br><span class=\"romaji\">(さんねん にほんごを べんきょうしました / sannen nihongo o benkyou shimashita)</span><br><span class=\"meaning\">I studied Japanese for three years.</span><br><br><span class=\"example\">2026年</span> <span class=\"romaji\">(にせんにじゅうろくねん / nisen nijuu roku nen)</span><br><span class=\"meaning\">Year 2026</span>",
+  "item_list": [
+    {
+      "id": 1,
+      "value": "1",
+      "kanji": "一年",
+      "hiragana": "いちねん",
+      "romaji": "ichinen",
+      "meaning": "one year",
+      "sound_text": "いちねん"
+    },
+    {
+      "id": 2,
+      "value": "2",
+      "kanji": "二年",
+      "hiragana": "にねん",
+      "romaji": "ninen",
+      "meaning": "two years",
+      "sound_text": "にねん"
+    },
+    {
+      "id": 3,
+      "value": "3",
+      "kanji": "三年",
+      "hiragana": "さんねん",
+      "romaji": "sannen",
+      "meaning": "three years",
+      "sound_text": "さんねん"
+    },
+    {
+      "id": 4,
+      "value": "4",
+      "kanji": "四年",
+      "hiragana": "よねん",
+      "romaji": "yonen",
+      "meaning": "four years",
+      "sound_text": "よねん"
+    },
+    {
+      "id": 5,
+      "value": "5",
+      "kanji": "五年",
+      "hiragana": "ごねん",
+      "romaji": "gonen",
+      "meaning": "five years",
+      "sound_text": "ごねん"
+    },
+    {
+      "id": 6,
+      "value": "6",
+      "kanji": "六年",
+      "hiragana": "ろくねん",
+      "romaji": "rokunen",
+      "meaning": "six years",
+      "sound_text": "ろくねん"
+    },
+    {
+      "id": 7,
+      "value": "7",
+      "kanji": "七年",
+      "hiragana": "ななねん",
+      "romaji": "nananen",
+      "meaning": "seven years",
+      "sound_text": "ななねん"
+    },
+    {
+      "id": 8,
+      "value": "8",
+      "kanji": "八年",
+      "hiragana": "はちねん",
+      "romaji": "hachinen",
+      "meaning": "eight years",
+      "sound_text": "はちねん"
+    },
+    {
+      "id": 9,
+      "value": "9",
+      "kanji": "九年",
+      "hiragana": "きゅうねん",
+      "romaji": "kyuunen",
+      "meaning": "nine years",
+      "sound_text": "きゅうねん"
+    },
+    {
+      "id": 10,
+      "value": "10",
+      "kanji": "十年",
+      "hiragana": "じゅうねん",
+      "romaji": "juunen",
+      "meaning": "ten years",
+      "sound_text": "じゅうねん"
+    },
+    {
+      "id": 11,
+      "value": "11",
+      "kanji": "十一年",
+      "hiragana": "じゅういちねん",
+      "romaji": "juuichinen",
+      "meaning": "eleven years",
+      "sound_text": "じゅういちねん"
+    },
+    {
+      "id": 12,
+      "value": "12",
+      "kanji": "十二年",
+      "hiragana": "じゅうにねん",
+      "romaji": "juuninen",
+      "meaning": "twelve years",
+      "sound_text": "じゅうにねん"
+    },
+    {
+      "id": 13,
+      "value": "13",
+      "kanji": "十三年",
+      "hiragana": "じゅうさんねん",
+      "romaji": "juusannen",
+      "meaning": "thirteen years",
+      "sound_text": "じゅうさんねん"
+    },
+    {
+      "id": 14,
+      "value": "14",
+      "kanji": "十四年",
+      "hiragana": "じゅうよねん",
+      "romaji": "juuyonen",
+      "meaning": "fourteen years",
+      "sound_text": "じゅうよねん"
+    },
+    {
+      "id": 15,
+      "value": "15",
+      "kanji": "十五年",
+      "hiragana": "じゅうごねん",
+      "romaji": "juugonen",
+      "meaning": "fifteen years",
+      "sound_text": "じゅうごねん"
+    },
+    {
+      "id": 16,
+      "value": "16",
+      "kanji": "十六年",
+      "hiragana": "じゅうろくねん",
+      "romaji": "juurokunen",
+      "meaning": "sixteen years",
+      "sound_text": "じゅうろくねん"
+    },
+    {
+      "id": 17,
+      "value": "17",
+      "kanji": "十七年",
+      "hiragana": "じゅうななねん",
+      "romaji": "juunananen",
+      "meaning": "seventeen years",
+      "sound_text": "じゅうななねん"
+    },
+    {
+      "id": 18,
+      "value": "18",
+      "kanji": "十八年",
+      "hiragana": "じゅうはちねん",
+      "romaji": "juuhachinen",
+      "meaning": "eighteen years",
+      "sound_text": "じゅうはちねん"
+    },
+    {
+      "id": 19,
+      "value": "19",
+      "kanji": "十九年",
+      "hiragana": "じゅうきゅうねん",
+      "romaji": "juukyuunen",
+      "meaning": "nineteen years",
+      "sound_text": "じゅうきゅうねん"
+    },
+    {
+      "id": 20,
+      "value": "20",
+      "kanji": "二十年",
+      "hiragana": "にじゅうねん",
+      "romaji": "nijuunen",
+      "meaning": "twenty years",
+      "sound_text": "にじゅうねん"
+    },
+
+    {
+      "id": 1101,
+      "kanji": "私は日本に一年住みました。",
+      "hiragana": "わたしはにほんにいちねんすみました。",
+      "romaji": "watashi wa nihon ni ichinen sumimashita",
+      "meaning": "I lived in Japan for one year.",
+      "sound_text": "わたしはにほんにいちねんすみました"
+    },
+    {
+      "id": 1102,
+      "kanji": "彼は二年間働きました。",
+      "hiragana": "かれはにねんかんはたらきました。",
+      "romaji": "kare wa ninenkan hatarakimashita",
+      "meaning": "He worked for two years.",
+      "sound_text": "かれはにねんかんはたらきました"
+    },
+    {
+      "id": 1103,
+      "kanji": "私は三年日本語を勉強しました。",
+      "hiragana": "わたしはさんねんにほんごをべんきょうしました。",
+      "romaji": "watashi wa sannen nihongo o benkyou shimashita",
+      "meaning": "I studied Japanese for three years.",
+      "sound_text": "わたしはさんねんにほんごをべんきょうしました"
+    },
+    {
+      "id": 1104,
+      "kanji": "大学で四年勉強します。",
+      "hiragana": "だいがくでよねんべんきょうします。",
+      "romaji": "daigaku de yonen benkyou shimasu",
+      "meaning": "I will study at university for four years.",
+      "sound_text": "だいがくでよねんべんきょうします"
+    },
+    {
+      "id": 1105,
+      "kanji": "この店は五年前に開きました。",
+      "hiragana": "このみせはごねんまえにひらきました。",
+      "romaji": "kono mise wa gonen mae ni hirakimashita",
+      "meaning": "This shop opened five years ago.",
+      "sound_text": "このみせはごねんまえにひらきました"
+    },
+    {
+      "id": 1106,
+      "kanji": "彼女は六年間ピアノを習いました。",
+      "hiragana": "かのじょはろくねんかんぴあのをならいました。",
+      "romaji": "kanojo wa rokunenkan piano o naraimashita",
+      "meaning": "She learned piano for six years.",
+      "sound_text": "かのじょはろくねんかんぴあのをならいました"
+    },
+    {
+      "id": 1107,
+      "kanji": "私は七年この会社で働いています。",
+      "hiragana": "わたしはななねんこのかいしゃではたらいています。",
+      "romaji": "watashi wa nananen kono kaisha de hataraiteimasu",
+      "meaning": "I have been working at this company for seven years.",
+      "sound_text": "わたしはななねんこのかいしゃではたらいています"
+    },
+    {
+      "id": 1108,
+      "kanji": "八年ぶりに日本へ行きました。",
+      "hiragana": "はちねんぶりににほんへいきました。",
+      "romaji": "hachinen buri ni nihon e ikimashita",
+      "meaning": "I went to Japan for the first time in eight years.",
+      "sound_text": "はちねんぶりににほんへいきました"
+    },
+    {
+      "id": 1109,
+      "kanji": "九年間サッカーをしていました。",
+      "hiragana": "きゅうねんかんさっかーをしていました。",
+      "romaji": "kyuunenkan sakkaa o shiteimashita",
+      "meaning": "I played soccer for nine years.",
+      "sound_text": "きゅうねんかんさっかーをしていました"
+    },
+    {
+      "id": 1110,
+      "kanji": "二〇二六年に卒業します。",
+      "hiragana": "にせんにじゅうろくねんにそつぎょうします。",
+      "romaji": "nisen nijuurokunen ni sotsugyou shimasu",
+      "meaning": "I will graduate in 2026.",
+      "sound_text": "にせんにじゅうろくねんにそつぎょうします"
+    }
+  ]
+}
