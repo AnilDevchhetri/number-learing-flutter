@@ -1,0 +1,314 @@
+{
+  "category_id": "telling_time",
+  "category_title": "Time",
+  "category_subtitle": "How to tell time in Japanese",
+  "category_detail": "<b>Telling Time in Japanese (時間 / じかん / jikan)</b><br><br>In Japanese, time is usually told using the counter <b>時 (じ / ji)</b> for hours and <b>分 (ふん / ぷん / fun / pun)</b> for minutes.<br><br><b>Basic Pattern</b><br>Hour + 時 (じ / ji)<br>Minute + 分 (ふん / ぷん / fun / pun)<br><br><span class=\"example\">1時</span> <span class=\"romaji\">(いちじ / ichiji)</span><br><span class=\"example\">5時</span> <span class=\"romaji\">(ごじ / goji)</span><br><span class=\"example\">10分</span> <span class=\"romaji\">(じゅっぷん / juppun)</span><br><br><b>Important Irregular Hour Readings</b><br>Some hours have special pronunciations and do not follow the normal pattern.<br><br><span class=\"example\">4時</span> <span class=\"romaji\">(よじ / yoji)</span><br><span class=\"example\">7時</span> <span class=\"romaji\">(しちじ / shichiji)</span><br><span class=\"example\">9時</span> <span class=\"romaji\">(くじ / kuji)</span><br><br><b>Important Minute Sound Changes</b><br>Minutes often change sound depending on the number.<br><br><span class=\"example\">1分</span> <span class=\"romaji\">(いっぷん / ippun)</span><br><span class=\"example\">3分</span> <span class=\"romaji\">(さんぷん / sanpun)</span><br><span class=\"example\">6分</span> <span class=\"romaji\">(ろっぷん / roppun)</span><br><span class=\"example\">8分</span> <span class=\"romaji\">(はっぷん / happun)</span><br><span class=\"example\">10分</span> <span class=\"romaji\">(じゅっぷん / juppun)</span><br><br><b>Examples</b><br><span class=\"example\">3時</span> <span class=\"romaji\">(さんじ / sanji)</span><br><span class=\"example\">7時30分</span> <span class=\"romaji\">(しちじさんじゅっぷん / shichiji sanjuppun)</span><br><span class=\"example\">9時15分</span> <span class=\"romaji\">(くじじゅうごふん / kuji juugo fun)</span><br><br><b>Useful Words</b><br><span class=\"example\">半</span> <span class=\"romaji\">(はん / han)</span> = half past<br><span class=\"example\">午前</span> <span class=\"romaji\">(ごぜん / gozen)</span> = AM<br><span class=\"example\">午後</span> <span class=\"romaji\">(ごご / gogo)</span> = PM",
+  "item_list": [
+    {
+      "id": 1,
+      "value": "1:00",
+      "kanji": "1時",
+      "hiragana": "いちじ",
+      "romaji": "ichiji",
+      "meaning": "one o'clock",
+      "sound_text": "いちじ"
+    },
+    {
+      "id": 2,
+      "value": "2:00",
+      "kanji": "2時",
+      "hiragana": "にじ",
+      "romaji": "niji",
+      "meaning": "two o'clock",
+      "sound_text": "にじ"
+    },
+    {
+      "id": 3,
+      "value": "3:00",
+      "kanji": "3時",
+      "hiragana": "さんじ",
+      "romaji": "sanji",
+      "meaning": "three o'clock",
+      "sound_text": "さんじ"
+    },
+    {
+      "id": 4,
+      "value": "4:00",
+      "kanji": "4時",
+      "hiragana": "よじ",
+      "romaji": "yoji",
+      "meaning": "four o'clock",
+      "sound_text": "よじ"
+    },
+    {
+      "id": 5,
+      "value": "5:00",
+      "kanji": "5時",
+      "hiragana": "ごじ",
+      "romaji": "goji",
+      "meaning": "five o'clock",
+      "sound_text": "ごじ"
+    },
+    {
+      "id": 6,
+      "value": "6:00",
+      "kanji": "6時",
+      "hiragana": "ろくじ",
+      "romaji": "rokuji",
+      "meaning": "six o'clock",
+      "sound_text": "ろくじ"
+    },
+    {
+      "id": 7,
+      "value": "7:00",
+      "kanji": "7時",
+      "hiragana": "しちじ",
+      "romaji": "shichiji",
+      "meaning": "seven o'clock",
+      "sound_text": "しちじ"
+    },
+    {
+      "id": 8,
+      "value": "8:00",
+      "kanji": "8時",
+      "hiragana": "はちじ",
+      "romaji": "hachiji",
+      "meaning": "eight o'clock",
+      "sound_text": "はちじ"
+    },
+    {
+      "id": 9,
+      "value": "9:00",
+      "kanji": "9時",
+      "hiragana": "くじ",
+      "romaji": "kuji",
+      "meaning": "nine o'clock",
+      "sound_text": "くじ"
+    },
+    {
+      "id": 10,
+      "value": "10:00",
+      "kanji": "10時",
+      "hiragana": "じゅうじ",
+      "romaji": "juuji",
+      "meaning": "ten o'clock",
+      "sound_text": "じゅうじ"
+    },
+    {
+      "id": 11,
+      "value": "11:00",
+      "kanji": "11時",
+      "hiragana": "じゅういちじ",
+      "romaji": "juuichiji",
+      "meaning": "eleven o'clock",
+      "sound_text": "じゅういちじ"
+    },
+    {
+      "id": 12,
+      "value": "12:00",
+      "kanji": "12時",
+      "hiragana": "じゅうにじ",
+      "romaji": "juuniji",
+      "meaning": "twelve o'clock",
+      "sound_text": "じゅうにじ"
+    },
+    {
+      "id": 101,
+      "value": ":01",
+      "kanji": "1分",
+      "hiragana": "いっぷん",
+      "romaji": "ippun",
+      "meaning": "one minute",
+      "sound_text": "いっぷん"
+    },
+    {
+      "id": 102,
+      "value": ":02",
+      "kanji": "2分",
+      "hiragana": "にふん",
+      "romaji": "nifun",
+      "meaning": "two minutes",
+      "sound_text": "にふん"
+    },
+    {
+      "id": 103,
+      "value": ":03",
+      "kanji": "3分",
+      "hiragana": "さんぷん",
+      "romaji": "sanpun",
+      "meaning": "three minutes",
+      "sound_text": "さんぷん"
+    },
+    {
+      "id": 104,
+      "value": ":04",
+      "kanji": "4分",
+      "hiragana": "よんぷん",
+      "romaji": "yonpun",
+      "meaning": "four minutes",
+      "sound_text": "よんぷん"
+    },
+    {
+      "id": 105,
+      "value": ":05",
+      "kanji": "5分",
+      "hiragana": "ごふん",
+      "romaji": "gofun",
+      "meaning": "five minutes",
+      "sound_text": "ごふん"
+    },
+    {
+      "id": 106,
+      "value": ":06",
+      "kanji": "6分",
+      "hiragana": "ろっぷん",
+      "romaji": "roppun",
+      "meaning": "six minutes",
+      "sound_text": "ろっぷん"
+    },
+    {
+      "id": 107,
+      "value": ":07",
+      "kanji": "7分",
+      "hiragana": "ななふん",
+      "romaji": "nanafun",
+      "meaning": "seven minutes",
+      "sound_text": "ななふん"
+    },
+    {
+      "id": 108,
+      "value": ":08",
+      "kanji": "8分",
+      "hiragana": "はっぷん",
+      "romaji": "happun",
+      "meaning": "eight minutes",
+      "sound_text": "はっぷん"
+    },
+    {
+      "id": 109,
+      "value": ":09",
+      "kanji": "9分",
+      "hiragana": "きゅうふん",
+      "romaji": "kyuufun",
+      "meaning": "nine minutes",
+      "sound_text": "きゅうふん"
+    },
+    {
+      "id": 110,
+      "value": ":10",
+      "kanji": "10分",
+      "hiragana": "じゅっぷん / じっぷん",
+      "romaji": "juppun / jippun",
+      "meaning": "ten minutes",
+      "sound_text": "じゅっぷん"
+    },
+    {
+      "id": 201,
+      "value": "half",
+      "kanji": "半",
+      "hiragana": "はん",
+      "romaji": "han",
+      "meaning": "half past",
+      "sound_text": "はん"
+    },
+    {
+      "id": 202,
+      "value": "am",
+      "kanji": "午前",
+      "hiragana": "ごぜん",
+      "romaji": "gozen",
+      "meaning": "AM / morning",
+      "sound_text": "ごぜん"
+    },
+    {
+      "id": 203,
+      "value": "pm",
+      "kanji": "午後",
+      "hiragana": "ごご",
+      "romaji": "gogo",
+      "meaning": "PM / afternoon",
+      "sound_text": "ごご"
+    },
+
+    {
+      "id": 1101,
+      "kanji": "今は三時です。",
+      "hiragana": "いまはさんじです。",
+      "romaji": "ima wa sanji desu",
+      "meaning": "It is three o'clock now.",
+      "sound_text": "いまはさんじです"
+    },
+    {
+      "id": 1102,
+      "kanji": "学校は八時に始まります。",
+      "hiragana": "がっこうははちじにはじまります。",
+      "romaji": "gakkou wa hachiji ni hajimarimasu",
+      "meaning": "School starts at 8 o'clock.",
+      "sound_text": "がっこうははちじにはじまります"
+    },
+    {
+      "id": 1103,
+      "kanji": "会議は四時です。",
+      "hiragana": "かいぎはよじです。",
+      "romaji": "kaigi wa yoji desu",
+      "meaning": "The meeting is at 4 o'clock.",
+      "sound_text": "かいぎはよじです"
+    },
+    {
+      "id": 1104,
+      "kanji": "毎朝七時に起きます。",
+      "hiragana": "まいあさしちじにおきます。",
+      "romaji": "maiasa shichiji ni okimasu",
+      "meaning": "I wake up at 7 o'clock every morning.",
+      "sound_text": "まいあさしちじにおきます"
+    },
+    {
+      "id": 1105,
+      "kanji": "電車は九時十分に出ます。",
+      "hiragana": "でんしゃはくじじゅっぷんにでます。",
+      "romaji": "densha wa kuji juppun ni demasu",
+      "meaning": "The train leaves at 9:10.",
+      "sound_text": "でんしゃはくじじゅっぷんにでます"
+    },
+    {
+      "id": 1106,
+      "kanji": "昼ご飯は十二時半です。",
+      "hiragana": "ひるごはんはじゅうにじはんです。",
+      "romaji": "hirugohan wa juuniji han desu",
+      "meaning": "Lunch is at 12:30.",
+      "sound_text": "ひるごはんはじゅうにじはんです"
+    },
+    {
+      "id": 1107,
+      "kanji": "今、五時五分です。",
+      "hiragana": "いま、ごじごふんです。",
+      "romaji": "ima, goji gofun desu",
+      "meaning": "It is now 5:05.",
+      "sound_text": "いまごじごふんです"
+    },
+    {
+      "id": 1108,
+      "kanji": "映画は午後六時に始まります。",
+      "hiragana": "えいがはごごろくじにはじまります。",
+      "romaji": "eiga wa gogo rokuji ni hajimarimasu",
+      "meaning": "The movie starts at 6 PM.",
+      "sound_text": "えいがはごごろくじにはじまります"
+    },
+    {
+      "id": 1109,
+      "kanji": "朝ご飯は午前七時半です。",
+      "hiragana": "あさごはんはごぜんしちじはんです。",
+      "romaji": "asagohan wa gozen shichiji han desu",
+      "meaning": "Breakfast is at 7:30 AM.",
+      "sound_text": "あさごはんはごぜんしちじはんです"
+    },
+    {
+      "id": 1110,
+      "kanji": "授業は十時二十分に終わります。",
+      "hiragana": "じゅぎょうはじゅうじにじゅっぷんにおわります。",
+      "romaji": "jugyou wa juuji nijuppun ni owarimasu",
+      "meaning": "The class ends at 10:20.",
+      "sound_text": "じゅぎょうはじゅうじにじゅっぷんにおわります"
+    }
+  ]
+}
