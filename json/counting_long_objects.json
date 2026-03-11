@@ -201,6 +201,88 @@
       "meaning": "twenty long objects",
       "description": "にじゅっぽん is very common.",
       "sound_text": "にじゅっぽん"
-    }
+    },
+    {
+  "id": 1601,
+  "kanji": "ペンを一本ください。",
+  "hiragana": "ペンをいっぽんください。",
+  "romaji": "pen o ippon kudasai",
+  "meaning": "Please give me one pen.",
+  "sound_text": "ペンをいっぽんください"
+},
+{
+  "id": 1602,
+  "kanji": "机の上にペンが二本あります。",
+  "hiragana": "つくえのうえにペンがにほんあります。",
+  "romaji": "tsukue no ue ni pen ga nihon arimasu",
+  "meaning": "There are two pens on the desk.",
+  "sound_text": "つくえのうえにペンがにほんあります"
+},
+{
+  "id": 1603,
+  "kanji": "ビールを三本買いました。",
+  "hiragana": "ビールをさんぼんかいました。",
+  "romaji": "biiru o sanbon kaimashita",
+  "meaning": "I bought three bottles of beer.",
+  "sound_text": "ビールをさんぼんかいました"
+},
+{
+  "id": 1604,
+  "kanji": "木が四本立っています。",
+  "hiragana": "きがよんほんたっています。",
+  "romaji": "ki ga yonhon tatteimasu",
+  "meaning": "Four trees are standing there.",
+  "sound_text": "きがよんほんたっています"
+},
+{
+  "id": 1605,
+  "kanji": "鉛筆を五本持っています。",
+  "hiragana": "えんぴつをごほんもっています。",
+  "romaji": "enpitsu o gohon motteimasu",
+  "meaning": "I have five pencils.",
+  "sound_text": "えんぴつをごほんもっています"
+},
+{
+  "id": 1606,
+  "kanji": "傘を六本買いました。",
+  "hiragana": "かさをろっぽんかいました。",
+  "romaji": "kasa o roppon kaimashita",
+  "meaning": "I bought six umbrellas.",
+  "sound_text": "かさをろっぽんかいました"
+},
+{
+  "id": 1607,
+  "kanji": "道路が七本あります。",
+  "hiragana": "どうろがななほんあります。",
+  "romaji": "douro ga nanahon arimasu",
+  "meaning": "There are seven roads.",
+  "sound_text": "どうろがななほんあります"
+},
+{
+  "id": 1608,
+  "kanji": "木を八本植えました。",
+  "hiragana": "きをはっぽんうえました。",
+  "romaji": "ki o happon uemashita",
+  "meaning": "I planted eight trees.",
+  "sound_text": "きをはっぽんうえました"
+},
+{
+  "id": 1609,
+  "kanji": "ペンを九本買いました。",
+  "hiragana": "ペンをきゅうほんかいました。",
+  "romaji": "pen o kyuuhon kaimashita",
+  "meaning": "I bought nine pens.",
+  "sound_text": "ペンをきゅうほんかいました"
+},
+{
+  "id": 1610,
+  "kanji": "ビールを十本買いました。",
+  "hiragana": "ビールをじゅっぽんかいました。",
+  "romaji": "biiru o juppon kaimashita",
+  "meaning": "I bought ten bottles of beer.",
+  "sound_text": "ビールをじゅっぽんかいました"
+}
+
+    
   ]
 }
