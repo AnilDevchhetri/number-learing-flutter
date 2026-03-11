@@ -183,6 +183,88 @@
       "romaji": "nijuttou / nijittou",
       "meaning": "twenty large animals",
       "sound_text": "にじゅっとう"
-    }
+    },
+{
+  "id": 1401,
+  "kanji": "牧場に牛が一頭います。",
+  "hiragana": "ぼくじょうにうしがいっとういます。",
+  "romaji": "bokujou ni ushi ga ittou imasu",
+  "meaning": "There is one cow on the farm.",
+  "sound_text": "ぼくじょうにうしがいっとういます"
+},
+{
+  "id": 1402,
+  "kanji": "牧場で牛を二頭見ました。",
+  "hiragana": "ぼくじょうでうしをにとうみました。",
+  "romaji": "bokujou de ushi o nitou mimashita",
+  "meaning": "I saw two cows on the farm.",
+  "sound_text": "ぼくじょうでうしをにとうみました"
+},
+{
+  "id": 1403,
+  "kanji": "牧場に馬が三頭います。",
+  "hiragana": "ぼくじょうにうまがさんとういます。",
+  "romaji": "bokujou ni uma ga santou imasu",
+  "meaning": "There are three horses on the farm.",
+  "sound_text": "ぼくじょうにうまがさんとういます"
+},
+{
+  "id": 1404,
+  "kanji": "動物園で象を四頭見ました。",
+  "hiragana": "どうぶつえんでぞうをよんとうみました。",
+  "romaji": "doubutsuen de zou o yontou mimashita",
+  "meaning": "I saw four elephants at the zoo.",
+  "sound_text": "どうぶつえんでぞうをよんとうみました"
+},
+{
+  "id": 1405,
+  "kanji": "牧場に牛が五頭います。",
+  "hiragana": "ぼくじょうにうしがごとういます。",
+  "romaji": "bokujou ni ushi ga gotou imasu",
+  "meaning": "There are five cows on the farm.",
+  "sound_text": "ぼくじょうにうしがごとういます"
+},
+{
+  "id": 1406,
+  "kanji": "牧場で馬を六頭飼っています。",
+  "hiragana": "ぼくじょうでうまをろくとうかっています。",
+  "romaji": "bokujou de uma o rokutou katteimasu",
+  "meaning": "We keep six horses on the farm.",
+  "sound_text": "ぼくじょうでうまをろくとうかっています"
+},
+{
+  "id": 1407,
+  "kanji": "牧場に牛が七頭います。",
+  "hiragana": "ぼくじょうにうしがななとういます。",
+  "romaji": "bokujou ni ushi ga nanatou imasu",
+  "meaning": "There are seven cows on the farm.",
+  "sound_text": "ぼくじょうにうしがななとういます"
+},
+{
+  "id": 1408,
+  "kanji": "動物園で象を八頭見ました。",
+  "hiragana": "どうぶつえんでぞうをはちとうみました。",
+  "romaji": "doubutsuen de zou o hachitou mimashita",
+  "meaning": "I saw eight elephants at the zoo.",
+  "sound_text": "どうぶつえんでぞうをはちとうみました"
+},
+{
+  "id": 1409,
+  "kanji": "牧場に馬が九頭います。",
+  "hiragana": "ぼくじょうにうまがきゅうとういます。",
+  "romaji": "bokujou ni uma ga kyuutou imasu",
+  "meaning": "There are nine horses on the farm.",
+  "sound_text": "ぼくじょうにうまがきゅうとういます"
+},
+{
+  "id": 1410,
+  "kanji": "牧場に牛が十頭います。",
+  "hiragana": "ぼくじょうにうしがじゅっとういます。",
+  "romaji": "bokujou ni ushi ga juttou imasu",
+  "meaning": "There are ten cows on the farm.",
+  "sound_text": "ぼくじょうにうしがじゅっとういます"
+}
+
+    
   ]
 }
