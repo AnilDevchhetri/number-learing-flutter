@@ -183,6 +183,89 @@
       "romaji": "nijussatsu / nijissatsu",
       "meaning": "twenty books",
       "sound_text": "にじゅっさつ"
-    }
+    },
+    {
+  "id": 1301,
+  "kanji": "本を一冊読みました。",
+  "hiragana": "ほんをいっさつよみました。",
+  "romaji": "hon o issatsu yomimashita",
+  "meaning": "I read one book.",
+  "sound_text": "ほんをいっさつよみました"
+},
+{
+  "id": 1302,
+  "kanji": "図書館で本を二冊借りました。",
+  "hiragana": "としょかんでほんをにさつかりました。",
+  "romaji": "toshokan de hon o nisatsu karimashita",
+  "meaning": "I borrowed two books from the library.",
+  "sound_text": "としょかんでほんをにさつかりました"
+},
+{
+  "id": 1303,
+  "kanji": "昨日、本を三冊買いました。",
+  "hiragana": "きのうほんをさんさつかいました。",
+  "romaji": "kinou hon o sansatsu kaimashita",
+  "meaning": "Yesterday I bought three books.",
+  "sound_text": "きのうほんをさんさつかいました"
+},
+{
+  "id": 1304,
+  "kanji": "机の上に本が四冊あります。",
+  "hiragana": "つくえのうえにほんがよんさつあります。",
+  "romaji": "tsukue no ue ni hon ga yonsatsu arimasu",
+  "meaning": "There are four books on the desk.",
+  "sound_text": "つくえのうえにほんがよんさつあります"
+},
+{
+  "id": 1305,
+  "kanji": "彼は本を五冊持っています。",
+  "hiragana": "かれはほんをごさつもっています。",
+  "romaji": "kare wa hon o gosatsu motteimasu",
+  "meaning": "He has five books.",
+  "sound_text": "かれはほんをごさつもっています"
+},
+{
+  "id": 1306,
+  "kanji": "旅行に本を六冊持って行きました。",
+  "hiragana": "りょこうにほんをろくさつもっていきました。",
+  "romaji": "ryokou ni hon o rokusatsu motte ikimashita",
+  "meaning": "I brought six books on the trip.",
+  "sound_text": "りょこうにほんをろくさつもっていきました"
+},
+{
+  "id": 1307,
+  "kanji": "棚に本が七冊並んでいます。",
+  "hiragana": "たなにほんがななさつならんでいます。",
+  "romaji": "tana ni hon ga nanasatsu narandeimasu",
+  "meaning": "Seven books are lined up on the shelf.",
+  "sound_text": "たなにほんがななさつならんでいます"
+},
+{
+  "id": 1308,
+  "kanji": "彼女は本を八冊読みました。",
+  "hiragana": "かのじょはほんをはっさつよみました。",
+  "romaji": "kanojo wa hon o hassatsu yomimashita",
+  "meaning": "She read eight books.",
+  "sound_text": "かのじょはほんをはっさつよみました"
+},
+{
+  "id": 1309,
+  "kanji": "図書館で本を九冊借りました。",
+  "hiragana": "としょかんでほんをきゅうさつかりました。",
+  "romaji": "toshokan de hon o kyuusatsu karimashita",
+  "meaning": "I borrowed nine books from the library.",
+  "sound_text": "としょかんでほんをきゅうさつかりました"
+},
+{
+  "id": 1310,
+  "kanji": "店で本を十冊買いました。",
+  "hiragana": "みせでほんをじゅっさつかいました。",
+  "romaji": "mise de hon o jussatsu kaimashita",
+  "meaning": "I bought ten books at the store.",
+  "sound_text": "みせでほんをじゅっさつかいました"
+}
+
+
+    
   ]
 }
