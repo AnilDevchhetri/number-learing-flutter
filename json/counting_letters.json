@@ -195,6 +195,48 @@
       "meaning": "twenty letters",
       "description": "にじゅっつう is very common. にじっつう is also heard. Both are acceptable.",
       "sound_text": "にじゅっつう"
-    }
+    },
+    {
+  "category_id": "counting_letters",
+  "category_title": "Counting Letters",
+  "category_subtitle": "Learn how to count letters, messages, or mail in Japanese using 通",
+  "category_detail": "<b>Counting Letters in Japanese</b><br><br>In Japanese, letters, mail, documents, notices, and messages are commonly counted with the counter <b>「通」</b>.<br><br>This counter is often used for things like <b>letters, emails, messages, postcards, formal notices, and official documents</b>.<br><br><b>Important Reading Pattern</b><br>The counter <b>通</b> has some sound changes, so learners should pay attention to pronunciation.<br><br>Examples:<br><span class=\"example\">1通</span> <span class=\"romaji\">(いっつう / ittsuu)</span><br><span class=\"example\">3通</span> <span class=\"romaji\">(さんつう / santsuu)</span><br><span class=\"example\">6通</span> <span class=\"romaji\">(ろくつう / rokutsuu)</span><br><span class=\"example\">8通</span> <span class=\"romaji\">(はっつう / hattsuu)</span><br><span class=\"example\">10通</span> <span class=\"romaji\">(じゅっつう / juttsuu)</span><br><br><b>Common Usage</b><br><span class=\"example\">手紙を一通送りました。</span> <span class=\"romaji\">(tegami o ittsuu okurimashita)</span><br>Meaning: I sent one letter.<br><br><span class=\"example\">メールを二通受け取りました。</span> <span class=\"romaji\">(meeru o nitsuu uketorimashita)</span><br>Meaning: I received two emails.<br><br><b>Important Notes</b><br>This counter is useful not only for physical letters, but also for written communication such as emails and messages in many contexts.<br><br>This category focuses on the most useful and natural learner-friendly readings for counting letters and mail.",
+  "item_list": [
+    {
+      "id": 1,
+      "value": "1",
+      "kanji": "一通",
+      "hiragana": "いっつう",
+      "romaji": "ittsuu",
+      "meaning": "one letter / one message",
+      "description": "This uses a sound change and must be memorized.",
+      "sound_text": "いっつう"
+    },
+    {
+      "id": 2,
+      "value": "2",
+      "kanji": "二通",
+      "hiragana": "につう",
+      "romaji": "nitsuu",
+      "meaning": "two letters",
+      "description": "A regular reading used for two letters, emails, or documents.",
+      "sound_text": "につう"
+    },
+    {
+      "id": 3,
+      "value": "3",
+      "kanji": "三通",
+      "hiragana": "さんつう",
+      "romaji": "santsuu",
+      "meaning": "three letters",
+      "sound_text": "さんつう"
+    },
+    {
+      "id": 4,
+      "value": "4",
+      "kanji": "四通",
+      "hiragana": "よんつう / しつう",
+
+    
   ]
 }
