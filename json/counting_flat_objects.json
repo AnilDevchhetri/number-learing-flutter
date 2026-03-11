@@ -194,6 +194,88 @@
       "meaning": "twenty flat objects",
       "description": "A regular reading used for twenty flat items.",
       "sound_text": "にじゅうまい"
-    }
+    },
+{
+  "id": 1601,
+  "kanji": "紙を一枚ください。",
+  "hiragana": "かみをいちまいください。",
+  "romaji": "kami o ichimai kudasai",
+  "meaning": "Please give me one sheet of paper.",
+  "sound_text": "かみをいちまいください"
+},
+{
+  "id": 1602,
+  "kanji": "切符を二枚買いました。",
+  "hiragana": "きっぷをにまいかいました。",
+  "romaji": "kippu o nimai kaimashita",
+  "meaning": "I bought two tickets.",
+  "sound_text": "きっぷをにまいかいました"
+},
+{
+  "id": 1603,
+  "kanji": "写真を三枚撮りました。",
+  "hiragana": "しゃしんをさんまいとりました。",
+  "romaji": "shashin o sanmai torimashita",
+  "meaning": "I took three photos.",
+  "sound_text": "しゃしんをさんまいとりました"
+},
+{
+  "id": 1604,
+  "kanji": "皿を四枚持っています。",
+  "hiragana": "さらをよんまいもっています。",
+  "romaji": "sara o yonmai motteimasu",
+  "meaning": "I have four plates.",
+  "sound_text": "さらをよんまいもっています"
+},
+{
+  "id": 1605,
+  "kanji": "カードを五枚もらいました。",
+  "hiragana": "かーどをごまいもらいました。",
+  "romaji": "kaado o gomai moraimashita",
+  "meaning": "I received five cards.",
+  "sound_text": "かーどをごまいもらいました"
+},
+{
+  "id": 1606,
+  "kanji": "シャツを六枚持っています。",
+  "hiragana": "しゃつをろくまいもっています。",
+  "romaji": "shatsu o rokumai motteimasu",
+  "meaning": "I have six shirts.",
+  "sound_text": "しゃつをろくまいもっています"
+},
+{
+  "id": 1607,
+  "kanji": "葉っぱを七枚拾いました。",
+  "hiragana": "はっぱをななまいひろいました。",
+  "romaji": "happa o nanamai hiroimashita",
+  "meaning": "I picked up seven leaves.",
+  "sound_text": "はっぱをななまいひろいました"
+},
+{
+  "id": 1608,
+  "kanji": "写真を八枚印刷しました。",
+  "hiragana": "しゃしんをはちまいいんさつしました。",
+  "romaji": "shashin o hachimai insatsu shimashita",
+  "meaning": "I printed eight photos.",
+  "sound_text": "しゃしんをはちまいいんさつしました"
+},
+{
+  "id": 1609,
+  "kanji": "切手を九枚買いました。",
+  "hiragana": "きってをきゅうまいかいました。",
+  "romaji": "kitte o kyuumai kaimashita",
+  "meaning": "I bought nine stamps.",
+  "sound_text": "きってをきゅうまいかいました"
+},
+{
+  "id": 1610,
+  "kanji": "紙を十枚コピーしました。",
+  "hiragana": "かみをじゅうまいこぴーしました。",
+  "romaji": "kami o juumai kopii shimashita",
+  "meaning": "I copied ten sheets of paper.",
+  "sound_text": "かみをじゅうまいこぴーしました"
+}
+  
+    
   ]
 }
