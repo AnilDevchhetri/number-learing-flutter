@@ -183,6 +183,86 @@
       "romaji": "nijuuw a",
       "meaning": "twenty birds",
       "sound_text": "にじゅうわ"
-    }
+    },
+    {
+  "id": 1201,
+  "kanji": "庭に鳥が一羽います。",
+  "hiragana": "にわにとりがいちわいます。",
+  "romaji": "niwa ni tori ga ichiwa imasu",
+  "meaning": "There is one bird in the yard.",
+  "sound_text": "にわにとりがいちわいます"
+},
+{
+  "id": 1202,
+  "kanji": "池にアヒルが二羽います。",
+  "hiragana": "いけにあひるがにわいます。",
+  "romaji": "ike ni ahiru ga niwa imasu",
+  "meaning": "There are two ducks in the pond.",
+  "sound_text": "いけにあひるがにわいます"
+},
+{
+  "id": 1203,
+  "kanji": "空を三羽の鳥が飛んでいます。",
+  "hiragana": "そらをさんわのとりがとんでいます。",
+  "romaji": "sora o sanwa no tori ga tondeimasu",
+  "meaning": "Three birds are flying in the sky.",
+  "sound_text": "そらをさんわのとりがとんでいます"
+},
+{
+  "id": 1204,
+  "kanji": "公園で鳥を四羽見ました。",
+  "hiragana": "こうえんでとりをよんわみました。",
+  "romaji": "kouen de tori o yonwa mimashita",
+  "meaning": "I saw four birds in the park.",
+  "sound_text": "こうえんでとりをよんわみました"
+},
+{
+  "id": 1205,
+  "kanji": "湖に白鳥が五羽います。",
+  "hiragana": "みずうみにはくちょうがごわいます。",
+  "romaji": "mizūmi ni hakuchou ga gowa imasu",
+  "meaning": "There are five swans in the lake.",
+  "sound_text": "みずうみにはくちょうがごわいます"
+},
+{
+  "id": 1206,
+  "kanji": "農場でニワトリを六羽飼っています。",
+  "hiragana": "のうじょうでにわとりをろくわかっています。",
+  "romaji": "noujou de niwatori o rokuwa katteimasu",
+  "meaning": "We keep six chickens on the farm.",
+  "sound_text": "のうじょうでにわとりをろくわかっています"
+},
+{
+  "id": 1207,
+  "kanji": "池にカモが七羽います。",
+  "hiragana": "いけにかもがななわいます。",
+  "romaji": "ike ni kamo ga nanawa imasu",
+  "meaning": "There are seven ducks in the pond.",
+  "sound_text": "いけにかもがななわいます"
+},
+{
+  "id": 1208,
+  "kanji": "空に鳥が八羽飛んでいます。",
+  "hiragana": "そらにとりがはちわとんでいます。",
+  "romaji": "sora ni tori ga hachiwa tondeimasu",
+  "meaning": "Eight birds are flying in the sky.",
+  "sound_text": "そらにとりがはちわとんでいます"
+},
+{
+  "id": 1209,
+  "kanji": "公園でハトを九羽見ました。",
+  "hiragana": "こうえんではとをきゅうわみました。",
+  "romaji": "kouen de hato o kyuuwa mimashita",
+  "meaning": "I saw nine pigeons in the park.",
+  "sound_text": "こうえんではとをきゅうわみました"
+},
+{
+  "id": 1210,
+  "kanji": "湖に鳥が十羽います。",
+  "hiragana": "みずうみにとりがじゅうわいます。",
+  "romaji": "mizūmi ni tori ga juu wa imasu",
+  "meaning": "There are ten birds in the lake.",
+  "sound_text": "みずうみにとりがじゅうわいます"
+}
   ]
 }
