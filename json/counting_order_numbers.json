@@ -191,6 +191,89 @@
       "romaji": "nijuubanme",
       "meaning": "twentieth",
       "sound_text": "にじゅうばんめ"
-    }
+    },
+  {
+  "id": 1501,
+  "kanji": "私は一番目に並びました。",
+  "hiragana": "わたしはいちばんめにならびました。",
+  "romaji": "watashi wa ichibanme ni narabimashita",
+  "meaning": "I lined up first.",
+  "sound_text": "わたしはいちばんめにならびました"
+},
+{
+  "id": 1502,
+  "kanji": "二番目のページを見てください。",
+  "hiragana": "にばんめのページをみてください。",
+  "romaji": "nibanme no peeji o mite kudasai",
+  "meaning": "Please look at the second page.",
+  "sound_text": "にばんめのページをみてください"
+},
+{
+  "id": 1503,
+  "kanji": "彼は三番目に来ました。",
+  "hiragana": "かれはさんばんめにきました。",
+  "romaji": "kare wa sanbanme ni kimashita",
+  "meaning": "He came third.",
+  "sound_text": "かれはさんばんめにきました"
+},
+{
+  "id": 1504,
+  "kanji": "四番目の席に座ってください。",
+  "hiragana": "よんばんめのせきにすわってください。",
+  "romaji": "yonbanme no seki ni suwatte kudasai",
+  "meaning": "Please sit in the fourth seat.",
+  "sound_text": "よんばんめのせきにすわってください"
+},
+{
+  "id": 1505,
+  "kanji": "五番目の問題は難しいです。",
+  "hiragana": "ごばんめのもんだいはむずかしいです。",
+  "romaji": "gobanme no mondai wa muzukashii desu",
+  "meaning": "The fifth question is difficult.",
+  "sound_text": "ごばんめのもんだいはむずかしいです"
+},
+{
+  "id": 1506,
+  "kanji": "六番目の駅で降ります。",
+  "hiragana": "ろくばんめのえきでおります。",
+  "romaji": "rokubanme no eki de orimasu",
+  "meaning": "I will get off at the sixth station.",
+  "sound_text": "ろくばんめのえきでおります"
+},
+{
+  "id": 1507,
+  "kanji": "七番目の店に入りました。",
+  "hiragana": "ななばんめのみせにはいりました。",
+  "romaji": "nanabanme no mise ni hairimashita",
+  "meaning": "We entered the seventh shop.",
+  "sound_text": "ななばんめのみせにはいりました"
+},
+{
+  "id": 1508,
+  "kanji": "八番目の人が呼ばれました。",
+  "hiragana": "はちばんめのひとがよばれました。",
+  "romaji": "hachibanme no hito ga yobaremashita",
+  "meaning": "The eighth person was called.",
+  "sound_text": "はちばんめのひとがよばれました"
+},
+{
+  "id": 1509,
+  "kanji": "九番目のドアを開けてください。",
+  "hiragana": "きゅうばんめのドアをあけてください。",
+  "romaji": "kyuubanme no doa o akete kudasai",
+  "meaning": "Please open the ninth door.",
+  "sound_text": "きゅうばんめのドアをあけてください"
+},
+{
+  "id": 1510,
+  "kanji": "十番目の質問に答えてください。",
+  "hiragana": "じゅうばんめのしつもんにこたえてください。",
+  "romaji": "juubanme no shitsumon ni kotaete kudasai",
+  "meaning": "Please answer the tenth question.",
+  "sound_text": "じゅうばんめのしつもんにこたえてください"
+}
+
+
+    
   ]
 }
