@@ -183,6 +183,88 @@
       "romaji": "nijukken / nijikken",
       "meaning": "twenty houses",
       "sound_text": "にじゅっけん"
-    }
+    },
+    {
+  "id": 1801,
+  "kanji": "この通りには家が一軒あります。",
+  "hiragana": "このとおりにはいえがいっけんあります。",
+  "romaji": "kono toori ni wa ie ga ikken arimasu",
+  "meaning": "There is one house on this street.",
+  "sound_text": "このとおりにはいえがいっけんあります"
+},
+{
+  "id": 1802,
+  "kanji": "この町にはレストランが二軒あります。",
+  "hiragana": "このまちにはれすとらんがにけんあります。",
+  "romaji": "kono machi ni wa resutoran ga niken arimasu",
+  "meaning": "There are two restaurants in this town.",
+  "sound_text": "このまちにはれすとらんがにけんあります"
+},
+{
+  "id": 1803,
+  "kanji": "この通りには店が三軒あります。",
+  "hiragana": "このとおりにはみせがさんげんあります。",
+  "romaji": "kono toori ni wa mise ga sangen arimasu",
+  "meaning": "There are three shops on this street.",
+  "sound_text": "このとおりにはみせがさんげんあります"
+},
+{
+  "id": 1804,
+  "kanji": "村には家が四軒あります。",
+  "hiragana": "むらにはいえがよんけんあります。",
+  "romaji": "mura ni wa ie ga yonken arimasu",
+  "meaning": "There are four houses in the village.",
+  "sound_text": "むらにはいえがよんけんあります"
+},
+{
+  "id": 1805,
+  "kanji": "この通りには店が五軒あります。",
+  "hiragana": "このとおりにはみせがごけんあります。",
+  "romaji": "kono toori ni wa mise ga goken arimasu",
+  "meaning": "There are five shops on this street.",
+  "sound_text": "このとおりにはみせがごけんあります"
+},
+{
+  "id": 1806,
+  "kanji": "この町には家が六軒あります。",
+  "hiragana": "このまちにはいえがろっけんあります。",
+  "romaji": "kono machi ni wa ie ga rokken arimasu",
+  "meaning": "There are six houses in this town.",
+  "sound_text": "このまちにはいえがろっけんあります"
+},
+{
+  "id": 1807,
+  "kanji": "この通りにはレストランが七軒あります。",
+  "hiragana": "このとおりにはれすとらんがななけんあります。",
+  "romaji": "kono toori ni wa resutoran ga nanaken arimasu",
+  "meaning": "There are seven restaurants on this street.",
+  "sound_text": "このとおりにはれすとらんがななけんあります"
+},
+{
+  "id": 1808,
+  "kanji": "この町には店が八軒あります。",
+  "hiragana": "このまちにはみせがはっけんあります。",
+  "romaji": "kono machi ni wa mise ga hakken arimasu",
+  "meaning": "There are eight shops in this town.",
+  "sound_text": "このまちにはみせがはっけんあります"
+},
+{
+  "id": 1809,
+  "kanji": "この通りには家が九軒あります。",
+  "hiragana": "このとおりにはいえがきゅうけんあります。",
+  "romaji": "kono toori ni wa ie ga kyuuken arimasu",
+  "meaning": "There are nine houses on this street.",
+  "sound_text": "このとおりにはいえがきゅうけんあります"
+},
+{
+  "id": 1810,
+  "kanji": "この町には店が十軒あります。",
+  "hiragana": "このまちにはみせがじゅっけんあります。",
+  "romaji": "kono machi ni wa mise ga jukken arimasu",
+  "meaning": "There are ten shops in this town.",
+  "sound_text": "このまちにはみせがじゅっけんあります"
+}
+
+    
   ]
 }
