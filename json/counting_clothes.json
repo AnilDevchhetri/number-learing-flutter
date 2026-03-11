@@ -183,6 +183,89 @@
       "romaji": "nijucchaku / nijicchaku",
       "meaning": "twenty pieces of clothing",
       "sound_text": "にじゅっちゃく"
-    }
+    },
+
+    {
+  "id": 1401,
+  "kanji": "シャツを一着買いました。",
+  "hiragana": "しゃつをいっちゃくかいました。",
+  "romaji": "shatsu o icchaku kaimashita",
+  "meaning": "I bought one shirt.",
+  "sound_text": "しゃつをいっちゃくかいました"
+},
+{
+  "id": 1402,
+  "kanji": "彼はスーツを二着持っています。",
+  "hiragana": "かれはすーつをにちゃくもっています。",
+  "romaji": "kare wa suutsu o nichaku motteimasu",
+  "meaning": "He has two suits.",
+  "sound_text": "かれはすーつをにちゃくもっています"
+},
+{
+  "id": 1403,
+  "kanji": "昨日、コートを三着試着しました。",
+  "hiragana": "きのう、こーとをさんちゃくしちゃくしました。",
+  "romaji": "kinou, kooto o sanchaku shichaku shimashita",
+  "meaning": "Yesterday, I tried on three coats.",
+  "sound_text": "きのう こーとをさんちゃくしちゃくしました"
+},
+{
+  "id": 1404,
+  "kanji": "クローゼットにジャケットが四着あります。",
+  "hiragana": "くろーぜっとにじゃけっとがよんちゃくあります。",
+  "romaji": "kuroozetto ni jaketto ga yonchaku arimasu",
+  "meaning": "There are four jackets in the closet.",
+  "sound_text": "くろーぜっとにじゃけっとがよんちゃくあります"
+},
+{
+  "id": 1405,
+  "kanji": "彼女はワンピースを五着持っています。",
+  "hiragana": "かのじょはわんぴーすをごちゃくもっています。",
+  "romaji": "kanojo wa wanpiisu o gochaku motteimasu",
+  "meaning": "She has five dresses.",
+  "sound_text": "かのじょはわんぴーすをごちゃくもっています"
+},
+{
+  "id": 1406,
+  "kanji": "店でシャツを六着見ました。",
+  "hiragana": "みせでしゃつをろくちゃくみました。",
+  "romaji": "mise de shatsu o rokuchaku mimashita",
+  "meaning": "I saw six shirts at the store.",
+  "sound_text": "みせでしゃつをろくちゃくみました"
+},
+{
+  "id": 1407,
+  "kanji": "洗濯した服が七着あります。",
+  "hiragana": "せんたくしたふくがななちゃくあります。",
+  "romaji": "sentaku shita fuku ga nanachaku arimasu",
+  "meaning": "There are seven washed clothes.",
+  "sound_text": "せんたくしたふくがななちゃくあります"
+},
+{
+  "id": 1408,
+  "kanji": "旅行のために服を八着用意しました。",
+  "hiragana": "りょこうのためにふくをはちちゃくよういしました。",
+  "romaji": "ryokou no tame ni fuku o hachichaku youi shimashita",
+  "meaning": "I prepared eight outfits for the trip.",
+  "sound_text": "りょこうのためにふくをはちちゃくよういしました"
+},
+{
+  "id": 1409,
+  "kanji": "その店には制服が九着あります。",
+  "hiragana": "そのみせにはせいふくがきゅうちゃくあります。",
+  "romaji": "sono mise ni wa seifuku ga kyuuchaku arimasu",
+  "meaning": "There are nine uniforms in that shop.",
+  "sound_text": "そのみせにはせいふくがきゅうちゃくあります"
+},
+{
+  "id": 1410,
+  "kanji": "冬の服を十着買いました。",
+  "hiragana": "ふゆのふくをじゅっちゃくかいました。",
+  "romaji": "fuyu no fuku o jucchaku kaimashita",
+  "meaning": "I bought ten winter clothes.",
+  "sound_text": "ふゆのふくをじゅっちゃくかいました"
+}
+
+    
   ]
 }
