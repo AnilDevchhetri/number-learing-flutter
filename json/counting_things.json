@@ -139,6 +139,89 @@
       "romaji": "juugoko",
       "meaning": "fifteen things",
       "sound_text": "じゅうごこ"
-    }
+    },
+
+    {
+  "id": 1401,
+  "kanji": "りんごを一つください。",
+  "hiragana": "りんごをひとつください。",
+  "romaji": "ringo o hitotsu kudasai",
+  "meaning": "Please give me one apple.",
+  "sound_text": "りんごをひとつください"
+},
+{
+  "id": 1402,
+  "kanji": "質問が二つあります。",
+  "hiragana": "しつもんがふたつあります。",
+  "romaji": "shitsumon ga futatsu arimasu",
+  "meaning": "I have two questions.",
+  "sound_text": "しつもんがふたつあります"
+},
+{
+  "id": 1403,
+  "kanji": "ケーキを三つ買いました。",
+  "hiragana": "けーきをみっつかいました。",
+  "romaji": "keeki o mittsu kaimashita",
+  "meaning": "I bought three cakes.",
+  "sound_text": "けーきをみっつかいました"
+},
+{
+  "id": 1404,
+  "kanji": "箱の中にボールが四つあります。",
+  "hiragana": "はこのなかにぼーるがよっつあります。",
+  "romaji": "hako no naka ni booru ga yottsu arimasu",
+  "meaning": "There are four balls in the box.",
+  "sound_text": "はこのなかにぼーるがよっつあります"
+},
+{
+  "id": 1405,
+  "kanji": "クッキーを五つ食べました。",
+  "hiragana": "くっきーをいつつたべました。",
+  "romaji": "kukkii o itsutsu tabemashita",
+  "meaning": "I ate five cookies.",
+  "sound_text": "くっきーをいつつたべました"
+},
+{
+  "id": 1406,
+  "kanji": "お土産を六つ買いました。",
+  "hiragana": "おみやげをむっつかいました。",
+  "romaji": "omiyage o muttsu kaimashita",
+  "meaning": "I bought six souvenirs.",
+  "sound_text": "おみやげをむっつかいました"
+},
+{
+  "id": 1407,
+  "kanji": "問題が七つあります。",
+  "hiragana": "もんだいがななつあります。",
+  "romaji": "mondai ga nanatsu arimasu",
+  "meaning": "There are seven problems.",
+  "sound_text": "もんだいがななつあります"
+},
+{
+  "id": 1408,
+  "kanji": "ケーキを八つ作りました。",
+  "hiragana": "けーきをやっつつくりました。",
+  "romaji": "keeki o yattsu tsukurimashita",
+  "meaning": "I made eight cakes.",
+  "sound_text": "けーきをやっつつくりました"
+},
+{
+  "id": 1409,
+  "kanji": "箱におもちゃが九つ入っています。",
+  "hiragana": "はこにおもちゃがここのつはいっています。",
+  "romaji": "hako ni omocha ga kokonotsu haitteimasu",
+  "meaning": "There are nine toys in the box.",
+  "sound_text": "はこにおもちゃがここのつはいっています"
+},
+{
+  "id": 1410,
+  "kanji": "机の上にリンゴが十個あります。",
+  "hiragana": "つくえのうえにりんごがじゅっこあります。",
+  "romaji": "tsukue no ue ni ringo ga jukko arimasu",
+  "meaning": "There are ten apples on the desk.",
+  "sound_text": "つくえのうえにりんごがじゅっこあります"
+}
+
+    
   ]
 }
