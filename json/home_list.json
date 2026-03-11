@@ -19,6 +19,16 @@
     "file_name": "counting_months",
     "icon": "date_range"
   },
+   {
+    "title": "Years",
+    "file_name": "counting_years",
+    "icon": "event"
+  },
+   {
+    "title": "Dates",
+    "file_name": "calendar_dates",
+    "icon": "today"
+  },
   {
     "title": "Counting things (つ)",
     "file_name": "counting_things",
