@@ -1,0 +1,200 @@
+{
+  "category_id": "counting_months",
+  "category_title": "Months",
+  "category_subtitle": "Months of the year in Japanese",
+  "category_detail": "<b>Months in Japanese (月 / がつ / gatsu)</b><br><br>In Japanese, months are expressed by combining a number with the counter <b>月 (がつ / gatsu)</b>. The pattern is very regular compared to other counters.<br><br><b>Basic Pattern</b><br>Number + 月 (がつ / gatsu)<br><br><span class=\"example\">1月</span> <span class=\"romaji\">(いちがつ / ichigatsu)</span><br><span class=\"example\">6月</span> <span class=\"romaji\">(ろくがつ / rokugatsu)</span><br><span class=\"example\">10月</span> <span class=\"romaji\">(じゅうがつ / juugatsu)</span><br><br><b>Important Pronunciation Exceptions</b><br>Some months have different pronunciations and should be memorized carefully.<br><br><span class=\"example\">4月</span> <span class=\"romaji\">(しがつ / shigatsu)</span><br><span class=\"example\">7月</span> <span class=\"romaji\">(しちがつ / shichigatsu)</span><br><span class=\"example\">9月</span> <span class=\"romaji\">(くがつ / kugatsu)</span><br><br>These are exceptions because the usual number readings (よん, なな, きゅう) are not used in months.<br><br><b>Example</b><br><span class=\"example\">日本に三月に行きます。</span><br><span class=\"romaji\">Nihon ni sangatsu ni ikimasu.</span><br><span class=\"meaning\">I will go to Japan in March.</span>",
+
+  "item_list": [
+
+    {
+      "id": 1,
+      "value": "1",
+      "kanji": "一月",
+      "hiragana": "いちがつ",
+      "romaji": "ichigatsu",
+      "meaning": "January",
+      "sound_text": "いちがつ"
+    },
+    {
+      "id": 2,
+      "value": "2",
+      "kanji": "二月",
+      "hiragana": "にがつ",
+      "romaji": "nigatsu",
+      "meaning": "February",
+      "sound_text": "にがつ"
+    },
+    {
+      "id": 3,
+      "value": "3",
+      "kanji": "三月",
+      "hiragana": "さんがつ",
+      "romaji": "sangatsu",
+      "meaning": "March",
+      "sound_text": "さんがつ"
+    },
+    {
+      "id": 4,
+      "value": "4",
+      "kanji": "四月",
+      "hiragana": "しがつ",
+      "romaji": "shigatsu",
+      "meaning": "April",
+      "sound_text": "しがつ"
+    },
+    {
+      "id": 5,
+      "value": "5",
+      "kanji": "五月",
+      "hiragana": "ごがつ",
+      "romaji": "gogatsu",
+      "meaning": "May",
+      "sound_text": "ごがつ"
+    },
+    {
+      "id": 6,
+      "value": "6",
+      "kanji": "六月",
+      "hiragana": "ろくがつ",
+      "romaji": "rokugatsu",
+      "meaning": "June",
+      "sound_text": "ろくがつ"
+    },
+    {
+      "id": 7,
+      "value": "7",
+      "kanji": "七月",
+      "hiragana": "しちがつ",
+      "romaji": "shichigatsu",
+      "meaning": "July",
+      "sound_text": "しちがつ"
+    },
+    {
+      "id": 8,
+      "value": "8",
+      "kanji": "八月",
+      "hiragana": "はちがつ",
+      "romaji": "hachigatsu",
+      "meaning": "August",
+      "sound_text": "はちがつ"
+    },
+    {
+      "id": 9,
+      "value": "9",
+      "kanji": "九月",
+      "hiragana": "くがつ",
+      "romaji": "kugatsu",
+      "meaning": "September",
+      "sound_text": "くがつ"
+    },
+    {
+      "id": 10,
+      "value": "10",
+      "kanji": "十月",
+      "hiragana": "じゅうがつ",
+      "romaji": "juugatsu",
+      "meaning": "October",
+      "sound_text": "じゅうがつ"
+    },
+    {
+      "id": 11,
+      "value": "11",
+      "kanji": "十一月",
+      "hiragana": "じゅういちがつ",
+      "romaji": "juuichigatsu",
+      "meaning": "November",
+      "sound_text": "じゅういちがつ"
+    },
+    {
+      "id": 12,
+      "value": "12",
+      "kanji": "十二月",
+      "hiragana": "じゅうにがつ",
+      "romaji": "juunigatsu",
+      "meaning": "December",
+      "sound_text": "じゅうにがつ"
+    },
+
+    {
+      "id": 1101,
+      "kanji": "誕生日は三月です。",
+      "hiragana": "たんじょうびはさんがつです。",
+      "romaji": "tanjoubi wa sangatsu desu",
+      "meaning": "My birthday is in March.",
+      "sound_text": "たんじょうびはさんがつです"
+    },
+    {
+      "id": 1102,
+      "kanji": "日本へ四月に行きます。",
+      "hiragana": "にほんへしがつにいきます。",
+      "romaji": "nihon e shigatsu ni ikimasu",
+      "meaning": "I will go to Japan in April.",
+      "sound_text": "にほんへしがつにいきます"
+    },
+    {
+      "id": 1103,
+      "kanji": "学校は四月に始まります。",
+      "hiragana": "がっこうはしがつにはじまります。",
+      "romaji": "gakkou wa shigatsu ni hajimarimasu",
+      "meaning": "School starts in April.",
+      "sound_text": "がっこうはしがつにはじまります"
+    },
+    {
+      "id": 1104,
+      "kanji": "八月はとても暑いです。",
+      "hiragana": "はちがつはとてもあついです。",
+      "romaji": "hachigatsu wa totemo atsui desu",
+      "meaning": "August is very hot.",
+      "sound_text": "はちがつはとてもあついです"
+    },
+    {
+      "id": 1105,
+      "kanji": "七月に祭りがあります。",
+      "hiragana": "しちがつにまつりがあります。",
+      "romaji": "shichigatsu ni matsuri ga arimasu",
+      "meaning": "There is a festival in July.",
+      "sound_text": "しちがつにまつりがあります"
+    },
+    {
+      "id": 1106,
+      "kanji": "十二月はとても寒いです。",
+      "hiragana": "じゅうにがつはとてもさむいです。",
+      "romaji": "juunigatsu wa totemo samui desu",
+      "meaning": "December is very cold.",
+      "sound_text": "じゅうにがつはとてもさむいです"
+    },
+    {
+      "id": 1107,
+      "kanji": "六月に試験があります。",
+      "hiragana": "ろくがつにしけんがあります。",
+      "romaji": "rokugatsu ni shiken ga arimasu",
+      "meaning": "There is an exam in June.",
+      "sound_text": "ろくがつにしけんがあります"
+    },
+    {
+      "id": 1108,
+      "kanji": "九月に新しい仕事を始めます。",
+      "hiragana": "くがつにあたらしいしごとをはじめます。",
+      "romaji": "kugatsu ni atarashii shigoto o hajimemasu",
+      "meaning": "I will start a new job in September.",
+      "sound_text": "くがつにあたらしいしごとをはじめます"
+    },
+    {
+      "id": 1109,
+      "kanji": "五月に旅行します。",
+      "hiragana": "ごがつにりょこうします。",
+      "romaji": "gogatsu ni ryokou shimasu",
+      "meaning": "I will travel in May.",
+      "sound_text": "ごがつにりょこうします"
+    },
+    {
+      "id": 1110,
+      "kanji": "十月に結婚します。",
+      "hiragana": "じゅうがつにけっこんします。",
+      "romaji": "juugatsu ni kekkon shimasu",
+      "meaning": "I will get married in October.",
+      "sound_text": "じゅうがつにけっこんします"
+    }
+
+  ]
+}
