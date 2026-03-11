@@ -29,6 +29,11 @@
     "file_name": "calendar_dates",
     "icon": "today"
   },
+   {
+    "title": "Time",
+    "file_name": "telling_time",
+    "icon": "schedule"
+  },
   {
     "title": "Counting things (つ)",
     "file_name": "counting_things",
