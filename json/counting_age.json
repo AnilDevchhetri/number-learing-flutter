@@ -1,0 +1,254 @@
+{
+  "category_id": "counting_age",
+  "category_title": "Age",
+  "category_subtitle": "How to say age in Japanese",
+ "category_detail": "<b>Counting Age in Japanese (年齢 / ねんれい / nenrei)</b><br><br>In Japanese, age is expressed using the counter <b>歳 (さい / sai)</b>. This counter is attached after a number to indicate how old someone is.<br><br><b>Basic Pattern</b><br>Number + 歳 (さい / sai)<br><br><span class=\"example\">10歳</span> <span class=\"romaji\">(じゅっさい / jussai)</span><br><span class=\"example\">18歳</span> <span class=\"romaji\">(じゅうはっさい / juuhassai)</span><br><span class=\"example\">25歳</span> <span class=\"romaji\">(にじゅうごさい / nijuu gosai)</span><br><br><b>Sound Changes</b><br>Some numbers change pronunciation when combined with 歳.<br><br><span class=\"example\">1歳</span> <span class=\"romaji\">(いっさい / issai)</span><br><span class=\"example\">8歳</span> <span class=\"romaji\">(はっさい / hassai)</span><br><span class=\"example\">10歳</span> <span class=\"romaji\">(じゅっさい / jussai)</span><br><br><b>Special Exception</b><br><span class=\"example\">20歳</span> <span class=\"romaji\">(はたち / hatachi)</span><br>This is a completely special reading and does not follow the normal number + 歳 pattern.<br><br><b>Example Sentences</b><br><span class=\"example\">私は二十歳です。</span><br><span class=\"romaji\">Watashi wa hatachi desu.</span><br><span class=\"meaning\">I am 20 years old.</span><br><br><span class=\"example\">彼は十八歳です。</span><br><span class=\"romaji\">Kare wa juuhassai desu.</span><br><span class=\"meaning\">He is 18 years old.</span>",
+  "item_list": [
+    {
+      "id": 0,
+      "value": "0",
+      "kanji": "0歳",
+      "hiragana": "ぜろさい",
+      "romaji": "zerosai",
+      "meaning": "zero years old",
+      "sound_text": "ぜろさい"
+    },
+    {
+      "id": 1,
+      "value": "1",
+      "kanji": "1歳",
+      "hiragana": "いっさい",
+      "romaji": "issai",
+      "meaning": "one year old",
+      "sound_text": "いっさい"
+    },
+    {
+      "id": 2,
+      "value": "2",
+      "kanji": "2歳",
+      "hiragana": "にさい",
+      "romaji": "nisai",
+      "meaning": "two years old",
+      "sound_text": "にさい"
+    },
+    {
+      "id": 3,
+      "value": "3",
+      "kanji": "3歳",
+      "hiragana": "さんさい",
+      "romaji": "sansai",
+      "meaning": "three years old",
+      "sound_text": "さんさい"
+    },
+    {
+      "id": 4,
+      "value": "4",
+      "kanji": "4歳",
+      "hiragana": "よんさい",
+      "romaji": "yonsai",
+      "meaning": "four years old",
+      "sound_text": "よんさい"
+    },
+    {
+      "id": 5,
+      "value": "5",
+      "kanji": "5歳",
+      "hiragana": "ごさい",
+      "romaji": "gosai",
+      "meaning": "five years old",
+      "sound_text": "ごさい"
+    },
+    {
+      "id": 6,
+      "value": "6",
+      "kanji": "6歳",
+      "hiragana": "ろくさい",
+      "romaji": "rokusai",
+      "meaning": "six years old",
+      "sound_text": "ろくさい"
+    },
+    {
+      "id": 7,
+      "value": "7",
+      "kanji": "7歳",
+      "hiragana": "ななさい",
+      "romaji": "nanasai",
+      "meaning": "seven years old",
+      "sound_text": "ななさい"
+    },
+    {
+      "id": 8,
+      "value": "8",
+      "kanji": "8歳",
+      "hiragana": "はっさい",
+      "romaji": "hassai",
+      "meaning": "eight years old",
+      "sound_text": "はっさい"
+    },
+    {
+      "id": 9,
+      "value": "9",
+      "kanji": "9歳",
+      "hiragana": "きゅうさい",
+      "romaji": "kyuusai",
+      "meaning": "nine years old",
+      "sound_text": "きゅうさい"
+    },
+    {
+      "id": 10,
+      "value": "10",
+      "kanji": "10歳",
+      "hiragana": "じゅっさい",
+      "romaji": "jussai",
+      "meaning": "ten years old",
+      "sound_text": "じゅっさい"
+    },
+    {
+      "id": 11,
+      "value": "11",
+      "kanji": "11歳",
+      "hiragana": "じゅういっさい",
+      "romaji": "juuissai",
+      "meaning": "eleven years old",
+      "sound_text": "じゅういっさい"
+    },
+    {
+      "id": 12,
+      "value": "12",
+      "kanji": "12歳",
+      "hiragana": "じゅうにさい",
+      "romaji": "juunisai",
+      "meaning": "twelve years old",
+      "sound_text": "じゅうにさい"
+    },
+    {
+      "id": 13,
+      "value": "13",
+      "kanji": "13歳",
+      "hiragana": "じゅうさんさい",
+      "romaji": "juusansai",
+      "meaning": "thirteen years old",
+      "sound_text": "じゅうさんさい"
+    },
+    {
+      "id": 14,
+      "value": "14",
+      "kanji": "14歳",
+      "hiragana": "じゅうよんさい",
+      "romaji": "juuyonsai",
+      "meaning": "fourteen years old",
+      "sound_text": "じゅうよんさい"
+    },
+    {
+      "id": 15,
+      "value": "15",
+      "kanji": "15歳",
+      "hiragana": "じゅうごさい",
+      "romaji": "juugosai",
+      "meaning": "fifteen years old",
+      "sound_text": "じゅうごさい"
+    },
+    {
+      "id": 16,
+      "value": "16",
+      "kanji": "16歳",
+      "hiragana": "じゅうろくさい",
+      "romaji": "juurokusai",
+      "meaning": "sixteen years old",
+      "sound_text": "じゅうろくさい"
+    },
+    {
+      "id": 17,
+      "value": "17",
+      "kanji": "17歳",
+      "hiragana": "じゅうななさい",
+      "romaji": "juunanasai",
+      "meaning": "seventeen years old",
+      "sound_text": "じゅうななさい"
+    },
+    {
+      "id": 18,
+      "value": "18",
+      "kanji": "18歳",
+      "hiragana": "じゅうはっさい",
+      "romaji": "juuhassai",
+      "meaning": "eighteen years old",
+      "sound_text": "じゅうはっさい"
+    },
+    {
+      "id": 19,
+      "value": "19",
+      "kanji": "19歳",
+      "hiragana": "じゅうきゅうさい",
+      "romaji": "juukyuusai",
+      "meaning": "nineteen years old",
+      "sound_text": "じゅうきゅうさい"
+    },
+    {
+      "id": 20,
+      "value": "20",
+      "kanji": "二十歳",
+      "hiragana": "はたち",
+      "romaji": "hatachi",
+      "meaning": "twenty years old",
+      "sound_text": "はたち"
+    },
+
+    {
+      "id": 1101,
+      "kanji": "私は二十歳です。",
+      "hiragana": "わたしははたちです。",
+      "romaji": "watashi wa hatachi desu",
+      "meaning": "I am 20 years old.",
+      "sound_text": "わたしははたちです"
+    },
+    {
+      "id": 1102,
+      "kanji": "彼は十八歳です。",
+      "hiragana": "かれはじゅうはっさいです。",
+      "romaji": "kare wa juuhassai desu",
+      "meaning": "He is 18 years old.",
+      "sound_text": "かれはじゅうはっさいです"
+    },
+    {
+      "id": 1103,
+      "kanji": "妹は十歳です。",
+      "hiragana": "いもうとはじゅっさいです。",
+      "romaji": "imouto wa jussai desu",
+      "meaning": "My younger sister is 10 years old.",
+      "sound_text": "いもうとはじゅっさいです"
+    },
+    {
+      "id": 1104,
+      "kanji": "彼女は二十五歳です。",
+      "hiragana": "かのじょはにじゅうごさいです。",
+      "romaji": "kanojo wa nijuu gosai desu",
+      "meaning": "She is 25 years old.",
+      "sound_text": "かのじょはにじゅうごさいです"
+    },
+    {
+      "id": 1105,
+      "kanji": "弟は七歳です。",
+      "hiragana": "おとうとはななさいです。",
+      "romaji": "otouto wa nanasai desu",
+      "meaning": "My younger brother is 7 years old.",
+      "sound_text": "おとうとはななさいです"
+    },
+    {
+      "id": 1106,
+      "kanji": "子どもは三歳です。",
+      "hiragana": "こどもはさんさいです。",
+      "romaji": "kodomo wa sansai desu",
+      "meaning": "The child is 3 years old.",
+      "sound_text": "こどもはさんさいです"
+    },
+    {
+      "id": 1107,
+      "kanji": "父は五十歳です。",
+      "hiragana": "ちちはごじゅっさいです。",
+      "romaji": "chichi wa gojussai desu",
+      "meaning": "My father is 50 years old.",
+      "sound_text": "ちちはごじゅっさいです"
+    }
+  ]
+}
