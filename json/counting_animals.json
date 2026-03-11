@@ -183,6 +183,86 @@
       "romaji": "nijuppiki / nijippiki",
       "meaning": "twenty animals",
       "sound_text": "にじゅっぴき"
-    }
+    },
+    {
+    "id": 1101,
+    "kanji": "犬が一匹います。",
+    "hiragana": "いぬがいっぴきいます。",
+    "romaji": "inu ga ippiki imasu",
+    "meaning": "There is one dog.",
+    "sound_text": "いぬがいっぴきいます"
+  },
+  {
+    "id": 1102,
+    "kanji": "猫を二匹飼っています。",
+    "hiragana": "ねこをにひきかっています。",
+    "romaji": "neko o nihiki katteimasu",
+    "meaning": "I have two cats.",
+    "sound_text": "ねこをにひきかっています"
+  },
+  {
+    "id": 1103,
+    "kanji": "池に魚が三匹います。",
+    "hiragana": "いけにさかながさんびきいます。",
+    "romaji": "ike ni sakana ga sanbiki imasu",
+    "meaning": "There are three fish in the pond.",
+    "sound_text": "いけにさかながさんびきいます"
+  },
+  {
+    "id": 1104,
+    "kanji": "公園で犬を四匹見ました。",
+    "hiragana": "こうえんでいぬをよんひきみました。",
+    "romaji": "kouen de inu o yonhiki mimashita",
+    "meaning": "I saw four dogs in the park.",
+    "sound_text": "こうえんでいぬをよんひきみました"
+  },
+  {
+    "id": 1105,
+    "kanji": "水槽に魚が五匹います。",
+    "hiragana": "すいそうにさかながごひきいます。",
+    "romaji": "suisou ni sakana ga gohiki imasu",
+    "meaning": "There are five fish in the aquarium.",
+    "sound_text": "すいそうにさかながごひきいます"
+  },
+  {
+    "id": 1106,
+    "kanji": "農場で羊を六匹見ました。",
+    "hiragana": "のうじょうでひつじをろっぴきみました。",
+    "romaji": "noujou de hitsuji o roppiki mimashita",
+    "meaning": "I saw six sheep on the farm.",
+    "sound_text": "のうじょうでひつじをろっぴきみました"
+  },
+  {
+    "id": 1107,
+    "kanji": "池にカエルが七匹います。",
+    "hiragana": "いけにかえるがななひきいます。",
+    "romaji": "ike ni kaeru ga nanahiki imasu",
+    "meaning": "There are seven frogs in the pond.",
+    "sound_text": "いけにかえるがななひきいます"
+  },
+  {
+    "id": 1108,
+    "kanji": "庭で猫を八匹見ました。",
+    "hiragana": "にわでねこをはっぴきみました。",
+    "romaji": "niwa de neko o happiki mimashita",
+    "meaning": "I saw eight cats in the yard.",
+    "sound_text": "にわでねこをはっぴきみました"
+  },
+  {
+    "id": 1109,
+    "kanji": "川に魚が九匹います。",
+    "hiragana": "かわにさかながきゅうひきいます。",
+    "romaji": "kawa ni sakana ga kyuuhiki imasu",
+    "meaning": "There are nine fish in the river.",
+    "sound_text": "かわにさかながきゅうひきいます"
+  },
+  {
+    "id": 1110,
+    "kanji": "店で金魚を十匹買いました。",
+    "hiragana": "みせできんぎょをじゅっぴきかいました。",
+    "romaji": "mise de kingyo o juppiki kaimashita",
+    "meaning": "I bought ten goldfish at the store.",
+    "sound_text": "みせできんぎょをじゅっぴきかいました"
+  }
   ]
 }
