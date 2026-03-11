@@ -183,6 +183,92 @@
       "romaji": "nijukkai / nijikkai",
       "meaning": "twentieth floor",
       "sound_text": "にじゅっかい"
-    }
+    },
+
+    {
+  "id": 1701,
+  "kanji": "受付は一階にあります。",
+  "hiragana": "うけつけはいっかいにあります。",
+  "romaji": "uketsuke wa ikkai ni arimasu",
+  "meaning": "The reception is on the first floor.",
+  "sound_text": "うけつけはいっかいにあります"
+},
+{
+  "id": 1702,
+  "kanji": "私の部屋は二階にあります。",
+  "hiragana": "わたしのへやはにかいにあります。",
+  "romaji": "watashi no heya wa nikai ni arimasu",
+  "meaning": "My room is on the second floor.",
+  "sound_text": "わたしのへやはにかいにあります"
+},
+{
+  "id": 1703,
+  "kanji": "レストランは三階にあります。",
+  "hiragana": "れすとらんはさんがいにあります。",
+  "romaji": "resutoran wa sangai ni arimasu",
+  "meaning": "The restaurant is on the third floor.",
+  "sound_text": "れすとらんはさんがいにあります"
+},
+{
+  "id": 1704,
+  "kanji": "オフィスは四階にあります。",
+  "hiragana": "おふぃすはよんかいにあります。",
+  "romaji": "ofisu wa yonkai ni arimasu",
+  "meaning": "The office is on the fourth floor.",
+  "sound_text": "おふぃすはよんかいにあります"
+},
+{
+  "id": 1705,
+  "kanji": "図書館は五階にあります。",
+  "hiragana": "としょかんはごかいにあります。",
+  "romaji": "toshokan wa gokai ni arimasu",
+  "meaning": "The library is on the fifth floor.",
+  "sound_text": "としょかんはごかいにあります"
+},
+{
+  "id": 1706,
+  "kanji": "会議室は六階にあります。",
+  "hiragana": "かいぎしつはろっかいにあります。",
+  "romaji": "kaigishitsu wa rokkai ni arimasu",
+  "meaning": "The meeting room is on the sixth floor.",
+  "sound_text": "かいぎしつはろっかいにあります"
+},
+{
+  "id": 1707,
+  "kanji": "ジムは七階にあります。",
+  "hiragana": "じむはななかいにあります。",
+  "romaji": "jimu wa nanakai ni arimasu",
+  "meaning": "The gym is on the seventh floor.",
+  "sound_text": "じむはななかいにあります"
+},
+{
+  "id": 1708,
+  "kanji": "ホテルのプールは八階にあります。",
+  "hiragana": "ほてるのぷーるははっかいにあります。",
+  "romaji": "hoteru no puuru wa hakkai ni arimasu",
+  "meaning": "The hotel pool is on the eighth floor.",
+  "sound_text": "ほてるのぷーるははっかいにあります"
+},
+{
+  "id": 1709,
+  "kanji": "カフェは九階にあります。",
+  "hiragana": "かふぇはきゅうかいにあります。",
+  "romaji": "kafe wa kyuukai ni arimasu",
+  "meaning": "The café is on the ninth floor.",
+  "sound_text": "かふぇはきゅうかいにあります"
+},
+{
+  "id": 1710,
+  "kanji": "展望台は十階にあります。",
+  "hiragana": "てんぼうだいはじゅっかいにあります。",
+  "romaji": "tenboudai wa jukkai ni arimasu",
+  "meaning": "The observation deck is on the tenth floor.",
+  "sound_text": "てんぼうだいはじゅっかいにあります"
+}
+
+    
+
+
+    
   ]
 }
