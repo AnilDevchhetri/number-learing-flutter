@@ -188,6 +188,88 @@
       "romaji": "nijuuryou",
       "meaning": "twenty train cars",
       "sound_text": "にじゅうりょう"
-    }
+    },
+  {
+  "id": 1501,
+  "kanji": "この電車は一両です。",
+  "hiragana": "このでんしゃはいちりょうです。",
+  "romaji": "kono densha wa ichiryou desu",
+  "meaning": "This train has one car.",
+  "sound_text": "このでんしゃはいちりょうです"
+},
+{
+  "id": 1502,
+  "kanji": "この列車は二両編成です。",
+  "hiragana": "このれっしゃはにりょうへんせいです。",
+  "romaji": "kono ressha wa niryou hensei desu",
+  "meaning": "This train is a two-car train set.",
+  "sound_text": "このれっしゃはにりょうへんせいです"
+},
+{
+  "id": 1503,
+  "kanji": "この電車は三両あります。",
+  "hiragana": "このでんしゃはさんりょうあります。",
+  "romaji": "kono densha wa sanryou arimasu",
+  "meaning": "This train has three cars.",
+  "sound_text": "このでんしゃはさんりょうあります"
+},
+{
+  "id": 1504,
+  "kanji": "この列車は四両です。",
+  "hiragana": "このれっしゃはよんりょうです。",
+  "romaji": "kono ressha wa yonryou desu",
+  "meaning": "This train has four cars.",
+  "sound_text": "このれっしゃはよんりょうです"
+},
+{
+  "id": 1505,
+  "kanji": "この電車は五両編成です。",
+  "hiragana": "このでんしゃはごりょうへんせいです。",
+  "romaji": "kono densha wa goryou hensei desu",
+  "meaning": "This train is a five-car train set.",
+  "sound_text": "このでんしゃはごりょうへんせいです"
+},
+{
+  "id": 1506,
+  "kanji": "この列車は六両あります。",
+  "hiragana": "このれっしゃはろくりょうあります。",
+  "romaji": "kono ressha wa rokuryou arimasu",
+  "meaning": "This train has six cars.",
+  "sound_text": "このれっしゃはろくりょうあります"
+},
+{
+  "id": 1507,
+  "kanji": "この電車は七両です。",
+  "hiragana": "このでんしゃはななりょうです。",
+  "romaji": "kono densha wa nanaryou desu",
+  "meaning": "This train has seven cars.",
+  "sound_text": "このでんしゃはななりょうです"
+},
+{
+  "id": 1508,
+  "kanji": "この列車は八両編成です。",
+  "hiragana": "このれっしゃははちりょうへんせいです。",
+  "romaji": "kono ressha wa hachiryou hensei desu",
+  "meaning": "This train is an eight-car train set.",
+  "sound_text": "このれっしゃははちりょうへんせいです"
+},
+{
+  "id": 1509,
+  "kanji": "この電車は九両あります。",
+  "hiragana": "このでんしゃはきゅうりょうあります。",
+  "romaji": "kono densha wa kyuuryou arimasu",
+  "meaning": "This train has nine cars.",
+  "sound_text": "このでんしゃはきゅうりょうあります"
+},
+{
+  "id": 1510,
+  "kanji": "この電車は十両です。",
+  "hiragana": "このでんしゃはじゅうりょうです。",
+  "romaji": "kono densha wa juuryou desu",
+  "meaning": "This train has ten cars.",
+  "sound_text": "このでんしゃはじゅうりょうです"
+}
+
+    
   ]
 }
