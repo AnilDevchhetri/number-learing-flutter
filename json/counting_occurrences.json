@@ -183,6 +183,88 @@
       "romaji": "nijukkai / nijikkai",
       "meaning": "twenty times",
       "sound_text": "にじゅっかい"
-    }
+    },
+{
+  "id": 1401,
+  "kanji": "この映画を一回見ました。",
+  "hiragana": "このえいがをいっかいみました。",
+  "romaji": "kono eiga o ikkai mimashita",
+  "meaning": "I watched this movie once.",
+  "sound_text": "このえいがをいっかいみました"
+},
+{
+  "id": 1402,
+  "kanji": "このレストランに二回行きました。",
+  "hiragana": "このレストランににかいいきました。",
+  "romaji": "kono resutoran ni nikai ikimashita",
+  "meaning": "I went to this restaurant twice.",
+  "sound_text": "このレストランににかいいきました"
+},
+{
+  "id": 1403,
+  "kanji": "日本に三回行ったことがあります。",
+  "hiragana": "にほんにさんかいいったことがあります。",
+  "romaji": "nihon ni sankai itta koto ga arimasu",
+  "meaning": "I have been to Japan three times.",
+  "sound_text": "にほんにさんかいいったことがあります"
+},
+{
+  "id": 1404,
+  "kanji": "昨日、この曲を四回聞きました。",
+  "hiragana": "きのうこのきょくをよんかいききました。",
+  "romaji": "kinou kono kyoku o yonkai kikimashita",
+  "meaning": "Yesterday I listened to this song four times.",
+  "sound_text": "きのうこのきょくをよんかいききました"
+},
+{
+  "id": 1405,
+  "kanji": "彼に五回電話しました。",
+  "hiragana": "かれにごかいでんわしました。",
+  "romaji": "kare ni gokai denwa shimashita",
+  "meaning": "I called him five times.",
+  "sound_text": "かれにごかいでんわしました"
+},
+{
+  "id": 1406,
+  "kanji": "この本を六回読みました。",
+  "hiragana": "このほんをろっかいよみました。",
+  "romaji": "kono hon o rokkai yomimashita",
+  "meaning": "I read this book six times.",
+  "sound_text": "このほんをろっかいよみました"
+},
+{
+  "id": 1407,
+  "kanji": "その店に七回行きました。",
+  "hiragana": "そのみせにななかいいきました。",
+  "romaji": "sono mise ni nanakai ikimashita",
+  "meaning": "I went to that shop seven times.",
+  "sound_text": "そのみせにななかいいきました"
+},
+{
+  "id": 1408,
+  "kanji": "このゲームを八回プレイしました。",
+  "hiragana": "このゲームをはっかいプレイしました。",
+  "romaji": "kono geemu o hakkai purei shimashita",
+  "meaning": "I played this game eight times.",
+  "sound_text": "このゲームをはっかいプレイしました"
+},
+{
+  "id": 1409,
+  "kanji": "彼と九回会いました。",
+  "hiragana": "かれときゅうかいあいました。",
+  "romaji": "kare to kyuukai aimashita",
+  "meaning": "I met him nine times.",
+  "sound_text": "かれときゅうかいあいました"
+},
+{
+  "id": 1410,
+  "kanji": "この動画を十回見ました。",
+  "hiragana": "このどうがをじゅっかいみました。",
+  "romaji": "kono douga o jukkai mimashita",
+  "meaning": "I watched this video ten times.",
+  "sound_text": "このどうがをじゅっかいみました"
+}
+
+    
   ]
 }
