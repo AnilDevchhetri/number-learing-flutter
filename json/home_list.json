@@ -1,131 +1,157 @@
 [
   {
     "title": "Basic numbers",
+    "slug": "basic-japanese-numbers",
     "file_name": "basic_numbers",
     "icon": "numbers"
   },
   {
     "title": "Age",
+    "slug": "japanese-age-counter",
     "file_name": "counting_age",
     "icon": "cake"
   },
   {
     "title": "Days",
+    "slug": "japanese-days-of-month",
     "file_name": "counting_days",
     "icon": "calendar_today"
   },
-   {
+  {
     "title": "Months",
+    "slug": "japanese-months",
     "file_name": "counting_months",
     "icon": "date_range"
   },
-   {
+  {
     "title": "Years",
+    "slug": "japanese-years",
     "file_name": "counting_years",
     "icon": "event"
   },
-   {
+  {
     "title": "Dates",
+    "slug": "japanese-calendar-dates",
     "file_name": "calendar_dates",
     "icon": "today"
   },
-   {
+  {
     "title": "Time",
+    "slug": "telling-time-in-japanese",
     "file_name": "telling_time",
     "icon": "schedule"
   },
   {
     "title": "Counting things (つ)",
+    "slug": "japanese-counter-tsu",
     "file_name": "counting_things",
     "icon": "format_list_numbered"
   },
   {
     "title": "Counting people",
+    "slug": "japanese-counter-for-people",
     "file_name": "counting_people",
     "icon": "groups"
   },
   {
     "title": "Counting small items",
+    "slug": "japanese-counter-for-small-objects",
     "file_name": "counting_small_items",
     "icon": "inventory_2"
   },
   {
     "title": "Counting flat objects",
+    "slug": "japanese-counter-for-flat-objects",
     "file_name": "counting_flat_objects",
     "icon": "crop_landscape"
   },
   {
     "title": "Counting long objects",
+    "slug": "japanese-counter-for-long-objects",
     "file_name": "counting_long_objects",
     "icon": "straighten"
   },
   {
     "title": "Counting animals",
+    "slug": "japanese-counter-for-animals",
     "file_name": "counting_animals",
     "icon": "pets"
   },
   {
     "title": "Counting birds",
+    "slug": "japanese-counter-for-birds",
     "file_name": "counting_birds",
     "icon": "flutter_dash"
   },
   {
     "title": "Counting large animals",
+    "slug": "japanese-counter-for-large-animals",
     "file_name": "counting_large_animals",
     "icon": "agriculture"
   },
   {
     "title": "Counting machines",
+    "slug": "japanese-counter-for-machines",
     "file_name": "counting_machines",
     "icon": "precision_manufacturing"
   },
   {
     "title": "Counting books",
+    "slug": "japanese-counter-for-books",
     "file_name": "counting_books",
     "icon": "menu_book"
   },
   {
     "title": "Counting floors",
+    "slug": "japanese-counter-for-floors",
     "file_name": "counting_floors",
     "icon": "apartment"
   },
   {
     "title": "Counting houses",
+    "slug": "japanese-counter-for-houses",
     "file_name": "counting_houses",
     "icon": "home"
   },
   {
     "title": "Counting cups",
+    "slug": "japanese-counter-for-cups",
     "file_name": "counting_cups",
     "icon": "local_cafe"
   },
   {
     "title": "Counting clothes",
+    "slug": "japanese-counter-for-clothes",
     "file_name": "counting_clothes",
     "icon": "checkroom"
   },
   {
     "title": "Counting occurrences",
+    "slug": "japanese-counter-for-occurrences",
     "file_name": "counting_occurrences",
     "icon": "repeat"
   },
   {
     "title": "Counting pairs",
+    "slug": "japanese-counter-for-pairs",
     "file_name": "counting_pairs",
     "icon": "hiking"
   },
   {
     "title": "Counting letters",
+    "slug": "japanese-counter-for-letters",
     "file_name": "counting_letters",
     "icon": "mail"
   },
   {
     "title": "Counting order numbers",
+    "slug": "japanese-ordinal-numbers",
     "file_name": "counting_order_numbers",
     "icon": "format_list_numbered_rtl"
   },
   {
     "title": "Counting train cars",
+    "slug": "japanese-counter-for-train-cars",
     "file_name": "counting_train_cars",
     "icon": "train"
   }
